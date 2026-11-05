@@ -395,7 +395,7 @@
   const layer = id => { const g = el("g", { id: "L-" + id }); gGeo.append(g); return g; };
   const lLand = layer("land"), lDesert = layer("desert"), lTerr = layer("terr"), lHatch = layer("hatch"), lPolB = layer("polb"), lRegion = layer("region"),
         lWater = layer("water"), lProv = layer("prov"), lBorder = layer("border"), lRange = layer("range"),
-        lRiver = layer("river"), lCanal = layer("canal"), lHit = layer("hit");
+        lRiver = layer("river"), lCanal = layer("canal"), lVeil = layer("veil"), lHit = layer("hit");
   // 斜线纹样（割据）
   {
     var hatchPat = el("pattern", { id: "hatch", width: 7, height: 7, patternUnits: "userSpaceOnUse", patternTransform: "rotate(45)" });
@@ -414,9 +414,25 @@
   lLand.append(el("path", { d: landD, fill: "none", stroke: "var(--coast)", "stroke-width": .8, "vector-effect": "non-scaling-stroke", "stroke-linejoin": "round" }));
   {
     const d = [];
-    for (let lo = 15; lo <= 145; lo += 5) { const pts = []; for (let la = 10; la <= 62; la += 1) pts.push(proj(lo, la)); d.push(P(pts, false)); }
-    for (let la = 10; la <= 60; la += 5) { const pts = []; for (let lo = 14; lo <= 146; lo += 1) pts.push(proj(lo, la)); d.push(P(pts, false)); }
+    const [bw, be, bs, bn] = GEO.base;
+    for (let lo = Math.ceil(bw / 5) * 5; lo <= be; lo += 5) { const pts = []; for (let la = bs; la <= bn; la += 1) pts.push(proj(lo, la)); d.push(P(pts, false)); }
+    for (let la = Math.ceil(bs / 5) * 5; la <= bn; la += 5) { const pts = []; for (let lo = bw; lo <= be; lo += 1) pts.push(proj(lo, la)); d.push(P(pts, false)); }
     lLand.append(el("path", { d: d.join(" "), fill: "none", stroke: "var(--border)", "stroke-width": 1, "stroke-dasharray": "1 4", opacity: .4, "vector-effect": "non-scaling-stroke" }));
+  }
+  // 疆域只在 GEO.ext 范围内推算；范围外的陆地照常画底图，但罩一层薄纸色并以虚线标出范围
+  {
+    const [e0, e1, e2, e3] = GEO.ext, [b0, b1, b2, b3] = GEO.base;
+    // 纬线在圆锥投影里是圆弧，按 0.5° 取点，和疆域栅格的边缘贴合
+    const ring = (lo0, lo1, la0, la1) => { const o = [], st = .5;
+      for (let x = lo0; x < lo1; x += st) o.push([x, la1]);
+      for (let y = la1; y > la0; y -= st) o.push([lo1, y]);
+      for (let x = lo1; x > lo0; x -= st) o.push([x, la0]);
+      for (let y = la0; y < la1; y += st) o.push([lo0, y]);
+      return o.map(p => proj(p[0], p[1])); };
+    const inner = ring(e0, e1, e2, e3), outer = ring(b0 - 20, b1 + 20, b2 - 20, Math.min(89, b3 + 6));
+    lVeil.setAttribute("clip-path", "url(#landclip)");
+    lVeil.append(el("path", { d: P(outer, true) + " " + P(inner, true), fill: "var(--land)", "fill-rule": "evenodd", opacity: .5, "pointer-events": "none" }));
+    lVeil.append(el("path", { d: P(inner, true), fill: "none", stroke: "var(--ink-3)", "stroke-width": .8, "stroke-dasharray": "5 4", opacity: .55, "vector-effect": "non-scaling-stroke", "pointer-events": "none" }));
   }
   lTerr.setAttribute("clip-path", "url(#landclip)"); lHatch.setAttribute("clip-path", "url(#landclip)"); lPolB.setAttribute("clip-path", "url(#landclip)"); lRegion.setAttribute("clip-path", "url(#landclip)");
   // 荒漠

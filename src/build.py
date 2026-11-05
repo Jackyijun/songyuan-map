@@ -636,8 +636,18 @@ print("min neighbour colour distance", round(float(mind), 3))
 # ======================================================================
 # 8. 底图要素与条目
 # ======================================================================
+# 底图（陆地、河湖、今国界）画到 BASE_EXTENT，比疆域范围大得多；疆域仍只在 EXTENT 内计算
+BLON0, BLON1, BLAT0, BLAT1 = C.BASE_EXTENT
+BASEBOX = box(BLON0, BLAT0, BLON1, BLAT1)
+_lb = []
+for nm in ("ne_10m_land", "ne_10m_minor_islands"):
+    for f in ne(nm)["features"]:
+        if not f["geometry"]: continue
+        g = shape(f["geometry"])
+        if g.intersects(BASEBOX): _lb += polys_of(g.intersection(BASEBOX))
+landB = unary_union(_lb)
 LAND_OUT = []
-for p in polys_of(landU.intersection(box(LON0 - 0.5, LAT0 - 0.5, LON1 + 0.5, LAT1 + 0.5))):
+for p in polys_of(landB):
     p = p.simplify(C.SIMPLIFY_LAND)
     if p.is_empty or p.area < C.LAND_MIN_AREA: continue
     for q in polys_of(p):
@@ -647,10 +657,10 @@ print("land polys", len(LAND_OUT))
 
 # 今国界：由中国视角版国界多边形求相邻边（海岸线不画）
 CTRY = [shape(f["geometry"]) for f in ne("ne_10m_admin_0_countries_chn")["features"] if f["geometry"]]
-CTRY = [g.intersection(BB) for g in CTRY if g.intersects(BB)]
-coastbuf = landU.boundary.buffer(0.03)
+CTRY = [g.intersection(BASEBOX) for g in CTRY if g.intersects(BASEBOX)]
+coastbuf = landB.boundary.buffer(0.03)
 BORDER = []
-_bl = unary_union([g.boundary for g in CTRY]).difference(coastbuf).intersection(EXT_BOX)
+_bl = unary_union([g.boundary for g in CTRY]).difference(coastbuf).intersection(BASEBOX)
 for ls in lines_of(shapely.line_merge(_bl) if not _bl.is_empty else _bl):
     ls = ls.simplify(C.SIMPLIFY_BORDER)
     if ls.length > 0.08: BORDER.append(enc_ring(list(ls.coords)))
@@ -662,11 +672,21 @@ ITEMS = []
 def add_item(d): d["i"] = len(ITEMS); ITEMS.append(d); return d["i"]
 
 # 河流：Natural Earth 河道 + 手绘古河道，按古名合并为条目
+# 输出用的河道取底图范围（计算代价用的 NE_RV 仍只取疆域范围）
+NE_RV_OUT = []
+for f in ne("ne_10m_rivers_lake_centerlines")["features"]:
+    g = f["geometry"]
+    if not g: continue
+    gg = shape(g)
+    if not gg.intersects(BASEBOX): continue
+    p = f["properties"]
+    for ls in lines_of(gg.intersection(BASEBOX)):
+        NE_RV_OUT.append((p.get("name"), p.get("scalerank"), ls))
 RIVERS = []
 river_item = {}
 def river_key(n, xs, ys):
     return IM.river_alias(n, xs, ys) if hasattr(IM, "river_alias") else n
-for n, sr, ls in NE_RV:
+for n, sr, ls in NE_RV_OUT:
     pts = list(ls.simplify(C.SIMPLIFY_RIVER).coords)
     if len(pts) < 2: continue
     xs = [x for x, y in pts]; ys = [y for x, y in pts]
@@ -716,8 +736,22 @@ for r in RIVERS:
     RIV_OUT.append(d)
 print("rivers", len(RIV_OUT), "named", len(river_item))
 
+LAKEG_OUT = []
+for f in ne("ne_10m_lakes")["features"]:
+    if not f["geometry"]: continue
+    p = f["properties"]; nm = p.get("name")
+    if nm in SKIP_LAKES: continue
+    if p.get("featurecla") == "Reservoir" and nm not in KEEP_RESERVOIR: continue
+    g = shape(f["geometry"])
+    if g.intersects(BASEBOX): LAKEG_OUT.append((nm, g.intersection(BASEBOX)))
+for f in ne("ne_10m_lakes_historic")["features"]:
+    if not f["geometry"]: continue
+    nm = f["properties"].get("name")
+    if nm in ("Lop Nur", "Aral Sea"):
+        g = shape(f["geometry"])
+        if g.intersects(BASEBOX): LAKEG_OUT.append((nm, g.intersection(BASEBOX)))
 LAKES = []
-for n, g in LAKEG:
+for n, g in LAKEG_OUT:
     info = IM.NE_LAKES.get(n)
     if not info and g.area < 0.03: continue
     for p in polys_of(g.simplify(C.SIMPLIFY_LAKE)):
@@ -833,7 +867,7 @@ print("regions", [(ITEMS[r["it"]]["old"], len(r["rings"])) for r in REG_OUT])
 # ======================================================================
 SEAS = [[n, lo, la, lv] for n, lo, la, lv in getattr(IM, "SEAS", [])]
 GEO = dict(land=LAND_OUT, prov=PROV, border=BORDER, rivers=RIV_OUT, lakes=LAKES, canals=CAN, deserts=DES,
-           pool=POOL, snaps=OUTSN, regions=REG_OUT, routes=ROUTES, seas=SEAS, ext=[LON0, LON1, LAT0, LAT1], proj=list(C.PROJ))
+           pool=POOL, snaps=OUTSN, regions=REG_OUT, routes=ROUTES, seas=SEAS, ext=[LON0, LON1, LAT0, LAT1], base=list(C.BASE_EXTENT), proj=list(C.PROJ))
 UOUT = [dict(k=u["k"], n=u["n"], kind=u["kind"], note=u["note"], cl=LIGHT[i], cd=DARK[i]) for i, u in enumerate(UNITS)]
 SOUT = [dict(id=s["id"], n=s["n"], mod=s["mod"], lon=s["lon"], lat=s["lat"], t=s["t"], **({"nm": s["names"]} if s["names"] else {})) for s in SEEDS]
 DATA = dict(units=UOUT, seeds=SOUT, items=ITEMS)
