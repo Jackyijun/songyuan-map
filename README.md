@@ -22,15 +22,9 @@
 
 ---
 
-## 二、发布到 GitHub Pages
+## 二、线上地址
 
-成品是纯静态单文件，不需要后端。
-
-1. 把整个目录推到一个 GitHub 仓库（如 `songyuan-map`）。
-2. 仓库 Settings → Pages：Source 选 **Deploy from a branch**，Branch 选 **main**，目录选 **/docs**，保存。
-3. 一两分钟后即可在 `https://<用户名>.github.io/songyuan-map/` 访问。
-
-以后每次改完运行 `python run.py`，把 `docs/index.html` 一起提交推送，网页就会自动更新。`docs/.nojekyll` 让 Pages 原样发布，不经 Jekyll 处理。
+https://jackyijun.github.io/songyuan-map/
 
 ---
 
@@ -74,6 +68,8 @@ python run.py --open
 压缩包里已经带了底图数据（`geodata/`，约 43 MB），离线也能构建；删掉后 `run.py` 会自动从 GitHub 下载固定版本（ETOPO 地形另做 sha256 校验）。
 
 同一环境下，同一份输入的构建结果逐字节一致，可以放心用 git 追踪改动。
+
+构建完成后，把 `docs/index.html` 一起提交并推送到 `main`，线上网页会自动更新。
 
 ---
 

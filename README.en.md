@@ -18,15 +18,9 @@ The file is about 4 MB with all data, styles and scripts embedded: no network, n
 - View: the drop-down in the top bar offers the whole map, the Mongol Empire and 16 regions.
 - Language: the "中 | EN" switch at the top right of the map (at the top right of the content in the Timeline and Gazetteer views); the choice is remembered by the browser, and adding `#en` to the URL opens the English version directly. In English the map labels are in English only, while tooltips, the index, the timeline and the gazetteer add the original Chinese characters after each English name. Search works in both languages, and English searches ignore diacritics.
 
-## 2. Publish on GitHub Pages
+## 2. Live site
 
-The result is a single static file and needs no back end.
-
-1. Push the whole directory to a GitHub repository (e.g. `songyuan-map`).
-2. In the repository's Settings → Pages, set Source to **Deploy from a branch**, Branch to **main** and the folder to **/docs**, and save.
-3. After a minute or two the map is live at `https://<username>.github.io/songyuan-map/`.
-
-After each change, run `python run.py` and commit and push `docs/index.html` with it; the site updates automatically. `docs/.nojekyll` makes Pages publish the files as they are, without Jekyll.
+https://jackyijun.github.io/songyuan-map/
 
 ## 3. Build locally
 
@@ -68,6 +62,8 @@ A full build takes about 15–20 minutes (a grid of over two million cells, 61 s
 The archive includes the base data (`geodata/`, about 43 MB), so you can build offline; if you delete it, `run.py` downloads pinned versions from GitHub (the ETOPO relief is also checked against its sha256).
 
 In the same environment the same input always builds byte-for-byte the same output, so changes can be tracked safely with git.
+
+After building, commit `docs/index.html` and push it to `main`; the live site updates automatically.
 
 ## 4. Directory layout
 
