@@ -4,7 +4,7 @@
 
 An interactive historical map of East Asia and Eurasia from the Song reunification to the fall of the Song at Yamen (979–1279), in Chinese and English: the territories of states, circuits, uluses and provinces at 61 snapshots, with historical and modern names for 640 prefectures and towns, from central Europe and Egypt in the west to Japan in the east. It also shows 99 capitals, 145 battles, 15 campaign routes, 30 passes, 58 events, 70 mountain ranges, more than a hundred rivers and lakes, the Sixteen Prefectures of Yan and Yun, and the peoples on the periphery.
 
-It continues the *Tang–Song transition* map (755–979): the colors of the states at the 979 snapshot match the last snapshot of that map.
+It continues the *Between Tang and Song* map (755–979): the colors of the states at the 979 snapshot match the last snapshot of that map.
 
 ## 1. Just look
 
@@ -127,7 +127,7 @@ What the histories can tell us is that "in a given year a given prefecture belon
    - finally a ±38% multi-scale smooth noise, so that boundaries on the plains also wind naturally.
 5. **Multi-source shortest paths**: with all points as sources, one run of `scipy.sparse.csgraph.dijkstra(min_only=True)` on a 16-neighbor land grid (including knight moves) assigns each cell to the point with the lowest cost distance. Cells beyond reach are unclaimed; the outer edges get a morphological closing, small holes filled, Gaussian smoothing, and a smooth displacement field on top.
 6. **Polygons**: for each snapshot, the cells are grouped by allegiance and shared boundaries are traced where the smoothed values of two neighboring groups are equal (junctions of three or more take the mean of the intersections); every boundary is traced once and shared by both sides, then given three rounds of Laplacian smoothing. Shapely's `polygonize` assembles them into a coverage, simplified as a whole with `coverage_simplify`. State and unit borders are built from the same shared edges, so there are no gaps or overlaps. Geometry that does not change between snapshots is stored only once (`GEO.pool`).
-7. **Colors**: states continuing from the Tang–Song map keep that map's colors (`PRESET_HEX`); Jin, the Mongols, the Western Liao, Khwarazm, the Seljuks, Byzantium and the four khanates have fixed hues (`PRESET_COLORS`); the rest are colored greedily from a low-chroma OKLCH palette according to their adjacency across all snapshots. The dark theme lightens them all.
+7. **Colors**: states continuing from the *Between Tang and Song* map keep that map's colors (`PRESET_HEX`); Jin, the Mongols, the Western Liao, Khwarazm, the Seljuks, Byzantium and the four khanates have fixed hues (`PRESET_COLORS`); the rest are colored greedily from a low-chroma OKLCH palette according to their adjacency across all snapshots. The dark theme lightens them all.
 8. **Base map and items**: coasts, modern borders, lakes and deserts come from Natural Earth. The base map extends far beyond the territories, to `BASE_EXTENT` (25°W to 180°E, 11°S to 82°N); land outside the territory extent gets a thin paper-colored veil, and the extent is marked with a dashed line. Rivers are mapped to their historical names through `NE_RIVERS` (Huang → 河, Amu Darya → 阿母河, Volga → 亦的勒河…). The lower Yellow River is drawn in three courses by date: the old Jingdong channel (until 1048), the northern course (1048–1128) and the southern course into the Huai (after 1128); the modern river east of Zhengzhou is drawn dashed.
 
 ### The front end (`src/template.html`)
@@ -228,7 +228,7 @@ Chinese is the source text; the English is kept under the same keys in `content/
 ## 9. Sources and reliability
 
 - **Base map**: [Natural Earth](https://www.naturalearthdata.com/) 1:10m vector data (public domain), pinned at commit `ca96624`; ETOPO20 relief from the sample data of matplotlib basemap v1.4.1.
-- **Modern provinces**: the simplified provincial borders of the Tang–Song transition map.
+- **Modern provinces**: the simplified provincial borders of the *Between Tang and Song* map.
 - **Historical sources**: for China, the Song, Liao, Jin and Yuan dynastic histories, the *Xu zizhi tongjian changbian* and the *Jianyan yilai xinian yaolu*, following in outline vols. 6–7 of Tan Qixiang's *Historical Atlas of China*; for Central Asia, West Asia and Europe, standard historical atlases and general national histories.
 - **Limitations**:
   - Borders are indicative lines inferred from the allegiance of prefectures and towns, not researched historical boundaries.

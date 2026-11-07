@@ -52,6 +52,7 @@
 | 蒙古 兀鲁思 | Ulus of X | 术赤兀鲁思 Ulus of Jochi |
 | 元 行省 | X Province | 岭北 Lingbei Province |
 | 府界 | Capital District | 开封府界 Kaifeng Capital District |
+| 节度使的军号（定难军、归义军） | X Jun，分写不意译 | 定难军 Dingnan Jun、归义军 Guiyi Jun（与《唐宋之际形势图》一致；circuit 只用于“路”“道”） |
 | 伪齐 | Qi (Jin client state) | 地图短名 Qi |
 
 ## 四、人名、政权、王朝
