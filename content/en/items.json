@@ -1,0 +1,3902 @@
+{
+ "battle:太原之战": {
+  "old": "Battle of Taiyuan",
+  "mod": "Jinyuan District, Taiyuan, Shanxi",
+  "yt": "5th month, 979",
+  "sides": "Song defeated Northern Han",
+  "cmd": "Emperor Taizong of Song vs. Liu Jiyuan",
+  "note": "Emperor Taizong of Song led the campaign himself. After first driving back a Liao relief army at Shiling Pass, he besieged the city for months until the Northern Han ruler Liu Jiyuan came out to surrender. Song then razed the city of Jinyang and moved the prefectural seat to Tangming Town."
+ },
+ "battle:高梁河之战": {
+  "old": "Battle of the Gaoliang River",
+  "mod": "outside Xizhimen, Beijing",
+  "yt": "7th month, 979",
+  "sides": "Liao defeated Song",
+  "cmd": "Yelü Xiuge and Yelü Xiezhen vs. Emperor Taizong of Song",
+  "note": "After half a month besieging Youzhou in vain, the Song army was caught between Liao relief forces at the Gaoliang River and routed; Emperor Taizong, with two arrows in his thigh, fled south in a donkey cart."
+ },
+ "battle:白藤江之战": {
+  "old": "Battle of Bạch Đằng (981)",
+  "mod": "Bạch Đằng River, Quảng Ninh, Vietnam",
+  "yt": "spring 981",
+  "sides": "Đại Cồ Việt defeated Song",
+  "cmd": "Lê Hoàn vs. Hou Renbao",
+  "note": "Song sent an army to exploit the turmoil in the Đinh family in Jiaozhou; Lê Hoàn feigned surrender, lured Hou Renbao into a trap and killed him, and the Song army retreated. Lê Hoàn then sent envoys to submit as a vassal, and Song recognized his rule."
+ },
+ "battle:岐沟关之战": {
+  "old": "Battle of Qigou Pass",
+  "mod": "southwest of Zhuozhou, Hebei",
+  "yt": "5th month, 986",
+  "sides": "Liao defeated Song",
+  "cmd": "Yelü Xiuge vs. Cao Bin",
+  "note": "In the Yongxi northern expedition the main eastern army pushed rashly on to Zhuozhou; when its grain ran out it fell back and was pursued by the Liao army at Qigou Pass, and countless men drowned in the Juma River."
+ },
+ "battle:陈家谷之战": {
+  "old": "Battle of Chenjia Valley",
+  "mod": "south of Shuozhou, Shanxi",
+  "yt": "7th month, 986",
+  "sides": "Liao defeated Song",
+  "cmd": "Yelü Xiezhen vs. Yang Ye",
+  "note": "Yang Ye was covering the evacuation of soldiers and civilians from four prefectures when the army supervisor Wang Shen forced him to give battle. The relief troops who were to meet him at the mouth of Chenjia Valley had already dispersed; he fought hard, was captured, and starved himself to death three days later."
+ },
+ "battle:君子馆之战": {
+  "old": "Battle of Junziguan",
+  "mod": "north of Hejian, Hebei",
+  "yt": "12th month, 986",
+  "sides": "Liao defeated Song",
+  "cmd": "Yelü Xiuge vs. Liu Tingrang",
+  "note": "The victorious Liao army pushed south; in the bitter cold the Song soldiers could not draw their bows and crossbows, and the whole army was lost. From then on Hebei lived in fear of Liao."
+ },
+ "battle:徐河之战": {
+  "old": "Battle of the Xu River",
+  "mod": "Xushui, Baoding, Hebei",
+  "yt": "7th month, 989",
+  "sides": "Song defeated Liao",
+  "cmd": "Yin Jilun vs. Yelü Xiuge",
+  "note": "Yin Jilun shadowed the Liao army with a thousand-odd horsemen and raided its camp at night; Yelü Xiuge was wounded by a blade, and for years afterwards the Liao army dared not push deep."
+ },
+ "battle:遂城之战": {
+  "old": "Battle of Suicheng",
+  "mod": "Suicheng, Xushui, Baoding, Hebei",
+  "yt": "winter 999",
+  "sides": "Song defeated Liao",
+  "cmd": "Yang Yanzhao vs. Empress Dowager Xiao",
+  "note": "In the cold, Yang Yanzhao poured water over the walls; overnight they froze hard and slippery, the Liao army could not storm them and withdrew, and the town was called \"Iron Suicheng\"."
+ },
+ "battle:灵州之战": {
+  "old": "Battle of Lingzhou (1002)",
+  "mod": "Wuzhong, Ningxia",
+  "yt": "3rd month, 1002",
+  "sides": "Tanguts defeated Song",
+  "cmd": "Li Jiqian vs. Pei Ji",
+  "note": "Li Jiqian besieged Lingzhou, isolated beyond the frontier, and cut its supply lines; the city fell and its prefect Pei Ji was killed. The Tanguts thereby gained control of the Ordos."
+ },
+ "battle:望都之战": {
+  "old": "Battle of Wangdu",
+  "mod": "Wangdu, Baoding, Hebei",
+  "yt": "4th month, 1003",
+  "sides": "Liao defeated Song",
+  "cmd": "Xiao Talin vs. Wang Jizhong",
+  "note": "The Song deputy commander Wang Jizhong was defeated and captured; later, at the Liao court, he helped bring about the Treaty of Chanyuan."
+ },
+ "battle:西凉府之战": {
+  "old": "Battle of Xiliang Fu",
+  "mod": "Wuwei, Gansu",
+  "yt": "1004",
+  "sides": "Six Valleys tribes defeated the Tanguts",
+  "cmd": "Panluozhi vs. Li Jiqian",
+  "note": "Li Jiqian took Xiliang Fu; Panluozhi, leader of the Six Valleys tribes, feigned surrender and set an ambush in which Li Jiqian was shot, and he died of his wounds soon after."
+ },
+ "battle:澶州之战": {
+  "old": "Battle of Chanzhou",
+  "mod": "Puyang, Henan",
+  "yt": "11th month, 1004",
+  "sides": "Song defeated Liao",
+  "cmd": "Li Jilong vs. Xiao Talin",
+  "note": "The Liao army reached the northern city of Chanzhou, where a Song bed-crossbow killed the Liao commander Xiao Talin and Liao morale sank; Emperor Zhenzong crossed the river and mounted the gate tower of the northern city, raising Song spirits, and peace talks followed."
+ },
+ "battle:通州之战": {
+  "old": "Battle of Tongju",
+  "mod": "Sonchon, North Pyongan, North Korea",
+  "yt": "11th month, 1010",
+  "sides": "Liao defeated Goryeo",
+  "cmd": "Emperor Shengzong of Liao vs. Gang Jo",
+  "note": "The Liao emperor invaded Goryeo in person on the pretext that Gang Jo had murdered his king, crushed Gang Jo, and then broke into Gaegyeong and plundered it."
+ },
+ "battle:克雷迪昂之战": {
+  "old": "Battle of Kleidion",
+  "mod": "Klyuch, Bulgaria–North Macedonia border",
+  "yt": "July 1014",
+  "sides": "Byzantium defeated Bulgaria",
+  "cmd": "Basil II vs. Samuel",
+  "note": "The Byzantine army got behind the pass and attacked from both sides, capturing 14,000 Bulgarians. Basil II ordered ninety-nine of every hundred blinded and the hundredth left one eye to lead them home; Samuel died of shock at the sight."
+ },
+ "battle:龟州大捷": {
+  "old": "Battle of Gwiju",
+  "mod": "Kusong, North Pyongan, North Korea",
+  "yt": "2nd month, 1019",
+  "sides": "Goryeo defeated Liao",
+  "cmd": "Gang Gam-chan vs. Xiao Paiya",
+  "note": "A Liao army of 100,000 that had pushed deep into Goryeo was falling back when Gang Gam-chan intercepted it at Gwiju (on the Cha and Tuo rivers); only a few thousand Liao soldiers survived, and Liao and Goryeo afterwards made peace."
+ },
+ "battle:甘州之战": {
+  "old": "Battle of Ganzhou",
+  "mod": "Zhangye, Gansu",
+  "yt": "1028",
+  "sides": "Tanguts defeated the Ganzhou Uyghurs",
+  "cmd": "Li Yuanhao vs. the Ganzhou khagan",
+  "note": "Li Yuanhao made a lightning raid on Ganzhou; the khagan burned himself to death and the Ganzhou Uyghurs came to an end, giving the Tanguts control of the middle Hexi Corridor."
+ },
+ "battle:宗哥城之战": {
+  "old": "Battle of Zongge",
+  "mod": "Ping'an, Haidong, Qinghai",
+  "yt": "1035",
+  "sides": "Gusiluo defeated Western Xia",
+  "cmd": "Gusiluo vs. Li Yuanhao",
+  "note": "Yuanhao attacked Qingtang, and Gusiluo held the city. As Yuanhao crossed the Zongge River he planted flags to mark the shallows, but Gusiluo secretly moved them to deep water; when the Xia army fell back it waded in where the flags stood, and more than half drowned."
+ },
+ "battle:基辅城下之战": {
+  "old": "Battle of Kyiv (1036)",
+  "mod": "Kyiv, Ukraine",
+  "yt": "1036",
+  "sides": "Rus' defeated the Pechenegs",
+  "cmd": "Yaroslav vs. the Pechenegs",
+  "note": "The Pechenegs besieged Kyiv in force; Yaroslav routed them, and they never again threatened Rus'. The Cathedral of Saint Sophia was built on the battlefield."
+ },
+ "battle:三川口之战": {
+  "old": "Battle of Sanchuankou",
+  "mod": "northwest of Yan'an, Shaanxi",
+  "yt": "1st month, 1040",
+  "sides": "Western Xia defeated Song",
+  "cmd": "Li Yuanhao vs. Liu Ping and Shi Yuansun",
+  "note": "Yuanhao feinted at Bao'an Jun and struck at Yanzhou; the Song relief force under Liu Ping and Shi Yuansun marched in haste to Sanchuankou, ran into an ambush and was wiped out, and both generals were captured."
+ },
+ "battle:丹丹坎之战": {
+  "old": "Battle of Dandanaqan",
+  "mod": "southwest of Mary, Turkmenistan",
+  "yt": "May 1040",
+  "sides": "Seljuks defeated the Ghaznavids",
+  "cmd": "Tughril and Chaghri vs. Mas'ud",
+  "note": "Seljuk horsemen cut off the Ghaznavid army's water for three days outside the desert fort of Dandanaqan; the great Ghaznavid army collapsed, and the Seljuk empire was founded."
+ },
+ "battle:好水川之战": {
+  "old": "Battle of Haoshuichuan",
+  "mod": "northwest of Longde, Ningxia",
+  "yt": "2nd month, 1041",
+  "sides": "Western Xia defeated Song",
+  "cmd": "Li Yuanhao vs. Ren Fu",
+  "note": "Yuanhao left clay boxes holding pigeons with whistles beside the road; when the Song soldiers opened them the birds flew up as a signal, the ambush sprang from all sides, and more than ten thousand men, from Ren Fu down, were killed."
+ },
+ "battle:定川寨之战": {
+  "old": "Battle of Dingchuan Fort",
+  "mod": "northwest of Guyuan, Ningxia",
+  "yt": "intercalary 9th month, 1042",
+  "sides": "Western Xia defeated Song",
+  "cmd": "Li Yuanhao vs. Ge Huaimin",
+  "note": "Ge Huaimin was lured into Dingchuan Fort; the Xia army cut off his water, his whole army collapsed as it tried to break out, and the Xia advanced as far as Weizhou."
+ },
+ "battle:河曲之战": {
+  "old": "Battle of Hequ",
+  "mod": "Yellow River bend, Ordos, Inner Mongolia",
+  "yt": "10th month, 1044",
+  "sides": "Western Xia defeated Liao",
+  "cmd": "Li Yuanhao vs. Emperor Xingzong of Liao",
+  "note": "Emperor Xingzong of Liao led 100,000 men against Xia in person; Yuanhao emptied the countryside, stalled with a feigned surrender, and struck back when the Liao horses were hungry and worn out, winning a great victory."
+ },
+ "battle:昆仑关之战": {
+  "old": "Battle of Kunlun Pass",
+  "mod": "between Binyang and Xingning, Nanning, Guangxi",
+  "yt": "1st month, 1053",
+  "sides": "Song defeated Nong Zhigao",
+  "cmd": "Di Qing vs. Nong Zhigao",
+  "note": "On the night of the Lantern Festival Di Qing gave a great banquet for his officers, then at midnight led his army through Kunlun Pass in the rain; the next day his cavalry routed Nong Zhigao at Guirenpu, and Nong Zhigao fled to Dali."
+ },
+ "battle:阿尼之围": {
+  "old": "Siege of Ani",
+  "mod": "Ani ruins, east of Kars, Turkey",
+  "yt": "August 1064",
+  "sides": "Seljuks defeated Byzantium (city fell)",
+  "cmd": "Alp Arslan vs. the Byzantine garrison",
+  "note": "The Seljuk sultan took the city after a twenty-five-day siege and massacred its people; the old Armenian capital never recovered."
+ },
+ "battle:曼齐刻尔特之战": {
+  "old": "Battle of Manzikert",
+  "mod": "Malazgirt, Muş, Turkey",
+  "yt": "August 1071",
+  "sides": "Seljuks defeated Byzantium",
+  "cmd": "Alp Arslan vs. Romanos IV",
+  "note": "The Byzantine mercenaries fled in the face of battle and Emperor Romanos IV was captured (and soon released); the gates of Anatolia lay open, and the Turks poured into Asia Minor."
+ },
+ "battle:巴里之围": {
+  "old": "Siege of Bari",
+  "mod": "Bari, Italy",
+  "yt": "1068–1071",
+  "sides": "Normans defeated Byzantium (city fell)",
+  "cmd": "Robert Guiscard vs. the Byzantine garrison",
+  "note": "After a siege of nearly three years Bari surrendered to the Normans, ending Byzantine rule in Italy."
+ },
+ "battle:熙河之役": {
+  "old": "Xihe campaign",
+  "mod": "Linxia, Gansu",
+  "yt": "1072–1073",
+  "sides": "Song defeated the Tibetan tribes",
+  "cmd": "Wang Shao vs. Muzheng",
+  "note": "Following his \"Plan for Pacifying the Rong\", Wang Shao won over the Qingtang tribes, first taking Wusheng City and making it Xizhou, then in 1073 taking the He, Tao and Min prefectures, extending the frontier by over two thousand li."
+ },
+ "battle:邕州之战": {
+  "old": "Siege of Yongzhou",
+  "mod": "Nanning, Guangxi",
+  "yt": "winter 1075 – 1st month, 1076",
+  "sides": "Đại Việt defeated Song (city fell)",
+  "cmd": "Lý Thường Kiệt vs. Su Jian",
+  "note": "A Đại Việt army of 100,000 besieged Yongzhou for forty-two days; when the city fell its prefect Su Jian burned himself to death with his family, and the attackers massacred over 50,000 people."
+ },
+ "battle:富良江之战": {
+  "old": "Battle of the Phú Lương River",
+  "mod": "Như Nguyệt River, Bắc Ninh, Vietnam",
+  "yt": "winter 1076 – spring 1077",
+  "sides": "Song defeated Đại Việt",
+  "cmd": "Guo Kui vs. Lý Thường Kiệt",
+  "note": "On their southern campaign the Song troops routed the Đại Việt army on the north bank of the Phú Lương River, but with disease raging they could not cross; they took Quảng Nguyên Châu and other places and withdrew, and the Lý court soon sued for peace."
+ },
+ "battle:元丰灵州之战": {
+  "old": "Battle of Lingzhou (1081)",
+  "mod": "Wuzhong, Ningxia",
+  "yt": "winter 1081",
+  "sides": "Western Xia defeated Song",
+  "cmd": "Liang Yimai vs. Gao Zunyu and Liu Changzuo",
+  "note": "In the five-pronged campaign against Xia, two Song columns besieged Lingzhou for eighteen days without taking it; the Xia breached the Yellow River dikes to flood their camps, and great numbers of Song soldiers froze or drowned."
+ },
+ "battle:永乐城之战": {
+  "old": "Battle of Yongle",
+  "mod": "northwest of Mizhi, Shaanxi",
+  "yt": "9th month, 1082",
+  "sides": "Western Xia defeated Song (city fell)",
+  "cmd": "Empress Dowager Liang vs. Xu Xi",
+  "note": "Song built Yongle in the Hengshan range to press on Xia; 300,000 Xia troops besieged it and cut off its water, \"more than half died of thirst\", the fort fell and Xu Xi was killed."
+ },
+ "battle:都拉佐之战": {
+  "old": "Battle of Dyrrhachium (1081)",
+  "mod": "Durrës, Albania",
+  "yt": "October 1081",
+  "sides": "Normans defeated Byzantium",
+  "cmd": "Robert Guiscard vs. Alexios I",
+  "note": "The Normans crossed the Adriatic to invade the Balkans and routed the Varangian Guard of Alexios I."
+ },
+ "battle:列翁尼昂之战": {
+  "old": "Battle of Levounion",
+  "mod": "south of Edirne, Turkey",
+  "yt": "April 1091",
+  "sides": "Byzantium and the Cumans defeated the Pechenegs",
+  "cmd": "Alexios I vs. the Pechenegs",
+  "note": "Byzantium and the Cumans together wiped out the Pechenegs who had pushed deep into Thrace, and the Pechenegs disappeared as an independent people."
+ },
+ "battle:多里留姆之战": {
+  "old": "Battle of Dorylaeum",
+  "mod": "Eskişehir, Turkey",
+  "yt": "July 1097",
+  "sides": "Crusaders defeated Rum",
+  "cmd": "Bohemond and Godfrey vs. Kilij Arslan I",
+  "note": "The First Crusade's first field victory in Anatolia, opening the road across Asia Minor."
+ },
+ "battle:安条克之战": {
+  "old": "Siege of Antioch",
+  "mod": "Antakya, Turkey",
+  "yt": "October 1097 – June 1098",
+  "sides": "Crusaders defeated the Seljuks",
+  "cmd": "Bohemond vs. Kerbogha",
+  "note": "The Crusaders besieged the city for eight months and took it through treachery inside; at once they were themselves besieged by Kerbogha, governor of Mosul, and in desperate straits sallied out and won a great victory."
+ },
+ "battle:耶路撒冷之围": {
+  "old": "Siege of Jerusalem (1099)",
+  "mod": "Jerusalem",
+  "yt": "June–July 1099",
+  "sides": "Crusaders defeated the Fatimids (city fell)",
+  "cmd": "Godfrey and Raymond vs. Iftikhar al-Dawla",
+  "note": "The Crusaders scaled the walls from siege towers and, when the city fell, massacred its Muslim and Jewish inhabitants."
+ },
+ "battle:平夏城之战": {
+  "old": "Battle of Pingxia",
+  "mod": "north of Guyuan, Ningxia",
+  "yt": "winter 1098",
+  "sides": "Song defeated Western Xia",
+  "cmd": "Zhang Jie and Guo Cheng vs. Empress Dowager Liang",
+  "note": "Empress Dowager Liang led several hundred thousand troops against the newly built Song fort of Pingxia but failed to take it in thirteen days; a great wind wrecked her siege engines and the Xia army broke and fled. The next year Song also captured the famous Xia general Weiming Amai."
+ },
+ "battle:哈兰之战": {
+  "old": "Battle of Harran",
+  "mod": "Harran, Turkey",
+  "yt": "May 1104",
+  "sides": "Seljuks defeated the Crusaders",
+  "cmd": "Sökmen and Jikirmish vs. Baldwin II",
+  "note": "Attacking Harran, the Crusaders fell into a trap and were badly defeated; Count Baldwin II of Edessa was captured, and Crusader expansion eastward was checked."
+ },
+ "battle:宁江州之战": {
+  "old": "Battle of Ningjiang",
+  "mod": "Songyuan, Jilin",
+  "yt": "9th–10th month, 1114",
+  "sides": "Jurchens defeated Liao",
+  "cmd": "Wanyan Aguda vs. Yelü Xieshi",
+  "note": "Aguda rose with 2,500 men on the Lailiu River and took Ningjiang Zhou; the Jurchen revolt against Liao had begun."
+ },
+ "battle:出河店之战": {
+  "old": "Battle of Chuhedian",
+  "mod": "west of Zhaoyuan, Heilongjiang",
+  "yt": "11th month, 1114",
+  "sides": "Jurchens defeated Liao",
+  "cmd": "Wanyan Aguda vs. Xiao Sixian",
+  "note": "A Liao army of 100,000 was camped at Chuhedian when 3,700 Jurchen horsemen crossed the river in a gale as it froze and attacked by night; the Liao army was routed, and the Jurchen forces reached ten thousand for the first time."
+ },
+ "battle:护步达冈之战": {
+  "old": "Battle of Hubudagang",
+  "mod": "west of Wuchang, Heilongjiang",
+  "yt": "12th month, 1115",
+  "sides": "Jin defeated Liao",
+  "cmd": "Wanyan Aguda vs. Emperor Tianzuo",
+  "note": "Emperor Tianzuo led a great army east in person but turned back because of the rebellion of Yelü Zhangnu; Aguda pursued with 20,000 horsemen and crushed the Liao army, and Liao never recovered."
+ },
+ "battle:东京之战": {
+  "old": "Battle of the Eastern Capital",
+  "mod": "Liaoyang, Liaoning",
+  "yt": "5th month, 1116",
+  "sides": "Jin defeated the Balhae rebels (Gao Yongchang)",
+  "cmd": "Wanyan Wolu vs. Gao Yongchang",
+  "note": "Gao Yongchang held the Eastern Capital and proclaimed himself emperor of Great Balhae; the Jin army entered Liaodong on the pretext of helping him, beheaded him, and took the whole Liao Eastern Capital Circuit."
+ },
+ "battle:血地之战": {
+  "old": "Battle of the Field of Blood",
+  "mod": "west of Aleppo, Syria",
+  "yt": "June 1119",
+  "sides": "Aleppo defeated Antioch",
+  "cmd": "Ilghazi vs. Roger of Salerno",
+  "note": "Roger, regent of Antioch, rashly gave battle; his whole army was destroyed and he was killed, and the battlefield became known as the \"Field of Blood\"."
+ },
+ "battle:上京之战": {
+  "old": "Battle of the Supreme Capital",
+  "mod": "Bairin Left Banner, Inner Mongolia",
+  "yt": "5th month, 1120",
+  "sides": "Jin defeated Liao (city fell)",
+  "cmd": "Wanyan Aguda vs. Tabuye",
+  "note": "Aguda came before the walls in person and had the Song envoys watch; between dawn and mid-morning he stormed the Liao Supreme Capital."
+ },
+ "battle:迪德戈里之战": {
+  "old": "Battle of Didgori",
+  "mod": "west of Tbilisi, Georgia",
+  "yt": "August 1121",
+  "sides": "Georgia defeated the Seljuk coalition",
+  "cmd": "David IV vs. Ilghazi",
+  "note": "With Kipchak mercenaries as his main force, David IV routed a Muslim coalition several times larger than his own, and the next year he recovered Tbilisi."
+ },
+ "battle:白沟之战": {
+  "old": "Battle of Baigou",
+  "mod": "Baigou, Gaobeidian, Hebei",
+  "yt": "5th month, 1122",
+  "sides": "Northern Liao defeated Song",
+  "cmd": "Yelü Dashi vs. Chong Shidao",
+  "note": "Tong Guan drove 150,000 Song troops against Yan; Chong Shidao's force was beaten by Yelü Dashi at Baigou and Xin Xingzong's by Xiao Gan at Fancun, and they fell back to Xiongzhou."
+ },
+ "battle:燕京之战": {
+  "old": "Battle of Yanjing",
+  "mod": "southwest Beijing",
+  "yt": "10th month, 1122",
+  "sides": "Northern Liao defeated Song",
+  "cmd": "Xiao Gan vs. Liu Yanqing and Guo Yaoshi",
+  "note": "Guo Yaoshi broke into Yanjing in a surprise attack, but relief never came during the street fighting and Xiao Gan drove him out; hearing the news, Liu Yanqing burned his camp and fled."
+ },
+ "battle:太原之围": {
+  "old": "Siege of Taiyuan",
+  "mod": "Jinyuan District, Taiyuan, Shanxi",
+  "yt": "12th month, 1125 – 9th month, 1126",
+  "sides": "Jin defeated Song (city fell)",
+  "cmd": "Wanyan Zonghan vs. Wang Bing",
+  "note": "The western Jin army besieged Taiyuan for 250 days; three Song relief armies were all defeated, the city's food ran out, and Wang Bing drowned himself in the Fen."
+ },
+ "battle:汴京保卫战": {
+  "old": "Defense of Bianjing",
+  "mod": "Kaifeng, Henan",
+  "yt": "1st month, 1126",
+  "sides": "Song defeated Jin (Jin withdrew north after a negotiated settlement)",
+  "cmd": "Li Gang vs. Wanyan Zongwang",
+  "note": "The eastern Jin army crossed the river and besieged Bianjing; Li Gang directed its defense while Chong Shidao's loyalist relief army gathered, and the Jin army lifted the siege after being promised the cession of three garrison prefectures and vast sums of gold and silk."
+ },
+ "battle:黄天荡之战": {
+  "old": "Battle of Huangtiandang",
+  "mod": "northeast of Nanjing, Jiangsu",
+  "yt": "3rd–4th month, 1130",
+  "sides": "Song defeated Jin",
+  "cmd": "Han Shizhong vs. Wanyan Zongbi",
+  "note": "Han Shizhong, with 8,000 marines, trapped Wuzhu's 100,000 men retreating north at Huangtiandang on the Yangtze for forty-eight days; Wuzhu escaped only by digging thirty li along the old channel of the Laoguan River."
+ },
+ "battle:富平之战": {
+  "old": "Battle of Fuping",
+  "mod": "Fuping, Weinan, Shaanxi",
+  "yt": "9th month, 1130",
+  "sides": "Jin defeated Song",
+  "cmd": "Wanyan Loushi and Wanyan Zongbi vs. Zhang Jun",
+  "note": "Zhang Jun gathered 400,000 men from five circuits to tie down the Jin army and drew them up at Fuping behind a reed marsh; the Jin filled in the marsh and charged, the five circuits' armies broke, and most of Guanzhong and Shaanxi was lost."
+ },
+ "battle:和尚原之战": {
+  "old": "Battle of Heshangyuan",
+  "mod": "southwest of Baoji, Shaanxi",
+  "yt": "10th month, 1131",
+  "sides": "Song defeated Jin",
+  "cmd": "Wu Jie and Wu Lin vs. Wanyan Zongbi",
+  "note": "Wu Jie's \"standing ranks of archers\" shot in relays and routed Wuzhu at Heshangyuan beyond Dasan Pass; Wuzhu, hit by an arrow, shaved his beard and changed his clothes to escape."
+ },
+ "battle:仙人关之战": {
+  "old": "Battle of Xianren Pass",
+  "mod": "southeast of Hui County, Gansu",
+  "yt": "2nd–3rd month, 1134",
+  "sides": "Song defeated Jin",
+  "cmd": "Wu Jie and Wu Lin vs. Wanyan Zongbi",
+  "note": "A Jin army of 100,000 attacked Sichuan; Wu Jie had built a second barrier at Xianren Pass in advance and held out in bitter fighting with his \"layered formation\". The Jin army was badly beaten and never again dared to threaten Sichuan."
+ },
+ "battle:大仪镇之战": {
+  "old": "Battle of Dayi",
+  "mod": "Dayi, Yizheng, Yangzhou, Jiangsu",
+  "yt": "10th month, 1134",
+  "sides": "Song defeated Jin",
+  "cmd": "Han Shizhong vs. Nie'er Bojin",
+  "note": "Han Shizhong laid an ambush at Dayi, where his Beiwei troops wielding long axes broke the Jin iron cavalry; it was hailed as \"the foremost feat of arms of the Southern Song restoration\"."
+ },
+ "battle:岳飞收复襄阳六郡": {
+  "old": "Yue Fei recovers the six prefectures of Xiangyang",
+  "mod": "Xiangyang, Hubei",
+  "yt": "5th–7th month, 1134",
+  "sides": "Song defeated Qi",
+  "cmd": "Yue Fei vs. Li Cheng",
+  "note": "Marching from Ezhou, Yue Fei recovered the six prefectures of Ying, Xiang, Sui, Tang, Deng and Xinyang within three months; it was the Southern Song's first move from defense to counterattack."
+ },
+ "battle:藕塘之战": {
+  "old": "Battle of Outang",
+  "mod": "southeast of Dingyuan, Chuzhou, Anhui",
+  "yt": "10th month, 1136",
+  "sides": "Song defeated Qi",
+  "cmd": "Yang Yizhong vs. Liu Ni",
+  "note": "Qi invaded the south with 300,000 men; Yang Yizhong crushed Liu Ni at Outang, and the Jin court lost confidence in Liu Yu."
+ },
+ "battle:忽毡之战": {
+  "old": "Battle of Khujand",
+  "mod": "Khujand, Tajikistan",
+  "yt": "1137",
+  "sides": "Western Liao defeated the Western Kara-Khanids",
+  "cmd": "Yelü Dashi vs. Mahmud Khan",
+  "note": "The Western Liao's first victory over the Western Kara-Khanids, turning its spearhead toward Transoxiana."
+ },
+ "battle:顺昌之战": {
+  "old": "Battle of Shunchang",
+  "mod": "Fuyang, Anhui",
+  "yt": "5th–6th month, 1140",
+  "sides": "Song defeated Jin",
+  "cmd": "Liu Qi vs. Wanyan Zongbi",
+  "note": "Liu Qi held Shunchang with fewer than 20,000 men of the \"Eight-Character Army\"; in the summer heat, when the Jin army was hungry and thirsty, he counterattacked, hacking at the horses' legs of the \"flanking cavalry\" with long axes, and routed Wuzhu."
+ },
+ "battle:郾城之战": {
+  "old": "Battle of Yancheng",
+  "mod": "Yancheng, Luohe, Henan",
+  "yt": "7th month, 1140",
+  "sides": "Song defeated Jin",
+  "cmd": "Yue Fei vs. Wanyan Zongbi",
+  "note": "Wuzhu struck Yue Fei's headquarters with 15,000 elite horsemen; Yue Fei's Beiwei and Youyi troops met them and crushed the \"flanking cavalry\" and the \"iron pagodas\"."
+ },
+ "battle:颍昌之战": {
+  "old": "Battle of Yingchang",
+  "mod": "Xuchang, Henan",
+  "yt": "7th month, 1140",
+  "sides": "Song defeated Jin",
+  "cmd": "Yue Yun and Wang Gui vs. Wanyan Zongbi",
+  "note": "Beaten at Yancheng, Wuzhu turned on Yingchang; Yue Yun charged the Jin lines with 800 Beiwei horsemen and routed them. Yue Fei advanced to Zhuxian Town and was then recalled."
+ },
+ "battle:柘皋之战": {
+  "old": "Battle of Zhegao",
+  "mod": "Zhegao, Chaohu, Hefei, Anhui",
+  "yt": "2nd month, 1141",
+  "sides": "Song defeated Jin",
+  "cmd": "Yang Yizhong, Liu Qi and Wang De vs. Wanyan Zongbi",
+  "note": "Jin invaded western Huainan; three Song generals attacked together at Zhegao and the Jin army fell back. It was the last great battle before the Treaty of Shaoxing."
+ },
+ "battle:卡特万之战": {
+  "old": "Battle of Qatwan",
+  "mod": "north of Samarkand, Uzbekistan",
+  "yt": "September 1141",
+  "sides": "Western Liao defeated the Seljuks",
+  "cmd": "Yelü Dashi vs. Ahmad Sanjar",
+  "note": "The Western Liao and Karluk allies enveloped the enemy in three columns; the great Seljuk army was forced into the Dargham gorge and tens of thousands died, while Sanjar fled back to Khorasan. The battle gave rise in the West to the legend of \"Prester John\" in the East."
+ },
+ "battle:埃德萨之围": {
+  "old": "Siege of Edessa",
+  "mod": "Şanlıurfa, Turkey",
+  "yt": "November–December 1144",
+  "sides": "Zengids defeated the Crusaders (city fell)",
+  "cmd": "Imad al-Din Zengi vs. the Edessan garrison",
+  "note": "Zengi besieged Edessa while its count was away and took it by mining under the walls; the first Crusader state came to an end, prompting the Second Crusade."
+ },
+ "battle:大马士革之围": {
+  "old": "Siege of Damascus (1148)",
+  "mod": "Damascus, Syria",
+  "yt": "July 1148",
+  "sides": "Damascus defeated the Crusaders",
+  "cmd": "Mu'in al-Din Unur vs. Louis VII and Conrad III",
+  "note": "The Second Crusade turned on Damascus, which had been neutral, but withdrew after a siege of only five days for lack of water and because a relief army was approaching; the crusade ended in failure."
+ },
+ "battle:采石之战": {
+  "old": "Battle of Caishi",
+  "mod": "Caishiji, Ma'anshan, Anhui",
+  "yt": "11th month, 1161",
+  "sides": "Song defeated Jin",
+  "cmd": "Yu Yunwen vs. Wanyan Liang",
+  "note": "Wanyan Liang tried to cross the Yangtze at Caishi; Yu Yunwen, a civil official who had come to reward the troops, took command in the crisis and rammed the Jin boats with \"sea-eel\" ships. The crossing failed, and Wanyan Liang was soon killed by his own officers."
+ },
+ "battle:唐岛之战": {
+  "old": "Battle of Tangdao",
+  "mod": "Lingshan Bay, Huangdao, Qingdao, Shandong",
+  "yt": "10th month, 1161",
+  "sides": "Song defeated Jin",
+  "cmd": "Li Bao vs. Zheng Jianu",
+  "note": "Li Bao took 3,000 marines north and at Tangdao, off Jiaoxi, burned several hundred ships of the Jin navy with fire arrows; it was one of the world's first naval battles to use gunpowder weapons on a large scale."
+ },
+ "battle:符离之战": {
+  "old": "Battle of Fuli",
+  "mod": "Fuli, Suzhou, Anhui",
+  "yt": "5th month, 1163",
+  "sides": "Jin defeated Song",
+  "cmd": "Heshilie Zhining vs. Li Xianzhong and Shao Hongyuan",
+  "note": "The Longxing northern expedition first took Lingbi, Hongxian and Suzhou, but its two generals fell out; when Jin counterattacked, the Song army dissolved in a single night and lost nearly all its arms and armor."
+ },
+ "battle:密列奥赛法隆之战": {
+  "old": "Battle of Myriokephalon",
+  "mod": "mountain pass between Afyon and Konya, Turkey",
+  "yt": "September 1176",
+  "sides": "Rum defeated Byzantium",
+  "cmd": "Kilij Arslan II vs. Manuel I",
+  "note": "The great Byzantine army was ambushed in a mountain pass; Manuel I compared it to a second Manzikert, and Byzantium never again had the strength to recover the Anatolian interior."
+ },
+ "battle:蒙吉萨之战": {
+  "old": "Battle of Montgisard",
+  "mod": "near Ramla, Israel",
+  "yt": "November 1177",
+  "sides": "Kingdom of Jerusalem defeated the Ayyubids",
+  "cmd": "Baldwin IV vs. Saladin",
+  "note": "The sixteen-year-old leper king Baldwin IV defeated a much larger force, and Saladin barely escaped with his life."
+ },
+ "battle:坛之浦之战": {
+  "old": "Battle of Dan-no-ura",
+  "mod": "Shimonoseki, Yamaguchi, Japan",
+  "yt": "3rd month, 1185",
+  "sides": "Minamoto defeated Taira",
+  "cmd": "Minamoto no Yoshitsune vs. Taira no Munemori",
+  "note": "The last battle of the Genpei War: the Taira fleet was destroyed, Emperor Antoku went into the sea with his grandmother, and the sword of the Three Sacred Treasures sank to the bottom."
+ },
+ "battle:哈丁之战": {
+  "old": "Battle of Hattin",
+  "mod": "west of Tiberias, Israel",
+  "yt": "July 1187",
+  "sides": "Ayyubids defeated the Kingdom of Jerusalem",
+  "cmd": "Saladin vs. Guy of Lusignan",
+  "note": "Saladin lured the Crusaders away from water, surrounded them without water under the blazing sun and set fires to smoke them; the Crusader army was wiped out, King Guy was captured, and Saladin beheaded Raynald with his own hand."
+ },
+ "battle:阿卡之围": {
+  "old": "Siege of Acre",
+  "mod": "Acre, Israel",
+  "yt": "August 1189 – July 1191",
+  "sides": "Crusaders defeated the Ayyubids (city fell)",
+  "cmd": "Richard I and Philip II vs. Saladin",
+  "note": "The Third Crusade besieged the city for nearly two years and took it after the English and French kings arrived; when the ransom went unpaid, Richard executed more than two thousand prisoners."
+ },
+ "battle:阿尔苏夫之战": {
+  "old": "Battle of Arsuf",
+  "mod": "north of Herzliya, Israel",
+  "yt": "September 1191",
+  "sides": "Crusaders defeated the Ayyubids",
+  "cmd": "Richard I vs. Saladin",
+  "note": "Marching south along the coast, Richard defeated Saladin at Arsuf with a counter-charge of heavy cavalry and then took Jaffa."
+ },
+ "battle:塔拉因之战": {
+  "old": "Battle of Tarain (1192)",
+  "mod": "Taraori, Haryana, India",
+  "yt": "1192",
+  "sides": "Ghurids defeated the Rajput kings",
+  "cmd": "Muhammad of Ghor vs. Prithviraj III",
+  "note": "Defeated here the year before, the Ghurids came back and, with mounted archers and feigned retreats, crushed the coalition of Rajput kings; northern India lay open to the Muslims."
+ },
+ "battle:剌夷之战": {
+  "old": "Battle of Rayy",
+  "mod": "Rey, south of Tehran, Iran",
+  "yt": "March 1194",
+  "sides": "Khwarazm defeated the Seljuks of Iraq",
+  "cmd": "Tekish vs. Tughril III",
+  "note": "The last Seljuk sultan, Tughril III, was killed and his head sent to Baghdad, ending Seljuk rule in Iran."
+ },
+ "battle:斡里札河之战": {
+  "old": "Battle of the Ulja River",
+  "mod": "Uldz River, Mongolia",
+  "yt": "1196",
+  "sides": "Jin, Temüjin and the Ong Khan defeated the Tatars",
+  "cmd": "Wanyan Xiang, Temüjin and Toghrul vs. Megüjin Se'ültü",
+  "note": "The Jin chancellor Wanyan Xiang marched north against the Tatars; Temüjin and the Ong Khan joined in, the Tatar chief was killed, and Jin gave Temüjin the title ja'ut quri."
+ },
+ "battle:折折运都山之战": {
+  "old": "Battle of Jeje'er Heights",
+  "mod": "Khentii, Mongolia",
+  "yt": "autumn 1203",
+  "sides": "Temüjin defeated the Keraites",
+  "cmd": "Temüjin vs. Toghrul (Ong Khan)",
+  "note": "After the Ong Khan's surprise attack drove him back at Qalaqaljit Sands, Temüjin gathered his remaining men; learning that the Ong Khan was feasting at the Jeje'er Heights, he made a forced march, surrounded him and fought for three days and nights, and the Keraites were destroyed."
+ },
+ "battle:纳忽昆山之战": {
+  "old": "Battle of Naqu Cliff (Chakirmaut)",
+  "mod": "between Khovd and Arkhangai, Mongolia",
+  "yt": "1204",
+  "sides": "Temüjin defeated the Naimans",
+  "cmd": "Temüjin vs. Tayang Khan",
+  "note": "Temüjin closed in on the Naiman army \"moving like a thicket, deploying like a lake, fighting like a chisel\"; Tayang Khan died of his wounds, the Naimans were destroyed, and Tayang Khan's son Kuchlug fled west."
+ },
+ "battle:君士坦丁堡之陷": {
+  "old": "Sack of Constantinople (1204)",
+  "mod": "Istanbul, Turkey",
+  "yt": "April 1204",
+  "sides": "Crusaders defeated Byzantium (city fell)",
+  "cmd": "Enrico Dandolo and Boniface vs. Alexios V",
+  "note": "The Fourth Crusade, bound for Egypt, was steered by Venice against Constantinople instead; after taking the city the crusaders sacked it for three days and stripped the treasures of Hagia Sophia."
+ },
+ "battle:安德胡德之战": {
+  "old": "Battle of Andkhud",
+  "mod": "Andkhoy, Faryab, Afghanistan",
+  "yt": "1204",
+  "sides": "Western Liao and the Kara-Khanids defeated the Ghurids",
+  "cmd": "Tayangu vs. Muhammad of Ghor",
+  "note": "The Ghurids attacked Khwarazm; at Khwarazm's request the Western Liao sent an army to its aid and crushed the Ghurids, Muhammad of Ghor barely escaping with his life."
+ },
+ "battle:阿德里安堡之战": {
+  "old": "Battle of Adrianople (1205)",
+  "mod": "Edirne, Turkey",
+  "yt": "April 1205",
+  "sides": "Bulgaria defeated the Latin Empire",
+  "cmd": "Kaloyan vs. Baldwin I",
+  "note": "The Bulgarian tsar Kaloyan used Cuman horsemen to draw the enemy in and captured the Latin emperor Baldwin I, who died in captivity."
+ },
+ "battle:宿州之战": {
+  "old": "Battle of Suzhou (1206)",
+  "mod": "Suzhou, Anhui",
+  "yt": "5th month, 1206",
+  "sides": "Jin defeated Song",
+  "cmd": "(the Jin garrison) vs. Guo Zhuo and Li Ruyi",
+  "note": "In the Kaixi northern expedition the main eastern army failed to take Suzhou; retreating in heavy rain it was pursued by the Jin army, and the Song army was routed."
+ },
+ "battle:也儿的石河之战": {
+  "old": "Battle of the Irtysh",
+  "mod": "upper Irtysh River",
+  "yt": "winter 1208",
+  "sides": "Mongols defeated the Naiman and Merkit remnants",
+  "cmd": "Genghis Khan vs. Kuchlug and Toqto'a",
+  "note": "Genghis Khan pursued the remnants of the Naimans and Merkits to the Irtysh; the Merkit chief Toqto'a was killed by an arrow, and Kuchlug fled to the Western Liao."
+ },
+ "battle:克夷门之战": {
+  "old": "Battle of Keyimen",
+  "mod": "northern Helan Mountains, Ningxia",
+  "yt": "1209",
+  "sides": "Mongols defeated Western Xia",
+  "cmd": "Genghis Khan vs. Weiming Linggong",
+  "note": "The Mongols feigned retreat and set an ambush, captured the Western Xia commander Weiming Linggong, and opened the gateway to Zhongxing Fu."
+ },
+ "battle:怛逻斯之战（1210）": {
+  "old": "Battle of Talas (1210)",
+  "mod": "Taraz, Kazakhstan",
+  "yt": "1210",
+  "sides": "Khwarazm defeated Western Liao",
+  "cmd": "Muhammad II vs. Tayangu",
+  "note": "Muhammad II, Shah of Khwarazm, broke with the Western Liao and defeated its general Tayangu, ending Western Liao supremacy in Transoxiana."
+ },
+ "battle:野狐岭之战": {
+  "old": "Battle of Yehuling",
+  "mod": "northwest of Wanquan, Zhangjiakou, Hebei",
+  "yt": "8th month, 1211",
+  "sides": "Mongols defeated Jin",
+  "cmd": "Genghis Khan and Muqali vs. Wanyan Chengyu and Duji Sizhong",
+  "note": "A Jin army of 400,000 was strung out in defensive positions from Yehuling to Huihebao; Muqali led a death-defying vanguard against its lines, the Jin elite was wiped out, and \"the dead covered the fields and choked the streams\"."
+ },
+ "battle:怀来之战": {
+  "old": "Battle of Huailai",
+  "mod": "Huailai, Zhangjiakou, Hebei",
+  "yt": "autumn 1213",
+  "sides": "Mongols defeated Jin",
+  "cmd": "Genghis Khan vs. Wanyan Gang and Zhuhu Gaoqi",
+  "note": "A Jin army of 100,000 was routed; the Mongols then went round through Zijing Pass to besiege Zhongdu and swept through Hebei, Shandong and Hedong in three columns."
+ },
+ "battle:中都之陷": {
+  "old": "Fall of Zhongdu",
+  "mod": "southwest Beijing",
+  "yt": "5th month, 1215",
+  "sides": "Mongols defeated Jin (city fell)",
+  "cmd": "Shimo Ming'an vs. Wanyan Chenghui",
+  "note": "After Emperor Xuanzong of Jin moved south, Zhongdu was besieged; its food ran out and Wanyan Chenghui, left in charge of the capital, took poison. The city fell, and the palaces burned for more than a month."
+ },
+ "battle:屈出律之亡": {
+  "old": "Death of Kuchlug",
+  "mod": "Kashgar – Pamirs, Xinjiang",
+  "yt": "1218",
+  "sides": "Mongols defeated Western Liao",
+  "cmd": "Jebe vs. Kuchlug",
+  "note": "Jebe proclaimed freedom of religion and the Muslims of Kashgar and Khotan rose in support; Kuchlug fled west and was caught and killed in the valleys of Badakhshan."
+ },
+ "battle:讹答剌之围": {
+  "old": "Siege of Otrar",
+  "mod": "Otrar ruins, Kazakhstan",
+  "yt": "autumn 1219 – February 1220",
+  "sides": "Mongols defeated Khwarazm (city fell)",
+  "cmd": "Chagatai and Ögedei vs. Inalchuq",
+  "note": "Inalchuq, the governor who had massacred the caravan, held out for five months; when the city fell he was captured and, it is said, killed by having molten silver poured into him."
+ },
+ "battle:布哈拉之陷": {
+  "old": "Fall of Bukhara",
+  "mod": "Bukhara, Uzbekistan",
+  "yt": "February 1220",
+  "sides": "Mongols defeated Khwarazm (city fell)",
+  "cmd": "Genghis Khan vs. the Khwarazmian garrison",
+  "note": "Genghis Khan crossed the Kyzylkum and appeared suddenly before Bukhara; entering the city, he mounted the pulpit of the mosque and called himself \"the scourge of God\"."
+ },
+ "battle:撒马尔罕之陷": {
+  "old": "Fall of Samarkand",
+  "mod": "Samarkand, Uzbekistan",
+  "yt": "March 1220",
+  "sides": "Mongols defeated Khwarazm (city fell)",
+  "cmd": "Genghis Khan vs. Tughai Khan",
+  "note": "The new Khwarazmian capital had a garrison of 100,000; the Kangly Turkish troops opened the gates and surrendered and were then all put to death, and 30,000 craftsmen were distributed among the princes."
+ },
+ "battle:达米埃塔之围": {
+  "old": "Siege of Damietta",
+  "mod": "Damietta, Egypt",
+  "yt": "May 1218 – November 1219",
+  "sides": "Crusaders defeated the Ayyubids (city fell)",
+  "cmd": "John of Brienne vs. al-Kamil",
+  "note": "The Fifth Crusade took the city after an eighteen-month siege; marching on Cairo in 1221, it was trapped by the Nile flood at Mansurah and had to give back Damietta and withdraw."
+ },
+ "battle:玉龙杰赤之围": {
+  "old": "Siege of Gurganj",
+  "mod": "Konye-Urgench, Turkmenistan",
+  "yt": "winter 1220 – April 1221",
+  "sides": "Mongols defeated Khwarazm (city fell)",
+  "cmd": "Jochi, Chagatai and Ögedei vs. Khumar Tegin",
+  "note": "Jochi and Chagatai quarreled and the siege dragged on, until Genghis Khan put Ögedei in sole command; the city fell after seven days of house-to-house fighting, and the dikes were broken to flood it with the Amu Darya."
+ },
+ "battle:八鲁湾之战": {
+  "old": "Battle of Parwan",
+  "mod": "north of Charikar, Parwan, Afghanistan",
+  "yt": "autumn 1221",
+  "sides": "Khwarazm defeated the Mongols",
+  "cmd": "Jalal al-Din vs. Shigi Qutuqu",
+  "note": "Jalal al-Din routed the Mongol army at Parwan, the only major Mongol defeat of the western campaign."
+ },
+ "battle:申河之战": {
+  "old": "Battle of the Indus",
+  "mod": "Indus bank near Attock, Pakistan",
+  "yt": "November 1221",
+  "sides": "Mongols defeated Khwarazm",
+  "cmd": "Genghis Khan vs. Jalal al-Din",
+  "note": "Genghis Khan caught Jalal al-Din on the bank of the Indus and destroyed his army; Jalal al-Din leapt his horse into the river and swam away, and Genghis Khan praised him: \"Every father should have such a son.\""
+ },
+ "battle:迦勒迦河之战": {
+  "old": "Battle of the Kalka River",
+  "mod": "Kalmius River, Donetsk, Ukraine",
+  "yt": "May 1223",
+  "sides": "Mongols defeated the Rus' and Kipchaks",
+  "cmd": "Jebe and Subutai vs. Mstislav III",
+  "note": "The Mongol army feigned retreat for nine days and then turned; the Rus'–Kipchak allies, each fighting on its own, broke. Grand Prince Mstislav III of Kyiv surrendered and was crushed to death beneath the plank platform of the victors' feast."
+ },
+ "battle:加尼之战": {
+  "old": "Battle of Garni",
+  "mod": "Garni, Kotayk, Armenia",
+  "yt": "August 1225",
+  "sides": "Khwarazm defeated Georgia",
+  "cmd": "Jalal al-Din vs. Ivane Mkhargrdzeli",
+  "note": "Back in Iran, Jalal al-Din destroyed the Eldiguzids of Azerbaijan and then crushed Georgia, taking Tbilisi in 1226."
+ },
+ "battle:灵州之战（黄河九渡）": {
+  "old": "Battle of Lingzhou (1226)",
+  "mod": "Wuzhong, Ningxia",
+  "yt": "11th month, 1226",
+  "sides": "Mongols defeated Western Xia",
+  "cmd": "Genghis Khan vs. Weiming Linggong",
+  "note": "Western Xia sent 100,000 men to relieve Lingzhou; Genghis Khan crossed the Yellow River on the ice to meet them, the Xia main army was destroyed, and Zhongxing Fu was besieged soon after."
+ },
+ "battle:大昌原之战": {
+  "old": "Battle of Dachangyuan",
+  "mod": "Taichang, Ning County, Qingyang, Gansu",
+  "yt": "1228",
+  "sides": "Jin defeated the Mongols",
+  "cmd": "Wanyan Chenheshang vs. Chilaun",
+  "note": "Wanyan Chenheshang, commander of the Jin Loyal and Filial Army, broke 8,000 Mongols with 400 horsemen, the first great Jin victory in twenty years of war with the Mongols."
+ },
+ "battle:雅西切门之战": {
+  "old": "Battle of Yassıçemen",
+  "mod": "west of Erzincan, Turkey",
+  "yt": "August 1230",
+  "sides": "Rum and the Ayyubids defeated Khwarazm",
+  "cmd": "Kayqubad I vs. Jalal al-Din",
+  "note": "Jalal al-Din was defeated in eastern Anatolia by the allied armies of Rum and the Ayyubids, and was hunted down by the Mongols the next year."
+ },
+ "battle:三峰山之战": {
+  "old": "Battle of Sanfengshan",
+  "mod": "southwest of Yuzhou, Xuchang, Henan",
+  "yt": "1st month, 1232",
+  "sides": "Mongols defeated Jin",
+  "cmd": "Tolui vs. Wanyan Heda and Yila Pu'a",
+  "note": "Tolui marched through Song territory via Hanzhong to come round behind the Jin army; 150,000 Jin troops hurried back through heavy snow, were surrounded at Sanfengshan and, frozen and starving, were wiped out together with all the famous Jin generals."
+ },
+ "battle:蔡州之战": {
+  "old": "Siege of Caizhou",
+  "mod": "Runan, Henan",
+  "yt": "11th month, 1233 – 1st month, 1234",
+  "sides": "Song and the Mongols defeated Jin (city fell)",
+  "cmd": "Meng Gong and Tachar vs. Wanyan Shouxu",
+  "note": "The Song–Mongol allies besieged Caizhou for three months; on the eve of its fall Emperor Aizong abdicated in favor of Chenglin and hanged himself, Chenglin was killed in the fighting, and the Jin came to an end."
+ },
+ "battle:龙门之战（端平入洛）": {
+  "old": "Battle of Longmen (Duanping campaign)",
+  "mod": "Luoyang, Henan",
+  "yt": "7th month, 1234",
+  "sides": "Mongols defeated Song",
+  "cmd": "Tachar vs. Xu Minzi",
+  "note": "The Song army entered Luoyang while it was undefended, but found no grain or fodder in the city; on the way back it was ambushed by the Mongols at Longmen, and the Duanping campaign failed."
+ },
+ "battle:成都之陷": {
+  "old": "Fall of Chengdu",
+  "mod": "Chengdu, Sichuan",
+  "yt": "10th month, 1236",
+  "sides": "Mongols defeated Song (city fell)",
+  "cmd": "Köten vs. Ding Fu",
+  "note": "The Mongols broke through the passes of northern Sichuan and fell on Chengdu by surprise; its prefect Ding Fu was killed, hundreds of thousands in the city were slaughtered, and western Sichuan lay in ruins ever after."
+ },
+ "battle:不里阿耳之陷": {
+  "old": "Fall of Bolghar",
+  "mod": "Bolgar, Tatarstan, Russia",
+  "yt": "autumn 1236",
+  "sides": "Mongols defeated Volga Bulgaria (city fell)",
+  "cmd": "Batu and Subutai vs. Volga Bulgaria",
+  "note": "The first battle of the western campaign of the eldest sons; Volga Bulgaria came to an end."
+ },
+ "battle:梁赞之围": {
+  "old": "Siege of Ryazan",
+  "mod": "Staraya Ryazan, Russia",
+  "yt": "December 1237",
+  "sides": "Mongols defeated Ryazan (city fell)",
+  "cmd": "Batu vs. Yuri Igorevich",
+  "note": "Marching along the frozen rivers in winter, the Mongols besieged the city for six days and breached it with catapults; Grand Prince Yuri was killed and the inhabitants were massacred to the last."
+ },
+ "battle:弗拉基米尔之陷": {
+  "old": "Fall of Vladimir",
+  "mod": "Vladimir, Russia",
+  "yt": "February 1238",
+  "sides": "Mongols defeated Vladimir (city fell)",
+  "cmd": "Batu vs. Vsevolod",
+  "note": "Grand Prince Yuri II had left the city to raise troops; when it fell, the princely family took refuge in the Dormition Cathedral and were burned alive."
+ },
+ "battle:锡特河之战": {
+  "old": "Battle of the Sit River",
+  "mod": "Sit River, Yaroslavl Oblast, Russia",
+  "yt": "March 1238",
+  "sides": "Mongols defeated Vladimir",
+  "cmd": "Burundai vs. Yuri II",
+  "note": "The army that Grand Prince Yuri II of Vladimir had gathered on the Sit River was caught by surprise and wiped out, and Yuri II was killed."
+ },
+ "battle:科泽利斯克之围": {
+  "old": "Siege of Kozelsk",
+  "mod": "Kozelsk, Kaluga Oblast, Russia",
+  "yt": "March–May 1238",
+  "sides": "Mongols defeated Kozelsk (town fell)",
+  "cmd": "Batu vs. Vasily",
+  "note": "The small town held out for seven weeks and was massacred when it fell; the Mongols called it the \"evil city\"."
+ },
+ "battle:基辅之陷": {
+  "old": "Fall of Kyiv",
+  "mod": "Kyiv, Ukraine",
+  "yt": "December 1240",
+  "sides": "Mongols defeated Rus' (city fell)",
+  "cmd": "Batu vs. Dmytro",
+  "note": "Batu pounded the city day and night with catapults; its commander Dmytro was wounded and captured, only two hundred households remained, and \"the mother of cities\" declined from then on."
+ },
+ "battle:涅瓦河之战": {
+  "old": "Battle of the Neva",
+  "mod": "mouth of the Izhora, St Petersburg, Russia",
+  "yt": "July 1240",
+  "sides": "Novgorod defeated Sweden",
+  "cmd": "Alexander vs. Birger",
+  "note": "Prince Alexander of Novgorod surprised the Swedish army that had landed on the Neva; the battle earned him the name \"Nevsky\"."
+ },
+ "battle:列格尼卡之战": {
+  "old": "Battle of Legnica",
+  "mod": "Legnica, Poland",
+  "yt": "9 April 1241",
+  "sides": "Mongols defeated the Polish–German army",
+  "cmd": "Baidar and Qadan vs. Henry II",
+  "note": "Duke Henry II of Silesia led an allied army of Poles, Teutonic Knights and Templars into battle; the Mongols split it with feigned retreats and smoke screens, Henry II was killed, and his head was paraded on a spear."
+ },
+ "battle:蒂萨河之战（莫希）": {
+  "old": "Battle of Mohi",
+  "mod": "Sajó River, south of Miskolc, Hungary",
+  "yt": "11 April 1241",
+  "sides": "Mongols defeated Hungary",
+  "cmd": "Batu and Subutai vs. Béla IV",
+  "note": "Batu stormed the bridge over the Sajó head-on while Subutai crossed downstream and came round; caught between them in its wagon laager, the Hungarian army was destroyed, and Béla IV fled to an island in the Adriatic."
+ },
+ "battle:楚德湖之战": {
+  "old": "Battle on the Ice (Lake Peipus)",
+  "mod": "Lake Peipus, Russia–Estonia",
+  "yt": "April 1242",
+  "sides": "Novgorod defeated the Teutonic Order",
+  "cmd": "Alexander Nevsky vs. the Teutonic Order",
+  "note": "Also called the Battle on the Ice: the Novgorod army drove back the knights' wedge charge on the frozen lake and halted the eastward advance of the Catholic military orders."
+ },
+ "battle:克塞山之战": {
+  "old": "Battle of Köse Dağ",
+  "mod": "northeast of Sivas, Turkey",
+  "yt": "June 1243",
+  "sides": "Mongols defeated Rum",
+  "cmd": "Baiju vs. Kaykhusraw II",
+  "note": "The army the sultan of Rum had hired at great cost was routed by the Mongols at Köse Dağ, and the Sultanate of Rum became a Mongol vassal."
+ },
+ "battle:拉佛比之战": {
+  "old": "Battle of La Forbie",
+  "mod": "northeast of Gaza",
+  "yt": "October 1244",
+  "sides": "Ayyubids and Khwarazmians defeated the Crusaders",
+  "cmd": "Baybars vs. Walter of Brienne",
+  "note": "Egypt and the remnants of the Khwarazmian army joined forces to annihilate the allied army of the Crusaders and Damascus; the Crusaders never again had the strength to fight a field battle in the Levant."
+ },
+ "battle:曼苏拉之战": {
+  "old": "Battle of Mansurah",
+  "mod": "Mansoura, Egypt",
+  "yt": "February 1250",
+  "sides": "Mamluks defeated the Crusaders",
+  "cmd": "Baybars vs. Louis IX",
+  "note": "The French army charged into Mansurah and was destroyed in street fighting; Louis IX was captured during the retreat and freed for a huge ransom, and the Mamluks thereby took control of Egypt."
+ },
+ "battle:大理之陷": {
+  "old": "Fall of Dali",
+  "mod": "old town of Dali, Yunnan",
+  "yt": "12th month, 1253",
+  "sides": "Mongols defeated Dali (city fell)",
+  "cmd": "Kublai vs. Gao Taixiang",
+  "note": "The Mongol army crossed the Jinsha River on skin bags and leather rafts and reached Dali; the chief minister Gao Taixiang was captured and executed, and the next year King Duan Xingzhi was captured at Shanchan."
+ },
+ "battle:阿拉穆特之围": {
+  "old": "Siege of Alamut",
+  "mod": "northeast of Qazvin, Iran",
+  "yt": "November–December 1256",
+  "sides": "Mongols defeated the Nizaris",
+  "cmd": "Hulagu vs. Rukn al-Din",
+  "note": "The last imam, Rukn al-Din, surrendered at Maymun-Diz and ordered the garrison of Alamut to open its gates, and the Nizari state came to an end."
+ },
+ "battle:巴格达之围": {
+  "old": "Siege of Baghdad (1258)",
+  "mod": "Baghdad, Iraq",
+  "yt": "January–February 1258",
+  "sides": "Mongols defeated the Abbasids (city fell)",
+  "cmd": "Hulagu and Baiju vs. al-Musta'sim",
+  "note": "The Mongols bombarded the city with catapults for twelve days until the caliph came out to surrender; the city was massacred and plundered for weeks, and the books of the House of Wisdom were thrown into the Tigris."
+ },
+ "battle:苦竹隘之战": {
+  "old": "Battle of Kuzhu Pass",
+  "mod": "Kuzhu Fort, Jiange, Guangyuan, Sichuan",
+  "yt": "10th month, 1258",
+  "sides": "Mongols defeated Song (fort fell)",
+  "cmd": "Möngke vs. Yang Li",
+  "note": "Möngke led the main army into Sichuan in person and broke through Kuzhu Pass, the natural stronghold of Jianmen, then took Langzhou, Pengzhou and Guang'an one after another."
+ },
+ "battle:升龙之战": {
+  "old": "Battle of Thăng Long (1258)",
+  "mod": "Hanoi, Vietnam",
+  "yt": "winter 1257 – early 1258",
+  "sides": "Mongols defeated Đại Việt (then withdrew)",
+  "cmd": "Uriyangkhadai vs. Trần Thái Tông",
+  "note": "Uriyangkhadai invaded Đại Việt from Yunnan and took Thăng Long, but withdrew because of the summer heat and disease; the Trần then sent envoys with tribute."
+ },
+ "battle:钓鱼城之战": {
+  "old": "Battle of Diaoyu Fortress",
+  "mod": "Mount Diaoyu, Hechuan, Chongqing",
+  "yt": "2nd–7th month, 1259",
+  "sides": "Song defeated the Mongols",
+  "cmd": "Wang Jian and Zhang Jue vs. Möngke",
+  "note": "Diaoyu Fortress, with rivers on three sides and its own fields and springs, held out for five months; Möngke died of illness before its walls (or, some say, was struck by a catapult stone), the Mongol armies attacking Song withdrew north, and Hulagu, on his western campaign, turned back east because of it."
+ },
+ "battle:鄂州之战": {
+  "old": "Battle of Ezhou",
+  "mod": "Wuchang, Wuhan, Hubei",
+  "yt": "9th–11th month, 1259",
+  "sides": "Song defeated the Mongols (Kublai returned north)",
+  "cmd": "Jia Sidao vs. Kublai",
+  "note": "Kublai crossed the Yangtze and besieged Ezhou, which the Song defended stubbornly; learning that Ariq Böke meant to seize the throne, he accepted Jia Sidao's offer of peace and went back north."
+ },
+ "battle:阿勒颇之陷": {
+  "old": "Fall of Aleppo (1260)",
+  "mod": "Aleppo, Syria",
+  "yt": "January 1260",
+  "sides": "Mongols defeated the Ayyubids (city fell)",
+  "cmd": "Hulagu vs. Turanshah",
+  "note": "Hulagu, with troops of Cilician Armenia and Antioch, took the city after a seven-day siege, and Damascus then surrendered without a fight."
+ },
+ "battle:艾因贾鲁特之战": {
+  "old": "Battle of Ain Jalut",
+  "mod": "Jezreel Valley, Israel",
+  "yt": "3 September 1260",
+  "sides": "Mamluks defeated the Mongols",
+  "cmd": "Qutuz and Baybars vs. Kitbuqa",
+  "note": "The Mamluks lured the Mongols into the valley with a feigned retreat and sprang an ambush; Kitbuqa was killed. It was the first decisive Mongol defeat in the west."
+ },
+ "battle:昔木土脑儿之战": {
+  "old": "Battle of Shimultai Lake",
+  "mod": "around Xilingol, Inner Mongolia",
+  "yt": "11th month, 1261",
+  "sides": "Kublai defeated Ariq Böke",
+  "cmd": "Kublai vs. Ariq Böke",
+  "note": "Kublai campaigned north of the Gobi in person; Ariq Böke was defeated and fled, then withdrew west to the Ili valley, and surrendered in 1264."
+ },
+ "battle:济南之战（李璮之乱）": {
+  "old": "Siege of Jinan (Li Tan rebellion)",
+  "mod": "Jinan, Shandong",
+  "yt": "2nd–7th month, 1262",
+  "sides": "Yuan defeated Li Tan",
+  "cmd": "Shi Tianze vs. Li Tan",
+  "note": "Li Tan, hereditary warlord of Shandong, handed three cities in the Lianshui–Haizhou area over to Song and rebelled against the Yuan at Jinan; after a four-month siege the city fell, and Li Tan threw himself into Daming Lake but survived and was beheaded."
+ },
+ "battle:捷列克河之战": {
+  "old": "Battle of the Terek River",
+  "mod": "Terek River, Chechnya, Russia",
+  "yt": "January 1263",
+  "sides": "Golden Horde defeated the Ilkhanate",
+  "cmd": "Nogai vs. Hulagu",
+  "note": "Berke of the Golden Horde and Hulagu of the Ilkhanate fought over Azerbaijan; as the Ilkhanate army crossed the frozen river the ice broke, and great numbers drowned."
+ },
+ "battle:马里之战": {
+  "old": "Battle of Mari",
+  "mod": "Cilician plain, Turkey",
+  "yt": "August 1266",
+  "sides": "Mamluks defeated Cilician Armenia",
+  "cmd": "Baybars's commanders vs. the sons of Hethum I",
+  "note": "In revenge for Armenia's help to the Mongols, the Mamluks crushed the Armenian army at Mari and burned and plundered the capital, Sis."
+ },
+ "battle:安条克之陷": {
+  "old": "Fall of Antioch (1268)",
+  "mod": "Antakya, Turkey",
+  "yt": "May 1268",
+  "sides": "Mamluks defeated the Principality of Antioch (city fell)",
+  "cmd": "Baybars vs. the Antioch garrison",
+  "note": "Baybars stormed Antioch and massacred the whole city, and the Principality of Antioch came to an end."
+ },
+ "battle:骑士堡之陷": {
+  "old": "Fall of Krak des Chevaliers",
+  "mod": "west of Homs, Syria",
+  "yt": "April 1271",
+  "sides": "Mamluks defeated the Knights Hospitaller",
+  "cmd": "Baybars vs. the Knights Hospitaller",
+  "note": "The strongest of the Crusader castles was tricked into opening its gates by Baybars with a forged order to withdraw."
+ },
+ "battle:襄樊之战": {
+  "old": "Battle of Xiangyang",
+  "mod": "Xiangyang, Hubei",
+  "yt": "9th month, 1268 – 2nd month, 1273",
+  "sides": "Yuan defeated Song (city fell)",
+  "cmd": "Aju and Liu Zheng vs. Lü Wenhuan",
+  "note": "The Yuan army besieged Xiangyang and Fancheng for nearly six years from a ring of walls and forts; in 1273 it breached Fancheng with Muslim counterweight trebuchets, Lü Wenhuan surrendered Xiangyang, and the gateway to the middle Yangtze lay open."
+ },
+ "battle:济州之战": {
+  "old": "Battle of Jeju",
+  "mod": "Jeju, South Korea",
+  "yt": "4th month, 1273",
+  "sides": "Yuan and Goryeo defeated the Sambyeolcho",
+  "cmd": "Hindu and Kim Bang-gyeong vs. Kim Tong-jeong",
+  "note": "The Sambyeolcho rose against the Goryeo royal house's surrender to the Yuan, held first Jindo and then Jeju, and were suppressed by the Yuan–Goryeo allies."
+ },
+ "battle:博多湾之战（文永之役）": {
+  "old": "Battle of Hakata Bay (Bun'ei campaign)",
+  "mod": "Hakata Bay, Fukuoka, Japan",
+  "yt": "10th month, 1274",
+  "sides": "Japan defeated Yuan and Goryeo (Yuan forces withdrew)",
+  "cmd": "Shōni Kagesuke vs. Hindu and Hong Da-gu",
+  "note": "The Yuan–Goryeo force landed at Hakata Bay and routed the Japanese warriors with massed tactics and exploding \"iron bombs\"; that night it returned to its ships, met a great storm, and went home having lost more than half its men."
+ },
+ "battle:阳逻堡之战": {
+  "old": "Battle of Yangluo",
+  "mod": "Yangluo, Xinzhou, Wuhan, Hubei",
+  "yt": "12th month, 1274",
+  "sides": "Yuan defeated Song",
+  "cmd": "Bayan and Aju vs. Xia Gui",
+  "note": "Bayan feinted at Hanyang while Aju took picked troops across the Yangtze at night upstream at Qingshanji and stormed the fort of Yangluo; the Song navy broke up, and Ezhou surrendered soon after."
+ },
+ "battle:丁家洲之战": {
+  "old": "Battle of Dingjiazhou",
+  "mod": "northeast of Tongling, Anhui",
+  "yt": "2nd month, 1275",
+  "sides": "Yuan defeated Song",
+  "cmd": "Bayan vs. Jia Sidao",
+  "note": "Jia Sidao met the Yuan at Dingjiazhou with 130,000 Song troops; the Yuan bombarded them with Muslim counterweight trebuchets, the Song vanguard commander Sun Huchen fled first, and the whole army dissolved."
+ },
+ "battle:焦山之战": {
+  "old": "Battle of Jiaoshan",
+  "mod": "Jiaoshan, Zhenjiang, Jiangsu",
+  "yt": "7th month, 1275",
+  "sides": "Yuan defeated Song",
+  "cmd": "Aju vs. Zhang Shijie",
+  "note": "Zhang Shijie drew up his fleet in the river with the ships chained together; the Yuan shot fire arrows into it, and the Song navy was badly beaten."
+ },
+ "battle:常州之战": {
+  "old": "Siege of Changzhou",
+  "mod": "Changzhou, Jiangsu",
+  "yt": "11th month, 1275",
+  "sides": "Yuan defeated Song (city fell)",
+  "cmd": "Bayan vs. Yao Yin and Chen Zhao",
+  "note": "The soldiers and people of Changzhou held out to the end; after taking the city Bayan massacred its people, and only seven survived by hiding under a bridge."
+ },
+ "battle:扬州之围": {
+  "old": "Siege of Yangzhou",
+  "mod": "Yangzhou, Jiangsu",
+  "yt": "1275 – 7th month, 1276",
+  "sides": "Yuan defeated Song (city fell)",
+  "cmd": "Aju vs. Li Tingzhi and Jiang Cai",
+  "note": "After Lin'an surrendered, Li Tingzhi refused the order to submit and held Yangzhou until its food ran out; breaking out, he was captured and died a martyr."
+ },
+ "battle:牙嵩羊之战": {
+  "old": "Battle of Ngasaunggyan",
+  "mod": "west of Yingjiang, Dehong, Yunnan",
+  "yt": "1277",
+  "sides": "Yuan defeated Pagan",
+  "cmd": "Qudu vs. the Pagan army",
+  "note": "Pagan sent war elephants against Jinchi; the Yuan troops shot the elephants with bows and crossbows, the elephants stampeded back through their own lines, and the Burmese army was routed. Marco Polo described the battle in detail."
+ },
+ "battle:埃尔比斯坦之战": {
+  "old": "Battle of Elbistan",
+  "mod": "north of Kahramanmaraş, Turkey",
+  "yt": "April 1277",
+  "sides": "Mamluks defeated the Mongols",
+  "cmd": "Baybars vs. Tudawun",
+  "note": "Baybars invaded Anatolia, defeated the Ilkhanate's garrison army, and then withdrew to Syria."
+ },
+ "battle:崖山海战": {
+  "old": "Battle of Yamen",
+  "mod": "Yamen, Xinhui, Jiangmen, Guangdong",
+  "yt": "2nd month, 1279",
+  "sides": "Yuan defeated Song",
+  "cmd": "Zhang Hongfan and Li Heng vs. Zhang Shijie and Lu Xiufu",
+  "note": "The Song fleet of more than a thousand ships was lashed together with great cables into a floating fortress; the Yuan cut it off from firewood and water for over ten days, then attacked from both sides on the rising and falling tides. The Song fleet collapsed, Lu Xiufu leapt into the sea with the boy emperor Zhao Bing on his back, and the Song came to an end."
+ },
+ "river:丽水": {
+  "old": "Irrawaddy",
+  "mod": "Irrawaddy"
+ },
+ "river:伏尔塔瓦河": {
+  "old": "Vltava",
+  "mod": "Vltava",
+  "note": "Prague stands on its banks."
+ },
+ "river:汾水": {
+  "old": "Fen River",
+  "mod": "Fen River",
+  "note": "The central axis of Hedong: Taiyuan, Jinzhou and Jiangzhou all stand on the Fen."
+ },
+ "river:怯绿连河": {
+  "old": "Kherlen River",
+  "mod": "Kherlen River",
+  "note": "Genghis Khan's great ordu lay on its upper course."
+ },
+ "river:中江": {
+  "old": "Zhong River",
+  "mod": "Tuo River"
+ },
+ "river:拉维河": {
+  "old": "Ravi",
+  "mod": "Ravi",
+  "note": "Lahore stands on its banks."
+ },
+ "river:图们江": {
+  "old": "Tumen River",
+  "mod": "Tumen River"
+ },
+ "river:札牙黑河": {
+  "old": "Yaik",
+  "mod": "Ural River"
+ },
+ "river:鄂毕河": {
+  "old": "Ob",
+  "mod": "Ob"
+ },
+ "river:第聂伯河": {
+  "old": "Dnieper",
+  "mod": "Dnieper",
+  "note": "The trunk of the Rus' route \"from the Varangians to the Greeks\"; Kyiv stands on its right bank."
+ },
+ "river:底格里斯河": {
+  "old": "Tigris",
+  "mod": "Tigris"
+ },
+ "river:奥得河": {
+  "old": "Oder",
+  "mod": "Oder",
+  "note": "The main river of Silesia; Legnica lies on its tributary the Katzbach."
+ },
+ "river:谦河": {
+  "old": "Kem",
+  "mod": "Little Yenisei"
+ },
+ "river:怒江": {
+  "old": "Nu River",
+  "mod": "Nu River (Salween)"
+ },
+ "river:犁牛河": {
+  "old": "Drichu",
+  "mod": "Tongtian River (upper Yangtze)",
+  "note": "The upper Yangtze."
+ },
+ "river:红水河": {
+  "old": "Hongshui River",
+  "mod": "Hongshui River"
+ },
+ "river:郁水": {
+  "old": "Yu River",
+  "mod": "Xun River"
+ },
+ "river:泸水": {
+  "old": "Lu River",
+  "mod": "Jinsha River",
+  "note": "Part of the border between Song and Dali; Kublai crossed it on skin rafts in 1253."
+ },
+ "river:易北河": {
+  "old": "Elbe",
+  "mod": "Elbe"
+ },
+ "river:维斯瓦河": {
+  "old": "Vistula",
+  "mod": "Vistula",
+  "note": "Kraków stands on its upper course."
+ },
+ "river:涅瓦河": {
+  "old": "Neva",
+  "mod": "Neva",
+  "note": "In 1240 Prince Alexander of Novgorod defeated the Swedes here and earned the name \"Nevsky\"."
+ },
+ "river:忽章河": {
+  "old": "Syr Darya",
+  "mod": "Syr Darya",
+  "note": "Known in antiquity as the Jaxartes; Otrar and Khujand both stand on it, and north of it lay the Kipchak and Kangly steppe."
+ },
+ "river:托博尔河": {
+  "old": "Tobol",
+  "mod": "Tobol"
+ },
+ "river:西德维纳河": {
+  "old": "Western Dvina",
+  "mod": "Daugava"
+ },
+ "river:江": {
+  "old": "Yangtze",
+  "mod": "Yangtze",
+  "note": "The Great River. The Southern Song used the Yangtze as its natural moat, defending it in three theaters from upstream to downstream: Sichuan, Jinghu and Huainan."
+ },
+ "river:阿母河": {
+  "old": "Amu Darya",
+  "mod": "Panj (upper Amu Darya)"
+ },
+ "river:尼罗河": {
+  "old": "Nile",
+  "mod": "Nile (Rosetta branch)"
+ },
+ "river:约旦河": {
+  "old": "Jordan River",
+  "mod": "Jordan River"
+ },
+ "river:德涅斯特河": {
+  "old": "Dniester",
+  "mod": "Dniester"
+ },
+ "river:叶尔羌河": {
+  "old": "Yarkand River",
+  "mod": "Yarkand River"
+ },
+ "river:辽水": {
+  "old": "Liao River",
+  "mod": "Liao River"
+ },
+ "river:沅水": {
+  "old": "Yuan River",
+  "mod": "Yuan River"
+ },
+ "river:萨特莱杰河": {
+  "old": "Sutlej",
+  "mod": "Sutlej"
+ },
+ "river:多瑙河": {
+  "old": "Danube",
+  "mod": "Danube",
+  "note": "The traditional boundary between Byzantium and the steppe peoples; its middle course crosses the Hungarian plain, where the Mongol army crossed the ice in 1242."
+ },
+ "river:亦德儿河": {
+  "old": "Ider River",
+  "mod": "Ider River"
+ },
+ "river:汉水": {
+  "old": "Han River",
+  "mod": "Han River",
+  "note": "The pivot of the Southern Song's Jinghu defenses, where Xiangyang and Fancheng faced each other across the Han."
+ },
+ "river:顿河": {
+  "old": "Don",
+  "mod": "Don",
+  "note": "The western Kipchak Steppe."
+ },
+ "river:赣水": {
+  "old": "Gan River",
+  "mod": "Gan River"
+ },
+ "river:薛灵哥河": {
+  "old": "Selenge River",
+  "mod": "Selenge River",
+  "note": "The pastures of the Merkits."
+ },
+ "river:也儿的石河": {
+  "old": "Irtysh",
+  "mod": "Irtysh"
+ },
+ "river:德拉瓦河": {
+  "old": "Drava",
+  "mod": "Drava"
+ },
+ "river:赫尔曼德河": {
+  "old": "Helmand",
+  "mod": "Helmand",
+  "note": "The lifeline of Sistan."
+ },
+ "river:富良江": {
+  "old": "Phú Lương River",
+  "mod": "Red River",
+  "note": "The mother river of Đại Việt; Thăng Long stands on its right bank."
+ },
+ "river:阎牟那河": {
+  "old": "Yamuna",
+  "mod": "Yamuna",
+  "note": "Delhi stands on its west bank."
+ },
+ "river:大渡河": {
+  "old": "Dadu River",
+  "mod": "Dadu River",
+  "note": "The border between Song and Dali. Emperor Taizu of Song is said to have traced the Dadu River on a map with a jade axe and declared \"beyond this is not ours\" (a legend)."
+ },
+ "river:潢水": {
+  "old": "Huang River",
+  "mod": "Xar Moron",
+  "note": "The cradle of the Khitans; the Liao Supreme Capital lay north of it."
+ },
+ "river:杰纳布河": {
+  "old": "Chenab",
+  "mod": "Chenab"
+ },
+ "river:孔雀河": {
+  "old": "Kongque River",
+  "mod": "Kongque River"
+ },
+ "river:塔里木河": {
+  "old": "Tarim River",
+  "mod": "Tarim River"
+ },
+ "river:蒂萨河": {
+  "old": "Tisza",
+  "mod": "Tisza",
+  "note": "The Battle of Mohi of 1241 was fought on its tributary, the Sajó."
+ },
+ "river:混同江": {
+  "old": "Huntong River",
+  "mod": "Songhua River",
+  "note": "The Liao emperors often spent the spring here catching the \"first fish\"; in 1112 Aguda refused to dance for Emperor Tianzuo at the first-fish banquet."
+ },
+ "river:岷江": {
+  "old": "Min River",
+  "mod": "Min River (Sichuan)",
+  "note": "The water source of the Chengdu Plain; the Dujiangyan irrigation works stand on it."
+ },
+ "river:杰赫勒姆河": {
+  "old": "Jhelum",
+  "mod": "Jhelum"
+ },
+ "river:兰沧水": {
+  "old": "Lancang River",
+  "mod": "Lancang (upper Mekong)"
+ },
+ "river:纳尔瓦河": {
+  "old": "Narva",
+  "mod": "Narva"
+ },
+ "river:亦列河": {
+  "old": "Ili River",
+  "mod": "Ili River",
+  "note": "Almaliq lay in its valley, the center of the Ulus of Chagatai."
+ },
+ "river:桑干河": {
+  "old": "Sanggan River",
+  "mod": "Sanggan River",
+  "note": "Between the Liao Western and Southern Capital circuits."
+ },
+ "river:普里皮亚季河": {
+  "old": "Prypiat",
+  "mod": "Prypiat"
+ },
+ "river:雅鲁藏布江": {
+  "old": "Yarlung Tsangpo",
+  "mod": "Yarlung Tsangpo"
+ },
+ "river:摩拉瓦河": {
+  "old": "Morava",
+  "mod": "Morava (Serbia)"
+ },
+ "river:黔江": {
+  "old": "Qian River",
+  "mod": "Wu River"
+ },
+ "river:湘水": {
+  "old": "Xiang River",
+  "mod": "Xiang River"
+ },
+ "river:淮水": {
+  "old": "Huai River",
+  "mod": "Huai River",
+  "note": "The Huai. Under the Treaty of Shaoxing of 1141 the eastern stretch of the Song–Jin border ran down the midstream of the Huai. In Song times the Huai flowed past Sizhou and Chuzhou to the sea by its own channel; after the Yellow River turned south into the Huai, silt choked the lower course, Hongze Lake formed in Ming–Qing times, and the Huai came to flow into the Yangtze by way of the Sanhe."
+ },
+ "river:北顿涅茨河": {
+  "old": "Donets",
+  "mod": "Siverskyi Donets"
+ },
+ "river:奥卡河": {
+  "old": "Oka",
+  "mod": "Oka",
+  "note": "Ryazan and Murom stand on its banks; in 1237 Batu marched north along its frozen channel."
+ },
+ "river:杰斯纳河": {
+  "old": "Desna",
+  "mod": "Desna",
+  "note": "Chernihiv stands on its banks."
+ },
+ "river:湄公河": {
+  "old": "Mekong",
+  "mod": "Mekong"
+ },
+ "river:韦利卡亚河": {
+  "old": "Velikaya",
+  "mod": "Velikaya",
+  "note": "Pskov stands on its banks."
+ },
+ "river:闽江": {
+  "old": "Min River",
+  "mod": "Min River (Fujian)",
+  "note": "Formed where the Jianxi and Futunxi meet, it reaches the sea past Fuzhou."
+ },
+ "river:哈里斯河": {
+  "old": "Halys",
+  "mod": "Kızılırmak"
+ },
+ "river:萨瓦河": {
+  "old": "Sava",
+  "mod": "Sava"
+ },
+ "river:伊希姆河": {
+  "old": "Ishim",
+  "mod": "Ishim"
+ },
+ "river:嘉陵江": {
+  "old": "Jialing River",
+  "mod": "Jialing River",
+  "note": "The axis of the Southern Song's mountain-fortress defenses; Diaoyu Fortress commands the meeting of the Jialing, Qu and Fu rivers."
+ },
+ "river:龙川江": {
+  "old": "Longchuan River",
+  "mod": "Dong River"
+ },
+ "river:若水": {
+  "old": "Ruo River",
+  "mod": "Yalong River"
+ },
+ "river:右江": {
+  "old": "You River",
+  "mod": "You River",
+  "note": "The Southern Song set up a horse-buying office at the Hengshan Fort in Yongzhou, and Dali horses were shipped by way of the You River."
+ },
+ "river:溱水": {
+  "old": "Zhen River",
+  "mod": "Bei River"
+ },
+ "river:乌苏里江": {
+  "old": "Ussuri",
+  "mod": "Ussuri"
+ },
+ "river:普鲁特河": {
+  "old": "Prut",
+  "mod": "Prut"
+ },
+ "river:库班河": {
+  "old": "Kuban",
+  "mod": "Kuban"
+ },
+ "river:恒河": {
+  "old": "Ganges",
+  "mod": "Ganges"
+ },
+ "river:信度河": {
+  "old": "Indus",
+  "mod": "Indus",
+  "note": "In 1221 Genghis Khan defeated Jalal al-Din on its bank, and Jalal al-Din escaped by leaping his horse into the river."
+ },
+ "river:卢沟河": {
+  "old": "Lugou River",
+  "mod": "Yongding River",
+  "note": "The Lugou (Marco Polo) Bridge was built across it in the Mingchang era of the Jin (1192)."
+ },
+ "river:涅曼河": {
+  "old": "Neman",
+  "mod": "Neman"
+ },
+ "river:汉江": {
+  "old": "Han River",
+  "mod": "Han River (Korea)"
+ },
+ "river:幼发拉底河": {
+  "old": "Euphrates",
+  "mod": "Euphrates"
+ },
+ "river:河": {
+  "old": "Yellow River",
+  "mod": "Yellow River",
+  "note": "The Yellow River shifted course several times in the Song period. In 979 its lower course still followed the old channel engineered by Wang Jing of the Eastern Han (the Jingdong channel), passing Huazhou, Chanzhou, north of Yunzhou and north of Qizhou to reach the sea at Binzhou. In 1048 it broke its banks at the Shanghu dike in Chanzhou and turned north, reaching the sea near today's Tianjin by way of Daming Fu, Jizhou and Qianning Jun; the court then argued for more than fifty years over \"turning the river back east\". In the winter of 1128 Du Chong, custodian of the Eastern Capital, breached the dikes at Ligu Ford in Huazhou to stop the Jin army, and from then on the river flowed south into the Si and captured the Huai on its way to the sea; after the breach at Yangwu in 1194 the whole river went into the Huai, and it did not shift north again until 1855. The dashed line on the map is the modern lower Yellow River (which took over the Daqing River's channel after the Tongwaxiang shift of 1855)."
+ },
+ "river:南布格河": {
+  "old": "Southern Bug",
+  "mod": "Southern Bug"
+ },
+ "river:比亚斯河": {
+  "old": "Beas",
+  "mod": "Beas"
+ },
+ "river:鸭渌水": {
+  "old": "Yalu River",
+  "mod": "Yalu River",
+  "note": "The border between Liao and Goryeo; all three Liao invasions of Goryeo in 993–1019 crossed it."
+ },
+ "river:亦的勒河": {
+  "old": "Itil",
+  "mod": "Volga",
+  "note": "Itil in Turkic. The trade artery of Volga Bulgaria and the Kipchaks; Batu built Sarai on its lower course."
+ },
+ "river:卡马河": {
+  "old": "Kama",
+  "mod": "Kama"
+ },
+ "river:奥尔特河": {
+  "old": "Olt",
+  "mod": "Olt"
+ },
+ "river:黑水": {
+  "old": "Heishui",
+  "mod": "Amur"
+ },
+ "river:卡尔黑河": {
+  "old": "Karkheh",
+  "mod": "Karkheh"
+ },
+ "river:黑水河": {
+  "old": "Black River",
+  "mod": "Đà River (Vietnam)"
+ },
+ "river:斡难河": {
+  "old": "Onon River",
+  "mod": "Onon River",
+  "note": "Genghis Khan's birthplace; in 1206 he was enthroned as Great Khan at its source."
+ },
+ "river:桑格里乌斯河": {
+  "old": "Sangarius",
+  "mod": "Sakarya"
+ },
+ "river:库拉河": {
+  "old": "Kura",
+  "mod": "Kura",
+  "note": "Tbilisi spans both its banks."
+ },
+ "river:洛东江": {
+  "old": "Nakdong River",
+  "mod": "Nakdong River"
+ },
+ "river:左江": {
+  "old": "Zuo River",
+  "mod": "Zuo River"
+ },
+ "river:额尔古涅河": {
+  "old": "Ergune River",
+  "mod": "Argun",
+  "note": "Ergüne Qun, the legendary cradle of the Mongols, lay east of it."
+ },
+ "river:穆列什河": {
+  "old": "Mureș",
+  "mod": "Mureș"
+ },
+ "river:渭水": {
+  "old": "Wei River",
+  "mod": "Wei River",
+  "note": "The lifeline of Guanzhong."
+ },
+ "river:哈烈河": {
+  "old": "Hari River",
+  "mod": "Hari River",
+  "note": "Herat stands on its north bank."
+ },
+ "river:白玉河": {
+  "old": "White Jade River",
+  "mod": "Yurungkash River",
+  "note": "The jade-bearing river of Khotan."
+ },
+ "river:那密水": {
+  "old": "Zarafshan",
+  "mod": "Zarafshan",
+  "note": "Both Samarkand and Bukhara were irrigated from this river."
+ },
+ "river:泾水": {
+  "old": "Jing River",
+  "mod": "Jing River"
+ },
+ "river:沁水": {
+  "old": "Qin River",
+  "mod": "Qin River"
+ },
+ "river:托什干河": {
+  "old": "Toshkan River",
+  "mod": "Toshkan River"
+ },
+ "river:漳水": {
+  "old": "Zhang River",
+  "mod": "Zhang River"
+ },
+ "river:斡儿寒河": {
+  "old": "Orkhon River",
+  "mod": "Orkhon River",
+  "note": "Karakorum was built on the east bank of its upper course."
+ },
+ "river:滦河": {
+  "old": "Luan River",
+  "mod": "Luan River",
+  "note": "On its upper course lies the Jinlian Plain, and Kublai's city of Kaiping stood on its north bank."
+ },
+ "river:阿拉斯河": {
+  "old": "Aras",
+  "mod": "Aras"
+ },
+ "river:潭水": {
+  "old": "Tan River",
+  "mod": "Liu River"
+ },
+ "river:融江": {
+  "old": "Rong River",
+  "mod": "Rong River"
+ },
+ "river:那河": {
+  "old": "Na River",
+  "mod": "Nen River"
+ },
+ "river:阿克苏河": {
+  "old": "Aksu River",
+  "mod": "Aksu River"
+ },
+ "river:阿拉伯河": {
+  "old": "Shatt al-Arab",
+  "mod": "Shatt al-Arab"
+ },
+ "river:沃尔霍夫河": {
+  "old": "Volkhov",
+  "mod": "Volkhov",
+  "note": "Novgorod spans both its banks."
+ },
+ "river:丹水": {
+  "old": "Dan River",
+  "mod": "Dan River"
+ },
+ "river:济水（清河）": {
+  "old": "Ji River (Qing River)",
+  "mod": "old Ji River / Daqing River (the Yellow River's present course in Shandong follows it)",
+  "note": "The Ji flowed northeast from Liangshan Marsh past the Yun, Qi, Zi and Qing prefectures to the sea; the Song called it the Northern Qing River, and Liu Yu's Qi regime dredged the Lesser Qing River as well. Today's Yellow River in Shandong occupies its old channel."
+ },
+ "river:白沟河": {
+  "old": "Baigou River",
+  "mod": "Daqing and Hai rivers (the Song–Liao border river)",
+  "note": "Also called the Juma River or the Border River. After the Treaty of Chanyuan in 1004 it marked the eastern stretch of the Song–Liao border; Song dug ponds and marshes and planted elms and willows on the south bank to block the Liao cavalry, and a border market was opened at Xiongzhou. Tong Guan's northern expedition was defeated here in 1122."
+ },
+ "river:洛水": {
+  "old": "Luo River",
+  "mod": "Luo River",
+  "note": "Henan Fu, the Western Capital, straddles the Luo."
+ },
+ "river:伊水": {
+  "old": "Yi River",
+  "mod": "Yi River",
+  "note": "It flows through the Yi Gate (Longmen)."
+ },
+ "river:洛水（北）": {
+  "old": "Northern Luo River",
+  "mod": "Beiluo River",
+  "note": "It flows through the Fu, Fang and Tong prefectures."
+ },
+ "river:无定河": {
+  "old": "Wuding River",
+  "mod": "Wuding River",
+  "note": "It flows past Xiazhou, Yinzhou and Suizhou; this valley was fought over again and again by Song and Xia, and the fort of Yongle was built on its east bank in 1082."
+ },
+ "river:汝水": {
+  "old": "Ru River",
+  "mod": "Ru River"
+ },
+ "river:颍水": {
+  "old": "Ying River",
+  "mod": "Ying River",
+  "note": "It flows past Yingchang, Chenzhou and Shunchang into the Huai; the battles of Shunchang and Yingchang in 1140 were both fought on its banks."
+ },
+ "river:泗水": {
+  "old": "Si River",
+  "mod": "Si River (the old Si ran along today's Grand Canal)",
+  "note": "It flows past the Yan, Xu and Pi prefectures and Suqian to join the Huai at Qingkou. After the Yellow River turned south, its waters took over the Si on their way to the Huai."
+ },
+ "river:汶水": {
+  "old": "Wen River",
+  "mod": "Dawen River"
+ },
+ "river:滹沱河": {
+  "old": "Hutuo River",
+  "mod": "Hutuo River",
+  "note": "It flows south of the city of Zhending Fu."
+ },
+ "river:淯水": {
+  "old": "Yu River",
+  "mod": "Bai River",
+  "note": "The main river of the Nanyang Basin, which joins the Han at Xiangyang."
+ },
+ "river:澧水": {
+  "old": "Li River",
+  "mod": "Li River (Hunan)"
+ },
+ "river:资水": {
+  "old": "Zi River",
+  "mod": "Zi River"
+ },
+ "river:浙江": {
+  "old": "Zhe River",
+  "mod": "Qiantang River",
+  "note": "Lin'an stands on its north bank; the Qiantang tidal bore was one of the wonders of the realm."
+ },
+ "river:漓水": {
+  "old": "Li River",
+  "mod": "Li River (Guangxi)",
+  "note": "Linked to the Xiang River by the Lingqu Canal."
+ },
+ "river:湟水": {
+  "old": "Huangshui",
+  "mod": "Huangshui",
+  "note": "Gusiluo's cities of Qingtang, Miaochuan and Zongge all lay in the Huangshui valley."
+ },
+ "river:洮水": {
+  "old": "Tao River",
+  "mod": "Tao River",
+  "note": "The Xihe Circuit was named after Xizhou (Lintao) and Hezhou; Wang Shao's frontier campaign advanced along the Tao River."
+ },
+ "river:弱水": {
+  "old": "Ruoshui",
+  "mod": "Hei River (Ejin)",
+  "note": "It flows past Ganzhou and north into Juyan Lake; the Western Xia's Heishui City (Khara-Khoto) stood on its lower course."
+ },
+ "river:疏勒河": {
+  "old": "Shule River",
+  "mod": "Shule River"
+ },
+ "river:土兀剌河": {
+  "old": "Tuul River",
+  "mod": "Tuul River",
+  "note": "The Ong Khan of the Keraites kept his camp at the Black Forest on its banks, where Temüjin acknowledged the Ong Khan as his adoptive father."
+ },
+ "river:垂河": {
+  "old": "Chu River",
+  "mod": "Chu River",
+  "note": "Balasagun (Quz Ordu) stands on this river, the heartland of the Western Liao."
+ },
+ "river:怛逻斯河": {
+  "old": "Talas River",
+  "mod": "Talas River",
+  "note": "In 751 the Tang fought the Abbasids here. In 1269 Kaidu and others held their kurultai on its banks."
+ },
+ "river:木鹿河": {
+  "old": "Murghab River",
+  "mod": "Murghab River",
+  "note": "The water source of the oasis of Merv, whose people Tolui massacred after taking the city in 1221."
+ },
+ "river:喀布尔河": {
+  "old": "Kabul River",
+  "mod": "Kabul River"
+ },
+ "river:涅瓦湖": {
+  "old": "Lake Nevo",
+  "mod": "Lake Ladoga"
+ },
+ "river:夷播海": {
+  "old": "Lake Balkhash",
+  "mod": "Lake Balkhash",
+  "note": "The Ili flows into it; the steppe south of the lake was the pasture of the Karluks and the Western Liao."
+ },
+ "river:北海": {
+  "old": "Lake Baikal",
+  "mod": "Lake Baikal",
+  "note": "The Forest Peoples lived around it."
+ },
+ "river:奥涅加湖": {
+  "old": "Lake Onega",
+  "mod": "Lake Onega"
+ },
+ "river:塔纳湖": {
+  "old": "Lake Tana",
+  "mod": "Lake Tana",
+  "note": "The source of the Blue Nile."
+ },
+ "river:破釜塘": {
+  "old": "Pofu Tang",
+  "mod": "Hongze Lake (the present lake formed in Ming–Qing times)",
+  "note": "In Song times there were only small lakes such as Pofu Tang on the south bank of the Huai; after the Yellow River captured the Huai the waters backed up, today's Hongze Lake formed in Ming–Qing times, and the city of Sizhou sank beneath it."
+ },
+ "river:库苏古尔湖": {
+  "old": "Lake Khövsgöl",
+  "mod": "Lake Khövsgöl"
+ },
+ "river:湄沱湖": {
+  "old": "Lake Meituo",
+  "mod": "Lake Khanka"
+ },
+ "river:洞里萨湖": {
+  "old": "Tonlé Sap",
+  "mod": "Tonlé Sap",
+  "note": "Angkor lies on its north shore."
+ },
+ "river:普斯科夫湖": {
+  "old": "Lake Pskov",
+  "mod": "Lake Pskov"
+ },
+ "river:阔连海子": {
+  "old": "Lake Hulun",
+  "mod": "Lake Hulun",
+  "note": "The pastures of the Tatars."
+ },
+ "river:楚德湖": {
+  "old": "Lake Peipus",
+  "mod": "Lake Peipus",
+  "note": "In 1242 the Novgorod army drove back the Teutonic Order on its ice."
+ },
+ "river:太湖": {
+  "old": "Lake Tai",
+  "mod": "Lake Tai",
+  "note": "Anciently called Zhenze. \"When the harvest ripens in Suzhou and Huzhou, the realm has enough.\""
+ },
+ "river:腾格里海": {
+  "old": "Namtso",
+  "mod": "Namtso"
+ },
+ "river:焉耆海": {
+  "old": "Bosten Lake",
+  "mod": "Bosten Lake"
+ },
+ "river:彭蠡湖": {
+  "old": "Lake Pengli",
+  "mod": "Poyang Lake"
+ },
+ "river:色林错": {
+  "old": "Siling Co",
+  "mod": "Siling Co"
+ },
+ "river:哈尔乌苏湖": {
+  "old": "Khar-Us Lake",
+  "mod": "Khar-Us Lake"
+ },
+ "river:鄂陵湖": {
+  "old": "Ngoring Lake",
+  "mod": "Ngoring Lake"
+ },
+ "river:樊良湖": {
+  "old": "Fanliang Lake",
+  "mod": "Gaoyou Lake"
+ },
+ "river:扎陵湖": {
+  "old": "Gyaring Lake",
+  "mod": "Gyaring Lake"
+ },
+ "river:玛旁雍错": {
+  "old": "Manasarovar",
+  "mod": "Lake Manasarovar"
+ },
+ "river:白湖": {
+  "old": "White Lake",
+  "mod": "Lake Beloye"
+ },
+ "river:巴拉顿湖": {
+  "old": "Lake Balaton",
+  "mod": "Lake Balaton"
+ },
+ "river:捕鱼儿海": {
+  "old": "Lake Buir",
+  "mod": "Lake Buir",
+  "note": "The pastures of the Tatars."
+ },
+ "river:羊卓雍错": {
+  "old": "Yamdrok Tso",
+  "mod": "Yamdrok Tso"
+ },
+ "river:巢湖": {
+  "old": "Chao Lake",
+  "mod": "Chao Lake"
+ },
+ "river:塞凡湖": {
+  "old": "Lake Sevan",
+  "mod": "Lake Sevan"
+ },
+ "river:微山湖": {
+  "old": "Weishan Lake",
+  "mod": "Weishan Lake (formed in Ming–Qing times)"
+ },
+ "river:琵琶湖": {
+  "old": "Lake Biwa",
+  "mod": "Lake Biwa"
+ },
+ "river:洞庭湖": {
+  "old": "Dongting Lake",
+  "mod": "Dongting Lake",
+  "note": "In 1130–1135 Zhong Xiang and Yang Yao rose in revolt from the lake; Yue Fei suppressed them."
+ },
+ "river:艾比湖": {
+  "old": "Ebinur Lake",
+  "mod": "Ebinur Lake"
+ },
+ "river:斋桑泊": {
+  "old": "Lake Zaysan",
+  "mod": "Lake Zaysan"
+ },
+ "river:热海": {
+  "old": "Issyk-Kul",
+  "mod": "Issyk-Kul",
+  "note": "Issyk-Kul in Turkic; the heartland of the Western Liao."
+ },
+ "river:乌布苏湖": {
+  "old": "Uvs Lake",
+  "mod": "Uvs Lake"
+ },
+ "river:青海": {
+  "old": "Qinghai Lake",
+  "mod": "Qinghai Lake",
+  "note": "The western limit of Gusiluo's state."
+ },
+ "river:死海": {
+  "old": "Dead Sea",
+  "mod": "Dead Sea"
+ },
+ "river:乌鲁米耶湖": {
+  "old": "Lake Urmia",
+  "mod": "Lake Urmia",
+  "note": "Hulagu was buried on Shahi Island in the lake after his death."
+ },
+ "river:阿拉湖": {
+  "old": "Alakol",
+  "mod": "Lake Alakol"
+ },
+ "river:图兹湖": {
+  "old": "Lake Tuz",
+  "mod": "Lake Tuz (salt lake)"
+ },
+ "river:凡湖": {
+  "old": "Lake Van",
+  "mod": "Lake Van",
+  "note": "Manzikert lies on its north shore."
+ },
+ "river:巴塔伊赫沼泽": {
+  "old": "Batiha Marshes",
+  "mod": "Hammar Lake",
+  "note": "The great marshes of the lower Tigris and Euphrates."
+ },
+ "river:田吉兹湖": {
+  "old": "Lake Tengiz",
+  "mod": "Lake Tengiz"
+ },
+ "river:花剌子模海": {
+  "old": "Sea of Khwarazm",
+  "mod": "Aral Sea (old shoreline)",
+  "note": "The terminal lake of the Amu Darya and Syr Darya, now largely dried up."
+ },
+ "river:罗布淖尔": {
+  "old": "Lop Nur",
+  "mod": "Lop Nur"
+ },
+ "river:梁山泊": {
+  "old": "Liangshan Marsh",
+  "mod": "Liangshan–Dongping area, Shandong (silted up)",
+  "note": "Since the Five Dynasties the Yellow River had repeatedly broken its banks, joining the Ji and Wen rivers to form the \"eight-hundred-li\" Liangshan Marsh; The History of Song says Song Jiang and his band of thirty-six \"ran rampant through Qi and Wei\"; Song–Yuan storytellers and the Water Margin made this marsh their stronghold. It silted up gradually after the Yellow River moved south under the Jin."
+ },
+ "river:居延海": {
+  "old": "Juyan Lake",
+  "mod": "Ejin, Inner Mongolia",
+  "note": "The terminal lake of the Ruoshui; the Western Xia's Heishui City (Khara-Khoto) lay south of it."
+ },
+ "river:滇池": {
+  "old": "Lake Dian",
+  "mod": "Lake Dian",
+  "note": "Shanchan Fu of the Dali kingdom (today's Kunming) stood on Lake Dian."
+ },
+ "river:洱海": {
+  "old": "Erhai Lake",
+  "mod": "Erhai Lake",
+  "note": "The heartland of the Dali kingdom."
+ },
+ "river:镜泊": {
+  "old": "Jingpo Lake",
+  "mod": "Jingpo Lake"
+ },
+ "river:塘泊": {
+  "old": "Tangpo Marshes",
+  "mod": "Baiyangdian–Wen'an lowlands, Hebei",
+  "note": "Song channeled water along the frontier of Hebei East Circuit to link dozens of shallow lakes, eight hundred li from east to west, to stop the Liao cavalry; it was called the \"water Great Wall\". Baiyangdian is what remains of it."
+ },
+ "canal:汴河": {
+  "old": "Bian River",
+  "mod": "Tongji Canal section of the Sui–Tang Grand Canal",
+  "note": "The lifeline of the Northern Song: each year six million shi of grain from the southeast came to the capital along it. \"The Bian crosses the heart of the realm, takes in the Yellow River at its head, carries the tribute of the lakes and rivers, and brings the wealth of the Southern Sea.\" Neglected under the Southern Song because of the Song–Jin standoff, it silted up into dry land."
+ },
+ "canal:惠民河": {
+  "old": "Huimin River",
+  "mod": "Cai River",
+  "note": "One of the four canals of Kaifeng, leading south to the Chen, Ying and Shou prefectures."
+ },
+ "canal:广济河": {
+  "old": "Guangji River",
+  "mod": "Wuzhang River",
+  "note": "One of the four canals of Kaifeng, leading northeast to Liangshan Marsh and carrying grain from the Jingdong prefectures."
+ },
+ "canal:御河": {
+  "old": "Yu River",
+  "mod": "Wei River – South Canal",
+  "note": "The Yongji Canal of the Sui. Under the Northern Song it carried supplies for the Hebei frontier armies, and the northern course of the Yellow River often met it. Under the Jin it carried grain to Zhongdu."
+ },
+ "canal:楚扬运河": {
+  "old": "Chu–Yang Canal",
+  "mod": "Liyun Canal",
+  "note": "The ancient Hangou Canal, from Yangzhou to Chuzhou, linking the Yangtze and the Huai."
+ },
+ "canal:浙西运河": {
+  "old": "Zhexi Canal",
+  "mod": "Jiangnan Canal",
+  "note": "From Zhenjiang to Lin'an; the economic lifeline of the Southern Song."
+ },
+ "canal:浙东运河": {
+  "old": "Zhedong Canal",
+  "mod": "Zhedong Canal",
+  "note": "From Xixing to Mingzhou; in 1130 Emperor Gaozong fled along it to Mingzhou and out to sea."
+ },
+ "canal:灵渠": {
+  "old": "Lingqu Canal",
+  "mod": "Lingqu Canal",
+  "note": "Linking the Xiang and Li rivers, the waterway between Lingnan and the Central Plains."
+ },
+ "range:终南山（秦岭）": {
+  "old": "Zhongnan Mountains (Qinling)",
+  "mod": "Qinling Mountains",
+  "note": "The southern screen of Guanzhong, crossed by the Ziwu, Tangluo, Baoxie and Chencang roads. Under the Treaty of Shaoxing of 1141 the western stretch of the Song–Jin border ran through Dasan Pass on the northern slopes of the Qinling."
+ },
+ "range:巴山": {
+  "old": "Ba Mountains",
+  "mod": "Daba Mountains",
+  "note": "The barrier between Hanzhong and Sichuan, the second line of the Southern Song's Sichuan–Shaanxi defenses."
+ },
+ "range:太行山": {
+  "old": "Taihang Mountains",
+  "mod": "Taihang Mountains",
+  "note": "The divide between Hedong and Hebei, crossed by the \"eight passes of the Taihang\". In 1126 the two Jin columns came south on either side of the Taihang to converge on Bianjing."
+ },
+ "range:吕梁山": {
+  "old": "Lüliang Mountains",
+  "mod": "Lüliang Mountains",
+  "note": "The mountains of western Hedong, bordered on the west by the Yellow River, across which lay Western Xia."
+ },
+ "range:中条山": {
+  "old": "Zhongtiao Mountains",
+  "mod": "Zhongtiao Mountains",
+  "note": "The salt lake of Xiezhou lies at its northern foot, an important source of salt under the Song."
+ },
+ "range:恒山": {
+  "old": "Heng Mountains",
+  "mod": "Heng Mountains (Shanxi)",
+  "note": "The Northern Peak. The Northern Peak worshipped under the Song was Mount Damao northwest of Quyang, with its temple at Quyang in Dingzhou; worship moved to this range only under the Qing (1660). Under the Northern Song the land north of the range was Liao territory."
+ },
+ "range:五台山": {
+  "old": "Mount Wutai",
+  "mod": "Mount Wutai",
+  "note": "The seat of the bodhisattva Manjushri, near the Song–Liao border; Yang Ye and his sons defended this area against Liao."
+ },
+ "range:燕山": {
+  "old": "Yan Mountains",
+  "mod": "Yan Mountains",
+  "note": "The northern screen of the Youyan region, with the passes of Juyong, Gubeikou and Songting. The Sixteen Prefectures had passed to Liao as early as 938, and apart from holding Yanshan Fu briefly in 1123–1125 the Northern Song never controlled this line."
+ },
+ "range:阴山": {
+  "old": "Yin Mountains",
+  "mod": "Yin Mountains (Daqing Mountains)",
+  "note": "The barrier between the steppe south of the Gobi and the Ordos loop; in Liao and Jin times the pasture of the Ongud."
+ },
+ "range:横山": {
+  "old": "Hengshan Range",
+  "mod": "Hengshan (Baiyu Mountains)",
+  "note": "The focus of the Song–Xia struggle. The Hengshan line had good farmland, salt lakes and warlike tribes; the Song said \"take Hengshan and the Xia lose what they rely on\", and Xu Xi built Yongle in 1082 to seize it."
+ },
+ "range:贺兰山": {
+  "old": "Helan Mountains",
+  "mod": "Helan Mountains",
+  "note": "The western screen of the Western Xia capital, Xingqing Fu; the Western Xia imperial tombs lie at its eastern foot."
+ },
+ "range:天都山": {
+  "old": "Tiandu Mountains",
+  "mod": "Nanhua Mountains",
+  "note": "Li Yuanhao built a summer palace here; Song and Xia fought over it many times, and Song set up Xi'an Zhou here in 1099."
+ },
+ "range:陇山": {
+  "old": "Long Mountains",
+  "mod": "Liupan Mountains",
+  "note": "The barrier between Guanzhong and Longyou. In 1227 Genghis Khan spent the summer in the Liupan Mountains and died in the seventh month at his camp at Qingshui."
+ },
+ "range:祁连山": {
+  "old": "Qilian Mountains",
+  "mod": "Qilian Mountains",
+  "note": "The snowy range on the south side of the Hexi Corridor, also called the Southern Mountains."
+ },
+ "range:阿尔金山": {
+  "old": "Altyn-Tagh",
+  "mod": "Altyn-Tagh",
+  "note": "Between the Southern Route of the Western Regions and the Qaidam. The name is modern."
+ },
+ "range:昆仑山": {
+  "old": "Kunlun Mountains",
+  "mod": "Kunlun Mountains",
+  "note": "The southern mountains of Khotan, a source of jade."
+ },
+ "range:积石山": {
+  "old": "Jishi Mountains",
+  "mod": "Amne Machin",
+  "note": "The Great Jishi Mountains, around which the Yellow River bends."
+ },
+ "range:唐古拉山": {
+  "old": "Tanggula Mountains",
+  "mod": "Tanggula Mountains",
+  "note": "The northern Tibetan plateau. The name is modern."
+ },
+ "range:冈底斯山": {
+  "old": "Gangdise Mountains",
+  "mod": "Gangdise and Nyenchen Tanglha ranges",
+  "note": "The northern edge of the valleys of southern Tibet. The name is modern."
+ },
+ "range:雪山": {
+  "old": "Himalayas",
+  "mod": "Himalayas",
+  "note": "The great snowy range between Tibet on one side and India and Nepal on the other."
+ },
+ "range:葱岭": {
+  "old": "Pamirs",
+  "mod": "Pamirs",
+  "note": "The divide between the Western Regions and Transoxiana."
+ },
+ "range:天山": {
+  "old": "Tian Shan",
+  "mod": "Tian Shan",
+  "note": "The Qocho Uyghurs wintered at Qocho on the southern slopes of the Tian Shan and summered at Beiting (Beshbaliq) on the northern slopes."
+ },
+ "range:金山": {
+  "old": "Altai Mountains",
+  "mod": "Altai Mountains",
+  "note": "The homeland of the Naimans; Genghis Khan crossed it on his western campaign in 1219."
+ },
+ "range:杭爱山": {
+  "old": "Khangai Mountains",
+  "mod": "Khangai Mountains",
+  "note": "The heart of the steppe north of the Gobi and the divide between the Keraites and the Naimans; Karakorum lies at its eastern foot."
+ },
+ "range:不儿罕山": {
+  "old": "Burkhan Khaldun",
+  "mod": "Khentii Mountains",
+  "note": "The source of the Onon, Kherlen and Tuul, sacred mountain of the Mongols, where Temüjin, early in life, escaped a Merkit raid by hiding on the mountain."
+ },
+ "range:大兴安岭": {
+  "old": "Greater Khingan",
+  "mod": "Greater Khingan",
+  "note": "Liao and Jin built border trenches (the Jin \"Great Wall\") along its western side against the Tatars and Mongols. The name is modern."
+ },
+ "range:长白山": {
+  "old": "Changbai Mountains",
+  "mod": "Changbai Mountains",
+  "note": "The \"White Mountain\" of the Jurchens, revered by the Jin as the place where their dynasty arose; in 1172 its spirit was enfeoffed as the King of Efficacious Response Who Prospers the State."
+ },
+ "range:医巫闾山": {
+  "old": "Yiwulü Mountains",
+  "mod": "Yiwulü Mountains",
+  "note": "The famous mountain of Liaoxi, at whose foot Emperors Shizong and Jingzong of Liao and others were buried in the Xian and Qian tombs."
+ },
+ "range:泰山": {
+  "old": "Mount Tai",
+  "mod": "Mount Tai",
+  "note": "The Eastern Peak. In 1008 Emperor Zhenzong of Song, citing a \"heavenly text\", performed the feng sacrifice on Mount Tai, the last time it was ever held."
+ },
+ "range:华山": {
+  "old": "Mount Hua",
+  "mod": "Mount Hua",
+  "note": "The Western Peak, where Chen Tuan lived as a hermit."
+ },
+ "range:嵩山": {
+  "old": "Mount Song",
+  "mod": "Mount Song",
+  "note": "The Central Peak; the Songyang Academy was one of the four great academies of the Song."
+ },
+ "range:伏牛山": {
+  "old": "Funiu Mountains",
+  "mod": "Funiu Mountains",
+  "note": "Between Luoyang and the Nanyang Basin."
+ },
+ "range:大别山": {
+  "old": "Dabie Mountains",
+  "mod": "Dabie Mountains",
+  "note": "Between western Huainan and Hubei; the western end of the Southern Song's Huainan defenses."
+ },
+ "range:巫山": {
+  "old": "Wu Mountains",
+  "mod": "Wu Mountains",
+  "note": "Site of the Three Gorges of the Yangtze, the gateway of the Southern Song's Kuizhou Circuit."
+ },
+ "range:武陵山": {
+  "old": "Wuling Mountains",
+  "mod": "Wuling Mountains",
+  "note": "Home of the tribes of the Five Streams."
+ },
+ "range:雪峰山": {
+  "old": "Xuefeng Mountains",
+  "mod": "Xuefeng Mountains",
+  "note": "Between the Zi and Yuan rivers. The name is modern."
+ },
+ "range:五岭": {
+  "old": "Five Ridges",
+  "mod": "Nanling Mountains",
+  "note": "The five ridges of Yuecheng, Dupang, Mengzhu, Qitian and Dayu, the divide between Lingnan and the Central Plains."
+ },
+ "range:罗霄山": {
+  "old": "Luoxiao Mountains",
+  "mod": "Luoxiao Mountains",
+  "note": "Between the Jinghu South and Jiangnan West circuits. The name is modern."
+ },
+ "range:武夷山": {
+  "old": "Wuyi Mountains",
+  "mod": "Wuyi Mountains",
+  "note": "Between Fujian and Jiangxi; Zhu Xi built the Wuyi Retreat here to teach."
+ },
+ "range:仙霞岭": {
+  "old": "Xianxia Range",
+  "mod": "Xianxia Range",
+  "note": "The main road from Liangzhe into Fujian; in 1276 the Song court in flight went south through it to Fuzhou."
+ },
+ "range:庐山": {
+  "old": "Mount Lu",
+  "mod": "Mount Lu",
+  "note": "Site of the White Deer Grotto Academy, rebuilt by Zhu Xi in 1179."
+ },
+ "range:衡山": {
+  "old": "Mount Heng",
+  "mod": "Mount Heng (Hunan)",
+  "note": "The Southern Peak."
+ },
+ "range:岷山": {
+  "old": "Min Mountains",
+  "mod": "Min Mountains",
+  "note": "In northwestern Sichuan, the divide between Song and the Tibetan tribes."
+ },
+ "range:邛崃山": {
+  "old": "Qionglai Mountains",
+  "mod": "Qionglai Mountains",
+  "note": "The western edge of the Chengdu Plain, which the Song called the Western Mountains."
+ },
+ "range:大雪山": {
+  "old": "Daxue Mountains",
+  "mod": "Daxue Mountains",
+  "note": "The eastern edge of the western Sichuan plateau; Kublai passed this way on his march south to Dali in 1253. The name is modern."
+ },
+ "range:点苍山": {
+  "old": "Diancang Mountains",
+  "mod": "Cang Mountains",
+  "note": "On the west shore of Erhai Lake; the capital of the Dali kingdom stood with its back to these mountains."
+ },
+ "range:哀牢山": {
+  "old": "Ailao Mountains",
+  "mod": "Ailao Mountains",
+  "note": "Southeast of the heartland of the Dali kingdom. The name is modern."
+ },
+ "range:兴都库什山": {
+  "old": "Hindu Kush",
+  "mod": "Hindu Kush",
+  "note": "The great range between Tokharistan and the Kabul valley, crossed by the Ghaznavid and Ghurid kings to invade India; in 1222 Genghis Khan received Qiu Chuji (Changchun) at his camp south of the mountains."
+ },
+ "range:苏莱曼山": {
+  "old": "Sulaiman Mountains",
+  "mod": "Sulaiman Mountains",
+  "note": "Between the Afghan plateau and the Indus plain. The name is modern."
+ },
+ "range:科佩特山": {
+  "old": "Kopet Dag",
+  "mod": "Kopet Dag",
+  "note": "The northern edge of Khorasan; to its north lie the Karakum and the oasis of Khwarazm. The name is modern."
+ },
+ "range:厄尔布尔士山": {
+  "old": "Alborz",
+  "mod": "Alborz",
+  "note": "The barrier along the south shore of the Caspian, whose highest peak is Damavand. Alamut and the other Nizari castles were built in its western part."
+ },
+ "range:扎格罗斯山": {
+  "old": "Zagros Mountains",
+  "mod": "Zagros Mountains",
+  "note": "The divide between the Mesopotamian plain and the Iranian plateau; the Great Khorasan Road crossed it by way of Hamadan to Baghdad."
+ },
+ "range:托罗斯山": {
+  "old": "Taurus Mountains",
+  "mod": "Taurus Mountains",
+  "note": "The southern edge of Anatolia and once the traditional frontier between Byzantium and the Arabs; Cilician Armenia held its southern slopes."
+ },
+ "range:本都山": {
+  "old": "Pontic Mountains",
+  "mod": "Eastern Black Sea Mountains",
+  "note": "The mountains of the southern Black Sea coast, which separated the Empire of Trebizond from the Turks."
+ },
+ "range:大高加索山": {
+  "old": "Greater Caucasus",
+  "mod": "Greater Caucasus",
+  "note": "The natural barrier between the steppe and western Asia; Derbent on the Caspian at its eastern end was the only easy road. Jebe and Subutai crossed it northward in 1222."
+ },
+ "range:小高加索山": {
+  "old": "Lesser Caucasus",
+  "mod": "Lesser Caucasus",
+  "note": "Between Georgia and Armenia. The name is modern."
+ },
+ "range:黎巴嫩山": {
+  "old": "Mount Lebanon",
+  "mod": "Mount Lebanon range",
+  "note": "The County of Tripoli stood with its back to these mountains."
+ },
+ "range:汉志山地": {
+  "old": "Hejaz Mountains",
+  "mod": "Sarawat Mountains",
+  "note": "The mountains along the east coast of the Red Sea, with Mecca and Medina at their western foot. The name is modern."
+ },
+ "range:喀尔巴阡山": {
+  "old": "Carpathians",
+  "mod": "Carpathians",
+  "note": "The northeastern screen of the Hungarian plain; in 1241 Batu and Subutai crossed its passes by separate routes into Hungary."
+ },
+ "range:苏台德山": {
+  "old": "Sudetes",
+  "mod": "Sudetes",
+  "note": "Between Silesia and Bohemia; Legnica lies to the north. The name is modern."
+ },
+ "range:巴尔干山": {
+  "old": "Balkan Mountains",
+  "mod": "Balkan Mountains",
+  "note": "Anciently the Haemus, the backbone of Bulgaria, with Tarnovo at its northern foot."
+ },
+ "range:罗多彼山": {
+  "old": "Rhodopes",
+  "mod": "Rhodopes",
+  "note": "Between Thrace and Macedonia. The name is modern."
+ },
+ "range:迪纳拉山": {
+  "old": "Dinaric Alps",
+  "mod": "Dinaric Alps and Pindus",
+  "note": "The mountains of the western Balkans, running south into the Pindus; Serbia lay in the northern part and Epirus west of the Pindus. The name is modern."
+ },
+ "range:乌拉尔山": {
+  "old": "Ural Mountains",
+  "mod": "Ural Mountains",
+  "note": "The boundary between Europe and Asia; the Bashkirs lived in its southern foothills. The name is modern."
+ },
+ "range:吉尔吉斯山": {
+  "old": "Kyrgyz Range",
+  "mod": "Kyrgyz Range",
+  "note": "Between the Talas and Chu valleys. The name is modern."
+ },
+ "range:费尔干纳山": {
+  "old": "Fergana Range",
+  "mod": "Fergana Range",
+  "note": "The eastern edge of the Fergana Basin. The name is modern."
+ },
+ "range:突厥斯坦山": {
+  "old": "Turkestan Range",
+  "mod": "Turkestan and Alay ranges",
+  "note": "The southern edge of the Fergana Basin. The name is modern."
+ },
+ "range:塔尔巴哈台山": {
+  "old": "Tarbagatai Mountains",
+  "mod": "Tarbagatai Mountains",
+  "note": "Emil lies at its southern foot. The name is modern."
+ },
+ "range:阿拉套山": {
+  "old": "Alatau",
+  "mod": "Dzungarian Alatau",
+  "note": "The northern edge of the Ili valley, with Almaliq to its south. The name is modern."
+ },
+ "range:温迪亚山": {
+  "old": "Vindhya Range",
+  "mod": "Vindhya Range",
+  "note": "The divide between northern India and the Deccan. The name is modern."
+ },
+ "desert:大流沙": {
+  "old": "Great Flowing Sands",
+  "mod": "Taklamakan Desert",
+  "note": "The great desert between the Northern and Southern Routes of the Western Regions."
+ },
+ "desert:大漠": {
+  "old": "Gobi",
+  "mod": "Gobi Desert",
+  "note": "The Gobi between the steppes south and north of it, called the shaqi (sand and gravel) in Liao and Jin times."
+ },
+ "desert:平夏沙地": {
+  "old": "Pingxia Sands",
+  "mod": "Mu Us Desert",
+  "note": "The old land of the Pingxia Tanguts and the \"sea of sand\" between Song and Xia; Song armies marching beyond the frontier often failed for lack of water."
+ },
+ "desert:黑沙漠": {
+  "old": "Karakum",
+  "mod": "Karakum Desert",
+  "note": "Between Khorasan and Khwarazm; in 1221 Tolui led his army across it to attack Merv."
+ },
+ "desert:红沙漠": {
+  "old": "Kyzylkum",
+  "mod": "Kyzylkum Desert",
+  "note": "In 1220 Genghis Khan led the central army across it and appeared suddenly before Bukhara."
+ },
+ "desert:饥饿草原": {
+  "old": "Hungry Steppe",
+  "mod": "Betpak-Dala",
+  "note": "The desert steppe north of the Chu River. The name is modern."
+ },
+ "desert:卡维尔盐漠": {
+  "old": "Dasht-e Kavir",
+  "mod": "Dasht-e Kavir",
+  "note": "The great salt desert of the central Iranian plateau. The name is modern."
+ },
+ "desert:卢特荒漠": {
+  "old": "Dasht-e Lut",
+  "mod": "Dasht-e Lut",
+  "note": "The desert of eastern Iran. The name is modern."
+ },
+ "desert:叙利亚沙漠": {
+  "old": "Syrian Desert",
+  "mod": "Syrian Desert",
+  "note": "The desert between Damascus and Baghdad, roamed by Bedouin tribes."
+ },
+ "desert:内夫得沙漠": {
+  "old": "Nafud Desert",
+  "mod": "Nafud Desert",
+  "note": "Northern Arabia. The name is modern."
+ },
+ "desert:空旷之地": {
+  "old": "Empty Quarter",
+  "mod": "Rub' al Khali",
+  "note": "Southern Arabia. The name is modern."
+ },
+ "desert:西部沙漠": {
+  "old": "Western Desert",
+  "mod": "Libyan Desert",
+  "note": "West of the Nile. The name is modern."
+ },
+ "desert:努比亚沙漠": {
+  "old": "Nubian Desert",
+  "mod": "Nubian Desert",
+  "note": "Between Egypt and Nubia. The name is modern."
+ },
+ "desert:塔尔沙漠": {
+  "old": "Thar Desert",
+  "mod": "Thar Desert",
+  "note": "East of the Indus; the Rajput kingdoms held its eastern edge. The name is modern."
+ },
+ "event:李继捧献地": {
+  "old": "Li Jipeng surrenders his lands",
+  "mod": "Baichengzi, Jingbian, Shaanxi",
+  "yt": "982",
+  "note": "Li Jipeng, military governor of the Dingnan Circuit, came to the Song court and surrendered the five prefectures of Xia, Sui, Yin, You and Jing; his clansman Li Jiqian fled to Dijin Marsh and rebelled against Song, and the Western Xia problem began."
+ },
+ "event:喀喇汗入布哈拉": {
+  "old": "Kara-Khanids take Bukhara",
+  "mod": "Bukhara, Uzbekistan",
+  "yt": "October 999",
+  "note": "The Kara-Khanid Nasr broke into Bukhara and captured the last Samanid ruler; the Samanid dynasty ended, and Transoxiana was ruled by Turks from then on."
+ },
+ "event:藏经洞封闭": {
+  "old": "Library Cave sealed",
+  "mod": "Mogao Caves, Dunhuang, Gansu",
+  "yt": "c. 1000",
+  "note": "Cave 17 of the Mogao Caves at Dunhuang was sealed with more than 50,000 manuscripts and documents from the 4th to the 11th centuries; they were not discovered until 1900."
+ },
+ "event:澶渊之盟": {
+  "old": "Treaty of Chanyuan",
+  "mod": "Puyang, Henan",
+  "yt": "12th month, 1004",
+  "note": "Song and Liao agreed to be \"brother states\": Song paid 100,000 taels of silver and 200,000 bolts of silk a year, the border was fixed at the Baigou River, and both sides opened border markets. The peace between Song and Liao lasted 120 years."
+ },
+ "event:李公蕴迁都升龙": {
+  "old": "Lý Công Uẩn moves the capital to Thăng Long",
+  "mod": "Hanoi, Vietnam",
+  "yt": "1010",
+  "note": "Lý Thái Tổ, founder of the Lý dynasty, issued his Edict on the Transfer of the Capital and moved from Hoa Lư to Đại La, renaming it Thăng Long; it remained the capital of Vietnam for nearly eight hundred years."
+ },
+ "event:苏摩那特之劫": {
+  "old": "Sack of Somnath",
+  "mod": "Somnath, Gujarat, India",
+  "yt": "1025–1026",
+  "note": "Mahmud of Ghazni made a distant raid on the Shiva temple on India's west coast and carried off enormous treasure, leaving a deep wound in Indian history."
+ },
+ "event:西夏造字": {
+  "old": "Creation of the Tangut script",
+  "mod": "Yinchuan, Ningxia",
+  "yt": "1036",
+  "note": "Li Yuanhao had his minister Yeli Renrong create the Tangut script on the model of Chinese characters; its more than six thousand characters were used for official documents and the translation of Buddhist scriptures."
+ },
+ "event:元昊称帝": {
+  "old": "Li Yuanhao proclaims himself emperor",
+  "mod": "Yinchuan, Ningxia",
+  "yt": "10th month, 1038",
+  "note": "Li Yuanhao proclaimed himself emperor of the \"Great State of White and High\", with the dynastic name Great Xia; the Song called it Western Xia."
+ },
+ "event:庆历和议": {
+  "old": "Treaty of Qingli",
+  "mod": "Yinchuan, Ningxia",
+  "yt": "1044",
+  "note": "Yuanhao acknowledged himself a subject of Song, and Song each year \"bestowed\" 72,000 taels of silver, 153,000 bolts of silk and 30,000 jin of tea and opened border markets."
+ },
+ "event:商胡决口": {
+  "old": "Yellow River breach at Shanghu",
+  "mod": "east of Puyang, Henan",
+  "yt": "6th month, 1048",
+  "note": "The Yellow River broke through the Shanghu dike at Chanzhou and turned north, reaching the sea at Qianning Jun by way of Daming and Jizhou; for the next eighty years the Northern Song court argued without end over \"turning the river back\"."
+ },
+ "event:侬智高起兵": {
+  "old": "Nong Zhigao's uprising",
+  "mod": "Nanning, Guangxi",
+  "yt": "4th month, 1052",
+  "note": "Nong Zhigao of Quảng Nguyên Châu founded the state of Great Nan, took Yongzhou, swept down the Yu River taking eight prefectures in a row, and besieged Guangzhou for fifty-seven days."
+ },
+ "event:东西教会分裂": {
+  "old": "East–West Schism",
+  "mod": "Istanbul, Turkey",
+  "yt": "July 1054",
+  "note": "The papal legates and the patriarch of Constantinople excommunicated each other, and the Christian church formally split into Catholic and Orthodox."
+ },
+ "event:塞尔柱入巴格达": {
+  "old": "Seljuks enter Baghdad",
+  "mod": "Baghdad, Iraq",
+  "yt": "December 1055",
+  "note": "Answering the caliph's call, Tughril entered Baghdad, overthrew the Buyids and received the title of sultan; Sunni orthodoxy revived."
+ },
+ "event:王安石变法": {
+  "old": "Wang Anshi's New Policies",
+  "mod": "Kaifeng, Henan",
+  "yt": "1069–1085",
+  "note": "Emperor Shenzong made Wang Anshi assisting civil councillor, and new laws were enacted on green-sprout loans, hired service, state trade, the baojia militia and the reorganization of the armies; the factional struggle between reformers and conservatives lasted to the end of the Northern Song."
+ },
+ "event:方腊起义": {
+  "old": "Fang La rebellion",
+  "mod": "Weiping, Chun'an, Zhejiang",
+  "yt": "10th month, 1120 – 4th month, 1121",
+  "note": "Fang La, owner of a lacquer-tree plantation at Qingxi in Muzhou, rose in protest against the \"flower and rock convoys\", taking six prefectures and fifty-two counties; Tong Guan led the troops meant for the northern campaign south to suppress him."
+ },
+ "event:海上之盟": {
+  "old": "Alliance Conducted at Sea",
+  "mod": "Penglai, Shandong",
+  "yt": "1118–1120",
+  "note": "Song envoys sailed from Dengzhou to Liaodong to contact Jin, and the two agreed to attack Liao together."
+ },
+ "event:天祚帝被俘": {
+  "old": "Capture of Emperor Tianzuo",
+  "mod": "northeast of Ying County, Shanxi",
+  "yt": "2nd month, 1125",
+  "note": "Emperor Tianzuo of Liao was captured by the Jin general Wanyan Loushi east of Xincheng in Yingzhou, and the Liao came to an end."
+ },
+ "event:靖康之变": {
+  "old": "Jingkang Incident",
+  "mod": "Kaifeng, Henan",
+  "yt": "intercalary 11th month, 1126 – 4th month, 1127",
+  "note": "The Jin army took Bianjing, and in the third month of the next year carried off the emperors Huizong and Qinzong with consorts, imperial clansmen, ministers and craftsmen, more than three thousand people, to the north; the Northern Song came to an end."
+ },
+ "event:苗刘兵变": {
+  "old": "Miao–Liu mutiny",
+  "mod": "Hangzhou, Zhejiang",
+  "yt": "3rd month, 1129",
+  "note": "Miao Fu and Liu Zhengyan, commanders of the imperial escort, mutinied and forced Emperor Gaozong to abdicate; loyalist forces under Han Shizhong, Zhang Jun and others put down the mutiny."
+ },
+ "event:耶律大石称帝": {
+  "old": "Yelü Dashi proclaims himself emperor",
+  "mod": "Emin, Xinjiang",
+  "yt": "2nd month, 1132",
+  "note": "Yelü Dashi took the imperial throne at Emil with the title Gurkhan and the reign title Yanqing; historians call the state the Western Liao."
+ },
+ "event:定都临安": {
+  "old": "Lin'an becomes the capital",
+  "mod": "Hangzhou, Zhejiang",
+  "yt": "1138",
+  "note": "Emperor Gaozong of Song formally made Lin'an his temporary capital, establishing the capital of the Southern Song."
+ },
+ "event:朱仙镇班师": {
+  "old": "Recall from Zhuxian",
+  "mod": "Zhuxian, Kaifeng, Henan",
+  "yt": "7th month, 1140",
+  "note": "Yue Fei had advanced to Zhuxian Town, forty-five li from Bianjing, when he received twelve gold-lettered tablets in a single day and was forced to withdraw: \"ten years of effort thrown away in a day\"."
+ },
+ "event:岳飞遇害": {
+  "old": "Execution of Yue Fei",
+  "mod": "Hangzhou, Zhejiang",
+  "yt": "12th month, 1141 (January 1142)",
+  "note": "After the Treaty of Shaoxing, Yue Fei was put to death at the Fengbo Pavilion of the Court of Judicial Review on the trumped-up charge of mo xu you (\"perhaps there was\"); Yue Yun and Zhang Xian were killed at the same time."
+ },
+ "event:加兹尼焚城": {
+  "old": "Burning of Ghazni",
+  "mod": "Ghazni, Afghanistan",
+  "yt": "1151",
+  "note": "To avenge his brothers, Ala al-Din of the Ghurids burned the city of Ghazni for seven days and seven nights, earning the name \"the World-Burner\"."
+ },
+ "event:海陵迁燕": {
+  "old": "Wanyan Liang moves the capital to Yanjing",
+  "mod": "southwest Beijing",
+  "yt": "3rd month, 1153",
+  "note": "Wanyan Liang, the Prince of Hailing, moved the Jin capital to Yanjing and renamed it Daxing Fu (Zhongdu), shifting the center of Jurchen rule south."
+ },
+ "event:桑贾尔被俘": {
+  "old": "Capture of Sanjar",
+  "mod": "Balkh, Afghanistan",
+  "yt": "1153",
+  "note": "The Seljuk great sultan Sanjar was defeated and captured while campaigning against the Oghuz nomads and held prisoner for three years, and Khorasan fell into chaos."
+ },
+ "event:高丽武臣政变": {
+  "old": "Goryeo military coup",
+  "mod": "Kaesong, North Korea",
+  "yt": "8th month, 1170",
+  "note": "Jeong Jung-bu and other generals deposed King Uijong and killed the civil officials; military men then ruled for a century."
+ },
+ "event:萨拉丁废法蒂玛": {
+  "old": "Saladin ends the Fatimid Caliphate",
+  "mod": "Cairo, Egypt",
+  "yt": "September 1171",
+  "note": "At the Friday prayer in Cairo Saladin had the prayer said for the Abbasid caliph instead; the last Fatimid caliph, al-Adid, died of illness soon after, and the Shiite dynasty came to an end."
+ },
+ "event:萨拉丁收复耶路撒冷": {
+  "old": "Saladin recaptures Jerusalem",
+  "mod": "Jerusalem",
+  "yt": "October 1187",
+  "note": "Balian of Ibelin, defender of Jerusalem, opened the gates and surrendered; Saladin let the Christians of the city leave on payment of a ransom, in contrast to the Crusaders' massacre of 1099."
+ },
+ "event:铁木真称汗": {
+  "old": "Temüjin elected khan",
+  "mod": "Khentii, Mongolia",
+  "yt": "c. 1189",
+  "note": "The nobles of the Kiyad elected Temüjin khan."
+ },
+ "event:腓特烈一世溺亡": {
+  "old": "Frederick Barbarossa drowns",
+  "mod": "Silifke, Turkey",
+  "yt": "June 1190",
+  "note": "On the Third Crusade the Holy Roman Emperor Frederick I \"Barbarossa\" drowned in the Saleph River, and the great German army fell apart."
+ },
+ "event:镰仓幕府": {
+  "old": "Kamakura shogunate",
+  "mod": "Kamakura, Kanagawa, Japan",
+  "yt": "1192",
+  "note": "Minamoto no Yoritomo was appointed shogun and founded warrior government, with Kamakura and Kyoto forming a dual regime."
+ },
+ "event:黄河夺淮": {
+  "old": "Yellow River captures the Huai",
+  "mod": "Yuanyang, Xinxiang, Henan",
+  "yt": "8th month, 1194",
+  "note": "The Yellow River broke its banks at Yangwu and its main stream turned south, capturing the Si and entering the Huai; for more than six hundred years afterwards the Yellow River reached the sea through the Huai, whose lower course silted up, forming Hongze Lake."
+ },
+ "event:班朱尼河盟誓": {
+  "old": "Baljuna Covenant",
+  "mod": "lower Kherlen River, China–Mongolia border",
+  "yt": "summer 1203",
+  "note": "Defeated by the Ong Khan's surprise attack, Temüjin fell back to the Baljuna, where he and nineteen companions drank its muddy water and swore to share good and ill fortune."
+ },
+ "event:斡难河即位": {
+  "old": "Enthronement on the Onon",
+  "mod": "upper Onon River, Khentii, Mongolia",
+  "yt": "spring 1206",
+  "note": "Temüjin held a kurultai at the source of the Onon, raised the white standard of nine yak tails, and took the throne as Great Khan with the title Genghis Khan."
+ },
+ "event:德里苏丹国建立": {
+  "old": "Founding of the Delhi Sultanate",
+  "mod": "Delhi, India",
+  "yt": "1206",
+  "note": "Aybak, a slave commander of the Ghurids, made himself independent at Lahore and Delhi, founding the Delhi Sultanate (the Slave dynasty)."
+ },
+ "event:吴曦之变": {
+  "old": "Wu Xi's revolt",
+  "mod": "Lüeyang, Hanzhong, Shaanxi",
+  "yt": "1st month, 1207",
+  "note": "Wu Xi, deputy pacification commissioner of Sichuan, went over to Jin and took the title King of Shu; forty-one days later his officers An Bing and Yang Juyuan killed him, and the Kaixi northern expedition collapsed."
+ },
+ "event:畏兀儿归附": {
+  "old": "Uyghurs submit to the Mongols",
+  "mod": "Gaochang ruins, Turpan, Xinjiang",
+  "yt": "1209",
+  "note": "The idiqut of the Qocho Uyghurs killed the Western Liao resident official and sent envoys to submit to Genghis Khan, who acknowledged him as his fifth son."
+ },
+ "event:金迁汴京": {
+  "old": "Jin moves the capital to Bianjing",
+  "mod": "Kaifeng, Henan",
+  "yt": "5th month, 1214",
+  "note": "Emperor Xuanzong of Jin moved the capital to Bianjing over his ministers' objections; the Mongols used this as a pretext to come south again and took Zhongdu the next year."
+ },
+ "event:讹答剌事件": {
+  "old": "Otrar incident",
+  "mod": "Otrar ruins, Kazakhstan",
+  "yt": "1218",
+  "note": "Inalchuq, the Khwarazmian governor of Otrar, killed a caravan of 450 men sent by Genghis Khan, charging them as spies; when Genghis Khan sent envoys to demand redress, they too were killed, and so began the Mongol campaign in the west."
+ },
+ "event:摩诃末之死": {
+  "old": "Death of Muhammad II of Khwarazm",
+  "mod": "southeast shore of the Caspian Sea",
+  "yt": "December 1220",
+  "note": "Muhammad II, Shah of Khwarazm, pursued by Jebe and Subutai, fled to the island of Abeskun in the Caspian, where he died of illness with scarcely any clothes on his back."
+ },
+ "event:尼沙普尔屠城": {
+  "old": "Massacre of Nishapur",
+  "mod": "Nishapur, Iran",
+  "yt": "April 1221",
+  "note": "Genghis Khan's son-in-law Toquchar was killed before the walls, and his widow ordered the city massacred; it is recorded that not even cats and dogs were spared."
+ },
+ "event:长春真人西行": {
+  "old": "Changchun's journey west",
+  "mod": "southern foothills of the Hindu Kush, Afghanistan",
+  "yt": "1220–1223",
+  "note": "Answering a summons, the Quanzhen master Qiu Chuji traveled west; in the fourth month of 1222 he first met Genghis Khan at his camp south of the Hindu Kush, then accompanied the Khan on his way back north and preached to him on the journey, urging him to \"revere Heaven and love the people\" and \"purify the heart and curb desire\"; his disciple Li Zhichang wrote the Journey to the West of the Perfected Changchun."
+ },
+ "event:成吉思汗之死": {
+  "old": "Death of Genghis Khan",
+  "mod": "Qingshui, Tianshui, Gansu",
+  "yt": "7th month, 1227",
+  "note": "Genghis Khan died of illness on campaign against Xia at his camp in Qingshui County below the Liupan Mountains, ordering that his death be kept secret and leaving a plan to destroy Jin by passing through Song territory."
+ },
+ "event:高丽迁都江华": {
+  "old": "Goryeo moves the capital to Ganghwa",
+  "mod": "Ganghwa Island, Incheon, South Korea",
+  "yt": "7th month, 1232",
+  "note": "The powerful minister Choe U forced King Gojong to move the capital to Ganghwa Island, to resist the Mongols behind its strait."
+ },
+ "event:汴京之降": {
+  "old": "Surrender of Bianjing",
+  "mod": "Kaifeng, Henan",
+  "yt": "1st month, 1233",
+  "note": "After Emperor Aizong of Jin fled, Cui Li, commander at Bianjing, killed the ministers left in charge and opened the gates to the Mongols, and Subutai entered the city."
+ },
+ "event:和林建城": {
+  "old": "Founding of Karakorum",
+  "mod": "Kharkhorin, Övörkhangai, Mongolia",
+  "yt": "1235",
+  "note": "Ögedei built the city of Karakorum and the Palace of Ten Thousand Tranquillities by the Orkhon and set up post stations linking the whole empire."
+ },
+ "event:凉州会盟": {
+  "old": "Liangzhou meeting",
+  "mod": "Wuwei, Gansu",
+  "yt": "1247",
+  "note": "Sakya Pandita brought his nephew Phagpa to Liangzhou to meet the Mongol prince Köten; they settled the terms of Tibet's submission to the Mongols, and he wrote his Letter to the Tibetans urging clergy and laity everywhere to submit."
+ },
+ "event:革囊渡江": {
+  "old": "Crossing the river on skin rafts",
+  "mod": "Fengke, Yulong, Lijiang, Yunnan",
+  "yt": "10th month, 1253",
+  "note": "Kublai's army crossed the Jinsha River near Lijiang on sheepskin rafts; the Naxi chief Mailiang surrendered, and the army marched straight on Dali."
+ },
+ "event:鲁布鲁克抵和林": {
+  "old": "William of Rubruck reaches Karakorum",
+  "mod": "Kharkhorin, Övörkhangai, Mongolia",
+  "yt": "1253–1254",
+  "note": "King Louis IX of France sent the Franciscan William of Rubruck on a mission to the Mongols; he was received by Möngke and left a detailed account of his travels."
+ },
+ "event:开平建城": {
+  "old": "Founding of Kaiping",
+  "mod": "Shangdu, Zhenglan Banner, Inner Mongolia",
+  "yt": "1256",
+  "note": "Kublai had Liu Bingzhong choose a site east of Huanzhou and north of the Luan River to build Kaiping Fu as the seat from which he governed the Chinese lands."
+ },
+ "event:忽必烈即位": {
+  "old": "Kublai's accession",
+  "mod": "Shangdu, Zhenglan Banner, Inner Mongolia",
+  "yt": "3rd month, 1260",
+  "note": "Kublai held a kurultai at Kaiping and took the throne as khan, proclaiming the reign title Zhongtong and setting up a Central Secretariat on the Chinese model."
+ },
+ "event:拜占庭光复": {
+  "old": "Byzantines retake Constantinople",
+  "mod": "Istanbul, Turkey",
+  "yt": "July 1261",
+  "note": "The Nicaean general Alexios Strategopoulos, taking advantage of the absence of the Latin garrison, recaptured Constantinople in a night attack, and Michael VIII entered the city and was crowned."
+ },
+ "event:八思巴任国师": {
+  "old": "Phagpa appointed State Preceptor",
+  "mod": "Sakya, Shigatse, Tibet",
+  "yt": "1260–1264",
+  "note": "Kublai honored Phagpa as State Preceptor and in 1264 set up the Supreme Control Commission under him to administer Tibet and Buddhism throughout the realm; in 1269 Phagpa created the new Mongolian script."
+ },
+ "event:塔剌思会盟": {
+  "old": "Talas kurultai",
+  "mod": "Taraz, Kazakhstan",
+  "yt": "spring 1269",
+  "note": "Kaidu met Baraq, khan of the Chagatai, and the representatives of Möngke Temür, khan of the Golden Horde, on the Talas River; they divided Transoxiana among themselves and formed an alliance against Kublai."
+ },
+ "event:大元建号": {
+  "old": "Proclamation of the Great Yuan",
+  "mod": "Beijing",
+  "yt": "11th month, 1271",
+  "note": "Kublai took the dynastic name Great Yuan from the words \"Great indeed is the Primal Qian\" in the Book of Changes, and the next year renamed Zhongdu as Dadu."
+ },
+ "event:马可·波罗抵上都": {
+  "old": "Marco Polo reaches Shangdu",
+  "mod": "Shangdu, Zhenglan Banner, Inner Mongolia",
+  "yt": "summer 1275",
+  "note": "The Venetian Marco Polo, with his father and uncle, reached Shangdu by the Silk Road and was received by Kublai; he then served the Yuan for seventeen years."
+ },
+ "event:临安受降": {
+  "old": "Surrender of Lin'an",
+  "mod": "Hangzhou, Zhejiang",
+  "yt": "1st–3rd month, 1276",
+  "note": "Empress Dowager Xie presented the imperial seal and a letter of surrender; in the third month Bayan entered Lin'an, and Emperor Gong and Empress Dowager Quan were taken under escort to Dadu, the \"three palaces\" carried off north."
+ },
+ "route:耶律大石西迁": {
+  "old": "Yelü Dashi's march west",
+  "mod": "Inner Mongolia – Xinjiang – Kyrgyzstan – Uzbekistan",
+  "yt": "1124–1141",
+  "p": {
+   "夹山": "Jiashan",
+   "白达达": "White Tatars",
+   "可敦城": "Kedun City",
+   "金山东麓": "eastern foot of the Altai",
+   "高昌（假道）": "Qocho (passage granted)",
+   "叶密立": "Emil",
+   "虎思斡耳朵": "Quz Ordu",
+   "忽毡": "Khujand",
+   "卡特万": "Qatwan"
+  },
+  "note": "Discontented with Emperor Tianzuo, Yelü Dashi rode north in 1124 with two hundred horsemen to Kedun City and gathered the seven prefectures and eighteen tribes of the steppe north of the Gobi. Around 1130 he set out west, proclaimed himself emperor at Emil in 1132, entered Balasagun in 1134 and renamed it Quz Ordu, and after routing the Seljuks at Qatwan in 1141 dominated Central Asia."
+ },
+ "route:二帝北狩": {
+  "old": "The two emperors taken north",
+  "mod": "Kaifeng, Henan – Yilan, Heilongjiang",
+  "yt": "1127–1130",
+  "p": {
+   "开封": "Kaifeng",
+   "相州": "Xiangzhou",
+   "真定": "Zhending",
+   "燕京": "Yanjing",
+   "中京": "Central Capital",
+   "上京": "Supreme Capital",
+   "韩州": "Hanzhou",
+   "五国城": "Wuguo City"
+  },
+  "note": "In Jingkang 2 (1127) the Jin army took the emperors Huizong and Qinzong, with imperial clansmen, consorts and ministers, more than three thousand people, north through Yanjing and the Central Capital to the Supreme Capital, where they were presented as captives at the temple of Aguda; Huizong was named \"Duke of Befuddled Virtue\" and Qinzong \"Marquis of Double Befuddlement\". In 1130 they were moved to Wuguo City, where Huizong died in 1135."
+ },
+ "route:兀术搜山检海": {
+  "old": "Wuzhu's pursuit by land and sea",
+  "mod": "Jiangsu – Zhejiang – Jiangsu",
+  "yt": "1129–1130",
+  "p": {
+   "和州渡江": "crossing at Hezhou",
+   "建康": "Jiankang",
+   "广德": "Guangde",
+   "临安": "Lin'an",
+   "越州": "Yuezhou",
+   "明州": "Mingzhou",
+   "入海追击": "pursuit at sea",
+   "临安（北撤）": "Lin'an (withdrawing north)",
+   "平江": "Pingjiang",
+   "镇江": "Zhenjiang",
+   "黄天荡": "Huangtiandang"
+  },
+  "note": "In the winter of 1129 Wanyan Zongbi (Wuzhu) crossed the Yangtze, took Jiankang, and drove on Lin'an in pursuit of Emperor Gaozong; Gaozong took ship at Mingzhou and put to sea, and the Jin pursued him over three hundred li at sea before turning back. On the way back north he was trapped by Han Shizhong at Huangtiandang for forty-eight days."
+ },
+ "route:第一次十字军": {
+  "old": "First Crusade",
+  "mod": "Turkey – Syria – Lebanon – Jerusalem",
+  "yt": "1096–1099",
+  "p": {
+   "君士坦丁堡": "Constantinople",
+   "尼西亚": "Nicaea",
+   "多里留姆": "Dorylaeum",
+   "以哥念": "Iconium",
+   "赫拉克利亚": "Heraclea",
+   "安条克": "Antioch",
+   "的黎波里": "Tripoli",
+   "西顿": "Sidon",
+   "耶路撒冷": "Jerusalem",
+   "凯撒利亚": "Caesarea (Kayseri)",
+   "马拉什": "Marash"
+  },
+  "note": "In 1095 Pope Urban II called for the crusade at Clermont. The crusaders gathered at Constantinople in 1097 and crossed the strait; they took Nicaea, fought at Dorylaeum, crossed Anatolia, besieged Antioch for eight months, and took Jerusalem in July 1099."
+ },
+ "route:成吉思汗西征": {
+  "old": "Genghis Khan's western campaign",
+  "mod": "Mongolia – Kazakhstan – Uzbekistan – Afghanistan – Pakistan",
+  "yt": "1219–1225",
+  "p": {
+   "土兀剌河": "Tuul River",
+   "也儿的石河": "Irtysh",
+   "阿力麻里": "Almaliq",
+   "讹答剌": "Otrar",
+   "布哈拉": "Bukhara",
+   "撒马尔罕": "Samarkand",
+   "铁门": "Iron Gate",
+   "巴里黑": "Balkh",
+   "八鲁湾": "Parwan",
+   "申河": "Indus",
+   "塔什干": "Tashkent",
+   "土兀剌河·大斡耳朵": "Tuul River (Great Ordu)",
+   "兴都库什山南行营": "camp south of the Hindu Kush"
+  },
+  "note": "In 1219, using the Otrar incident as grounds, Genghis Khan led a great army west. He detached forces to besiege Otrar while he led the central army across the desert straight to Bukhara and Samarkand; in 1221 he went south in pursuit of Jalal al-Din as far as the Indus, in 1222 he received Qiu Chuji south of the Hindu Kush, and in 1225 he returned to Mongolia."
+ },
+ "route:哲别、速不台远征": {
+  "old": "Jebe and Subutai's expedition",
+  "mod": "Iran – Caucasus – Ukraine – Volga",
+  "yt": "1220–1224",
+  "p": {
+   "撒马尔罕": "Samarkand",
+   "梅尔夫": "Merv",
+   "尼沙普尔": "Nishapur",
+   "剌夷": "Rayy",
+   "哈马丹": "Hamadan",
+   "大不里士": "Tabriz",
+   "第比利斯": "Tbilisi",
+   "打耳班": "Derbent",
+   "阿兰": "Alania",
+   "钦察草原": "Kipchak Steppe",
+   "迦勒迦河": "Kalka River",
+   "伏尔加保加尔": "Volga Bulgaria",
+   "札牙黑河": "Yaik",
+   "锡尔河": "Syr Darya"
+  },
+  "note": "In 1220 Jebe and Subutai pursued Muhammad II of Khwarazm to the Caspian with 20,000 horsemen. They then went round the west side of the Caspian, defeated Georgia, crossed the Caucasus, crushed the Rus'–Kipchak allies at the Kalka River in 1223, and returned east past Volga Bulgaria, a journey of more than twelve thousand li."
+ },
+ "route:拔都西征": {
+  "old": "Batu's western campaign",
+  "mod": "Russia – Ukraine – Poland – Hungary",
+  "yt": "1236–1242",
+  "p": {
+   "不里阿耳": "Bolghar",
+   "梁赞": "Ryazan",
+   "科洛姆纳": "Kolomna",
+   "莫斯科": "Moscow",
+   "弗拉基米尔": "Vladimir",
+   "锡特河": "Sit River",
+   "科泽利斯克": "Kozelsk",
+   "钦察草原": "Kipchak Steppe",
+   "切尔尼戈夫": "Chernihiv",
+   "基辅": "Kyiv",
+   "弗拉基米尔-沃伦": "Volodymyr",
+   "喀尔巴阡山口": "Carpathian passes",
+   "莫希": "Mohi",
+   "佩斯": "Pest",
+   "渡多瑙河": "crossing the Danube",
+   "达尔马提亚": "Dalmatia",
+   "保加利亚": "Bulgaria",
+   "撒莱": "Sarai"
+  },
+  "note": "In 1235 Ögedei sent the eldest sons of the princes on a western campaign under Batu, with Subutai leading the vanguard. They destroyed Volga Bulgaria in 1236, overran the principalities of northeastern Rus' in the winter of 1237–1238, took Kyiv in 1240, and in 1241 invaded Poland and Hungary in two columns; in 1242, on news of Ögedei's death, they turned back east, and Batu founded the Golden Horde on the lower Volga."
+ },
+ "route:拜答儿北路军": {
+  "old": "Baidar's northern column",
+  "mod": "Poland – Czech Republic – Hungary",
+  "yt": "1241",
+  "p": {
+   "弗拉基米尔-沃伦": "Volodymyr",
+   "桑多梅日": "Sandomierz",
+   "克拉科夫": "Kraków",
+   "弗罗茨瓦夫": "Wrocław",
+   "列格尼卡": "Legnica",
+   "摩拉维亚": "Moravia",
+   "与拔都会师": "joins Batu"
+  },
+  "note": "Baidar and Qadan led a detached force into Poland, took Sandomierz and Kraków, wiped out the allied army of Duke Henry II of Silesia at Legnica, and then marched south through Moravia to join Batu."
+ },
+ "route:旭烈兀西征": {
+  "old": "Hulagu's western campaign",
+  "mod": "Mongolia – Iran – Iraq – Syria",
+  "yt": "1253–1260",
+  "p": {
+   "和林": "Karakorum",
+   "阿力麻里": "Almaliq",
+   "撒马尔罕": "Samarkand",
+   "渡阿母河": "crossing the Amu Darya",
+   "徒思": "Tus",
+   "阿拉穆特": "Alamut",
+   "哈马丹": "Hamadan",
+   "巴格达": "Baghdad",
+   "马拉盖": "Maragheh",
+   "哈兰": "Harran",
+   "阿勒颇": "Aleppo",
+   "大马士革": "Damascus",
+   "艾因贾鲁特（怯的不花）": "Ain Jalut (Kitbuqa)"
+  },
+  "note": "In 1253 Möngke sent Hulagu west. He destroyed the Nizari castles in 1256, took Baghdad and ended the Abbasid dynasty in 1258, and took Aleppo and Damascus in 1260; that year, on news of Möngke's death, he turned back east, leaving Kitbuqa to hold Syria; Kitbuqa was defeated by the Mamluks at Ain Jalut in September."
+ },
+ "route:拖雷假道灭金": {
+  "old": "Tolui's march through Song lands against Jin",
+  "mod": "Shaanxi – Sichuan – Hubei – Henan",
+  "yt": "1231–1232",
+  "p": {
+   "凤翔": "Fengxiang",
+   "大散关": "Dasan Pass",
+   "兴元": "Xingyuan",
+   "金州": "Jinzhou",
+   "房州": "Fangzhou",
+   "均州渡汉水": "crossing the Han at Junzhou",
+   "邓州": "Dengzhou",
+   "三峰山": "Sanfengshan"
+  },
+  "note": "Genghis Khan's last orders were to \"borrow a road through Song\" to outflank and destroy Jin. In 1231 Tolui marched south from Fengxiang, forcing his way through Song territory by Dasan Pass, Xingyuan and Jinzhou, then east along the Han into Jin Dengzhou; in the first month of 1232 he wiped out the main Jin army at Sanfengshan."
+ },
+ "route:忽必烈征大理": {
+  "old": "Kublai's conquest of Dali",
+  "mod": "Gansu – Sichuan – Yunnan",
+  "yt": "1253–1254",
+  "p": {
+   "临洮": "Lintao",
+   "忒剌（迭部）": "Tela (Têwo)",
+   "满陀城": "Mantuo City",
+   "大渡河": "Dadu River",
+   "白蛮地": "Baiman lands",
+   "革囊渡江": "crossing on skin rafts",
+   "大理": "Dali",
+   "鄯阐": "Shanchan"
+  },
+  "note": "In 1253, on Möngke's orders, Kublai set out from Lintao, crossed the western Sichuan plateau in three columns, crossed the Jinsha River on skin rafts, and entered Dali in the twelfth month; the next year Uriyangkhadai captured Duan Xingzhi at Shanchan, Dali came to an end, and the Mongols had the Southern Song strategically encircled."
+ },
+ "route:伯颜灭宋": {
+  "old": "Bayan's conquest of Song",
+  "mod": "Hubei – Anhui – Jiangsu – Zhejiang",
+  "yt": "1274–1276",
+  "p": {
+   "襄阳": "Xiangyang",
+   "郢州": "Yingzhou",
+   "沙洋": "Shayang",
+   "阳逻堡": "Yangluo",
+   "鄂州": "Ezhou",
+   "江州": "Jiangzhou",
+   "丁家洲": "Dingjiazhou",
+   "建康": "Jiankang",
+   "镇江": "Zhenjiang",
+   "常州": "Changzhou",
+   "平江": "Pingjiang",
+   "临安": "Lin'an"
+  },
+  "note": "In the ninth month of 1274 the Yuan put Bayan in command of an army of 200,000, which went down the Han from Xiangyang, crossed the Yangtze at Yangluo in the twelfth month, routed Jia Sidao at Dingjiazhou in the second month of 1275, and went on down the river to take Jiankang, Zhenjiang and Changzhou; in the first month of 1276 it reached Lin'an, and Empress Dowager Xie surrendered."
+ },
+ "route:宋行朝南逃": {
+  "old": "Flight of the Song court",
+  "mod": "Zhejiang – Fujian – Guangdong",
+  "yt": "1276–1279",
+  "p": {
+   "临安": "Lin'an",
+   "温州": "Wenzhou",
+   "福州": "Fuzhou",
+   "泉州": "Quanzhou",
+   "潮州": "Chaozhou",
+   "惠州": "Huizhou",
+   "井澳": "Jing'ao",
+   "碙洲": "Naozhou",
+   "崖山": "Yashan"
+  },
+  "note": "Before Lin'an fell, the princes Zhao Shi (Prince of Yi) and Zhao Bing (Prince of Guang) fled to Wenzhou. In the fifth month of 1276 Zhao Shi was made emperor (Duanzong) at Fuzhou; when the Yuan army entered Fujian at the end of the year, the court in flight sailed south to Quanzhou (where Pu Shougeng refused to admit it), Chaozhou and Huizhou. Duanzong died at Naozhou in 1278, and Lu Xiufu and others enthroned Zhao Bing and moved to Yashan."
+ },
+ "route:马可·波罗东来": {
+  "old": "Marco Polo's journey east",
+  "mod": "Israel – Iran – Afghanistan – Xinjiang – Gansu – Inner Mongolia",
+  "yt": "1271–1275",
+  "p": {
+   "阿卡": "Acre",
+   "阿亚斯": "Ayas",
+   "埃尔津詹": "Erzincan",
+   "大不里士": "Tabriz",
+   "伊斯法罕": "Isfahan",
+   "起儿漫": "Kerman",
+   "忽鲁谟斯": "Hormuz",
+   "锡斯坦": "Sistan",
+   "巴里黑": "Balkh",
+   "巴达哈伤": "Badakhshan",
+   "帕米尔": "Pamirs",
+   "喀什噶尔": "Kashgar",
+   "于阗": "Khotan",
+   "罗布": "Lop",
+   "沙州": "Shazhou",
+   "甘州": "Ganzhou",
+   "中兴府": "Zhongxing Fu",
+   "天德": "Tiande",
+   "上都": "Shangdu"
+  },
+  "note": "In 1271 Marco Polo set out from Acre with his father and uncle, passed through Cilician Armenia and Tabriz and went south to Hormuz; finding the ships there too flimsy, they turned overland, crossed the Pamirs, and went by Kashgar, Khotan, Lop, Shazhou and Ganzhou, reaching Shangdu in the summer of 1275."
+ },
+ "route:长春真人西行": {
+  "old": "Changchun's journey west",
+  "mod": "Shandong – Beijing – Mongolia – Xinjiang – Uzbekistan – Afghanistan",
+  "yt": "1220–1223",
+  "p": {
+   "莱州": "Laizhou",
+   "燕京": "Yanjing",
+   "居庸关": "Juyong Pass",
+   "呼伦湖畔": "shore of Lake Hulun",
+   "怯绿连河": "Kherlen River",
+   "镇海城": "Chinqai City",
+   "别失八里": "Beshbaliq",
+   "阿力麻里": "Almaliq",
+   "虎思斡耳朵": "Quz Ordu",
+   "撒马尔罕": "Samarkand",
+   "铁门": "Iron Gate",
+   "成吉思汗行营": "Genghis Khan's camp"
+  },
+  "note": "In 1220, summoned by Genghis Khan, the Quanzhen master Qiu Chuji set out from Laizhou with eighteen disciples, went north by Yanjing and out through Juyong Pass to the steppe, crossed the Altai and the Tian Shan, and in the fourth month of 1222 met Genghis Khan at his camp south of the Hindu Kush; he then went north with the Khan, preaching on the way \"revere Heaven and love the people\" and \"purify the heart and curb desire\", and returned east in 1223."
+ },
+ "capital:东京开封府": {
+  "old": "Kaifeng Fu (Eastern Capital)",
+  "mod": "Kaifeng, Henan",
+  "note": "The Northern Song capital, with three rings of walls (palace city, inner city and outer city); the Bian River ran through it and it had over a million people. Along the River during the Qingming Festival depicts its suburbs. It passed to Jin after the Jingkang Incident of 1127."
+ },
+ "capital:西京河南府": {
+  "old": "Henan Fu (Western Capital)",
+  "mod": "Luoyang, Henan",
+  "note": "The Northern Song's secondary capital, where many chief ministers lived in retirement; Sima Guang completed the Comprehensive Mirror for Aid in Government here."
+ },
+ "capital:南京应天府": {
+  "old": "Yingtian Fu (Southern Capital)",
+  "mod": "Shangqiu, Henan",
+  "note": "Where Emperor Taizu of Song began his rise (as military governor of Guide Jun); raised to the Southern Capital in 1014. Zhao Gou took the throne here in 1127, beginning the Southern Song."
+ },
+ "capital:北京大名府": {
+  "old": "Daming Fu (Northern Capital)",
+  "mod": "northeast of Daming, Hebei",
+  "note": "Raised to the Northern Capital in 1042 as a defense against Liao; a key stronghold of Hebei."
+ },
+ "capital:扬州（行在）": {
+  "old": "Yangzhou (temporary capital)",
+  "mod": "Yangzhou, Jiangsu",
+  "note": "Emperor Gaozong stayed here from the winter of 1127; when the Jin army made a lightning raid on Yangzhou in 1129, he fled across the Yangtze in panic."
+ },
+ "capital:越州（行在）": {
+  "old": "Yuezhou (temporary capital)",
+  "mod": "Shaoxing, Zhejiang",
+  "note": "Gaozong returned from the sea and stayed at Yuezhou in 1130; in 1131 he changed the reign title to Shaoxing and raised Yuezhou to Shaoxing Fu."
+ },
+ "capital:临安府（行在）": {
+  "old": "Lin'an Fu (temporary capital)",
+  "mod": "Hangzhou, Zhejiang",
+  "note": "Hangzhou was raised to Lin'an Fu in 1129 and formally made the temporary capital in 1138. The palace stood at the foot of Phoenix Hill, West Lake was the city's \"gold-melting pot\", and the population exceeded a million. It surrendered to the Yuan in 1276."
+ },
+ "capital:福州（行朝）": {
+  "old": "Fuzhou (court in flight)",
+  "mod": "Fuzhou, Fujian",
+  "note": "In the fifth month of 1276 Lu Xiufu and Zhang Shijie enthroned Emperor Duanzong here; at the end of the year, as the Yuan army approached, the court in flight took to the sea."
+ },
+ "capital:崖山（行朝）": {
+  "old": "Yashan (court in flight)",
+  "mod": "Yamen, Xinhui, Jiangmen, Guangdong",
+  "note": "In 1278 Zhang Shijie brought the boy emperor Zhao Bing here and built a temporary palace and thousands of barracks. The Battle of Yamen in the second month of 1279 ended the Song."
+ },
+ "capital:上京临潢府": {
+  "old": "Linhuang Fu (Supreme Capital)",
+  "mod": "Lindong, Bairin Left Banner, Inner Mongolia",
+  "note": "The early imperial capital of the Liao, divided into the imperial city in the north and the Chinese city in the south. The Liao emperors moved between seasonal camps and seldom lived in the capital. Taken by Jin in 1120."
+ },
+ "capital:中京大定府": {
+  "old": "Dading Fu (Central Capital)",
+  "mod": "Daming Town, Ningcheng, Inner Mongolia",
+  "note": "Built in 1007 by Emperor Shengzong of Liao on the old site of the Xi king's camp, on the model of Bianjing; Song envoys usually had their audiences with the Liao emperor here, and the Daming Pagoda still stands."
+ },
+ "capital:南京析津府": {
+  "old": "Xijin Fu (Southern Capital)",
+  "mod": "southwest Beijing",
+  "note": "The largest and richest of the five Liao capitals, also called Yanjing; Youdu Fu was renamed Xijin Fu in 1012."
+ },
+ "capital:东京辽阳府": {
+  "old": "Liaoyang Fu (Eastern Capital)",
+  "mod": "Liaoyang, Liaoning",
+  "note": "Originally the center of the Balhae remnant population; Gao Yongchang proclaimed himself emperor here in 1116 and Jin soon took it."
+ },
+ "capital:西京大同府": {
+  "old": "Datong Fu (Western Capital)",
+  "mod": "Datong, Shanxi",
+  "note": "Emperor Xingzong of Liao raised Yunzhou to the Western Capital in 1044 for his campaigns against Xia; the Huayan and Shanhua temples preserve Liao buildings."
+ },
+ "capital:燕京（北辽）": {
+  "old": "Yanjing (Northern Liao)",
+  "mod": "southwest Beijing",
+  "note": "Yelü Chun proclaimed himself emperor at Yanjing in 1122, founding the Northern Liao; at the end of the year Yanjing surrendered to Jin."
+ },
+ "capital:西平府（灵州）": {
+  "old": "Xiping Fu (Lingzhou)",
+  "mod": "Wuzhong, Ningxia",
+  "note": "Li Jiqian took Lingzhou in 1002, renamed it Xiping Fu and made it his capital."
+ },
+ "capital:兴庆府": {
+  "old": "Xingqing Fu",
+  "mod": "Yinchuan, Ningxia",
+  "note": "Li Deming built up Xingzhou at Huaiyuan Town from 1020; Li Yuanhao raised it to Xingqing Fu in 1033 and made it his capital when he proclaimed himself emperor in 1038; it was later renamed Zhongxing Fu. The Western Xia imperial tombs lie at the foot of the Helan Mountains in its western outskirts."
+ },
+ "capital:上京会宁府": {
+  "old": "Huining Fu (Supreme Capital)",
+  "mod": "Baicheng, Acheng, Harbin, Heilongjiang",
+  "note": "The Emperor's Camp of the Wanyan clan on the Anchuhu River, made the Supreme Capital in 1138. After Wanyan Liang moved the capital to Yanjing in 1153 it lost the title of capital, and its palaces were destroyed in 1157."
+ },
+ "capital:中都大兴府": {
+  "old": "Daxing Fu (Zhongdu)",
+  "mod": "southwest Beijing",
+  "note": "Wanyan Liang moved the capital to Yanjing in 1153 and enlarged it as Zhongdu on the model of Bianjing; the Lugou (Marco Polo) Bridge (1192) dates from this period. Taken by the Mongols in 1215, when its palaces were burned."
+ },
+ "capital:南京开封府（汴京）": {
+  "old": "Kaifeng Fu (Southern Capital, Bianjing)",
+  "mod": "Kaifeng, Henan",
+  "note": "Emperor Xuanzong of Jin moved the capital here in 1214 to escape the Mongols; the Mongols besieged it in 1232, a great epidemic broke out inside, and in 1233 its commander Cui Li surrendered to the Mongols."
+ },
+ "capital:蔡州": {
+  "old": "Caizhou",
+  "mod": "Runan, Henan",
+  "note": "The last refuge of Emperor Aizong of Jin; when the city fell in the first month of 1234, Aizong hanged himself in the Youlan Pavilion."
+ },
+ "capital:大名府（伪齐）": {
+  "old": "Daming Fu (Qi)",
+  "mod": "northeast of Daming, Hebei",
+  "note": "Here in 1130 Jin invested Liu Yu as emperor of Great Qi."
+ },
+ "capital:汴京（伪齐）": {
+  "old": "Bianjing (Qi)",
+  "mod": "Kaifeng, Henan",
+  "note": "Liu Yu moved his capital to Bianjing in 1132 and was deposed by Jin in 1137."
+ },
+ "capital:叶密立": {
+  "old": "Emil",
+  "mod": "Emin, Xinjiang",
+  "note": "A city built by Yelü Dashi on his march west, where he proclaimed himself emperor (Gurkhan) in 1132."
+ },
+ "capital:虎思斡耳朵": {
+  "old": "Quz Ordu",
+  "mod": "Burana, Tokmok, Kyrgyzstan",
+  "note": "Balasagun, the former Kara-Khanid capital, which Yelü Dashi occupied in 1134 and renamed Quz Ordu (\"the mighty palace tent\")."
+ },
+ "capital:曲雕阿兰": {
+  "old": "Khödöö Aral",
+  "mod": "Delgerkhaan, Khentii, Mongolia",
+  "note": "Khödöö Aral by the Kherlen, site of Genghis Khan's great ordu; Ögedei was enthroned here in 1229, and the Secret History of the Mongols was completed here (1240)."
+ },
+ "capital:哈剌和林": {
+  "old": "Karakorum",
+  "mod": "Kharkhorin, Övörkhangai, Mongolia",
+  "note": "Built by Ögedei on the Orkhon in 1235, with the Palace of Ten Thousand Tranquillities. William of Rubruck (1254) recorded a Chinese quarter, a Muslim quarter and a silver tree fountain."
+ },
+ "capital:和林（阿里不哥）": {
+  "old": "Karakorum (Ariq Böke)",
+  "mod": "Kharkhorin, Övörkhangai, Mongolia",
+  "note": "Ariq Böke proclaimed himself khan at Karakorum in 1260 and fought Kublai for the throne; with his cause exhausted, he surrendered in 1264."
+ },
+ "capital:开平（上都）": {
+  "old": "Kaiping (Shangdu)",
+  "mod": "Shangdu, Zhenglan Banner, Inner Mongolia",
+  "note": "In 1256 Kublai ordered Liu Bingzhong to build Kaiping Fu at Longgang on the upper Luan River; Kublai was enthroned here as khan in 1260, and it was raised to Shangdu in 1263, becoming the summer capital of the Yuan emperors."
+ },
+ "capital:中都（大都）": {
+  "old": "Zhongdu (Dadu)",
+  "mod": "Beijing",
+  "note": "Yanjing was renamed Zhongdu in 1264; from 1267 Liu Bingzhong built a new city northeast of the Jin Zhongdu, renamed Dadu in 1272."
+ },
+ "capital:撒莱": {
+  "old": "Sarai",
+  "mod": "Selitrennoye, north of Astrakhan, Russia",
+  "note": "Built by Batu on the lower Volga after his western campaign, the capital of the Golden Horde, where the Rus' princes had to come to receive their patents."
+ },
+ "capital:阿力麻里": {
+  "old": "Almaliq",
+  "mod": "Huocheng, Xinjiang",
+  "note": "A city in the Ili valley, the center of the Ulus of Chagatai."
+ },
+ "capital:叶密立（窝阔台系）": {
+  "old": "Emil (Ögedeid line)",
+  "mod": "Emin, Xinjiang",
+  "note": "The center of Ögedei's appanage, which Kaidu again made his base after 1269."
+ },
+ "capital:马拉盖": {
+  "old": "Maragheh",
+  "mod": "Maragheh, Iran",
+  "note": "Hulagu's capital, where in 1259 he had Nasir al-Din al-Tusi build an observatory."
+ },
+ "capital:大不里士": {
+  "old": "Tabriz",
+  "mod": "Tabriz, Iran",
+  "note": "Abaqa moved the capital here in 1265, and it became the capital of the Ilkhanate and a hub of trade between East and West."
+ },
+ "capital:南京（东夏）": {
+  "old": "Nanjing (Eastern Xia)",
+  "mod": "Chengzishan mountain fortress, Yanji, Jilin",
+  "note": "The capital Puxian Wannu built after moving east; taken by the Mongol prince Güyük in 1233."
+ },
+ "capital:羊苴咩城": {
+  "old": "Yangjumie City",
+  "mod": "old town of Dali, Yunnan",
+  "note": "The capital of the Dali kingdom, backed by the Diancang Mountains to the west and facing Erhai Lake to the east, with the Three Pagodas of Chongsheng Temple as its landmark. Taken by Kublai in 1253."
+ },
+ "capital:华闾": {
+  "old": "Hoa Lư",
+  "mod": "Hoa Lư, Ninh Bình, Vietnam",
+  "note": "The capital of the Đinh and Early Lê dynasties, ringed by hills and water and easy to defend."
+ },
+ "capital:升龙": {
+  "old": "Thăng Long",
+  "mod": "Hanoi, Vietnam",
+  "note": "In 1010 Lý Công Uẩn moved the capital from Hoa Lư to Đại La and renamed it Thăng Long; both the Lý and the Trần ruled from here."
+ },
+ "capital:因陀罗补罗": {
+  "old": "Indrapura",
+  "mod": "Đồng Dương, Đà Nẵng, Vietnam",
+  "note": "The northern capital of Champa, abandoned in 1000 for Vijaya in the south under pressure from Đại Cồ Việt."
+ },
+ "capital:毗阇耶": {
+  "old": "Vijaya",
+  "mod": "An Nhơn, Gia Lai, Vietnam",
+  "note": "The capital of Champa from 1000, called \"Xinzhou\" by the Song."
+ },
+ "capital:吴哥": {
+  "old": "Angkor",
+  "mod": "Angkor, Siem Reap, Cambodia",
+  "note": "The capital of the Khmer Empire; Suryavarman II built Angkor Wat (first half of the 12th century) and Jayavarman VII built Angkor Thom."
+ },
+ "capital:蒲甘": {
+  "old": "Pagan",
+  "mod": "Bagan, Myanmar",
+  "note": "A Buddhist city on the Irrawaddy with more than four thousand stupas and temples."
+ },
+ "capital:开京": {
+  "old": "Gaegyeong",
+  "mod": "Kaesong, North Korea",
+  "note": "The capital of Goryeo. The Song envoy Xu Jing, sent there in 1123, described its walls in his Illustrated Account of the Embassy to Goryeo in the Xuanhe Era."
+ },
+ "capital:江都（江华岛）": {
+  "old": "Gangdo (Ganghwa Island)",
+  "mod": "Ganghwa Island, Incheon, South Korea",
+  "note": "In 1232 Choe U forced the Goryeo king to move the capital to Ganghwa Island, which held out against the Mongols behind its strait for nearly forty years; the woodblocks of the Tripitaka Koreana were carved here."
+ },
+ "capital:平安京": {
+  "old": "Heian-kyō",
+  "mod": "Kyoto, Japan",
+  "note": "Residence of the emperor and political center of the Heian period, where The Tale of Genji and The Pillow Book were written."
+ },
+ "capital:镰仓": {
+  "old": "Kamakura",
+  "mod": "Kamakura, Kanagawa, Japan",
+  "note": "Seat of Minamoto no Yoritomo's shogunate, the center of Japan's first warrior government."
+ },
+ "capital:青唐城": {
+  "old": "Qingtang City",
+  "mod": "Xining, Qinghai",
+  "note": "The capital of Gusiluo's state, with Buddhist temples and crowds of merchants; a hub of the Qinghai branch of the Silk Road."
+ },
+ "capital:萨迦": {
+  "old": "Sakya",
+  "mod": "Sakya, Shigatse, Tibet",
+  "note": "Home of the mother monastery of the Sakya school. After 1264 Phagpa was invested by the Yuan to head the Supreme Control Commission, and the Sakya ponchen governed Ü-Tsang on behalf of the Yuan."
+ },
+ "capital:高昌": {
+  "old": "Qocho",
+  "mod": "Gaochang ruins, Turpan, Xinjiang",
+  "note": "The royal city of the Qocho Uyghurs, who wintered at Qocho and summered at Beiting."
+ },
+ "capital:于阗": {
+  "old": "Khotan",
+  "mod": "Hotan, Xinjiang",
+  "note": "The capital of the Viśa kingdom, taken by the Kara-Khanids around 1006."
+ },
+ "capital:八剌沙衮": {
+  "old": "Balasagun",
+  "mod": "Burana, Tokmok, Kyrgyzstan",
+  "note": "The seat of the Kara-Khanid great khan, a trading city in the Chu valley."
+ },
+ "capital:喀什噶尔": {
+  "old": "Kashgar",
+  "mod": "Kashgar, Xinjiang",
+  "note": "The secondary capital and religious center of the Kara-Khanids, capital of the Eastern Kara-Khanids after 1134."
+ },
+ "capital:撒马尔罕": {
+  "old": "Samarkand",
+  "mod": "Samarkand, Uzbekistan",
+  "note": "The largest city of Transoxiana, capital of the Western Kara-Khanids."
+ },
+ "capital:撒马尔罕（花剌子模）": {
+  "old": "Samarkand (Khwarazm)",
+  "mod": "Samarkand, Uzbekistan",
+  "note": "Muhammad II moved his capital here after taking it in 1212; it surrendered to Genghis Khan in March 1220."
+ },
+ "capital:布哈拉": {
+  "old": "Bukhara",
+  "mod": "Bukhara, Uzbekistan",
+  "note": "The Samanid capital; the Mausoleum of Ismail Samani is one of the oldest surviving Islamic buildings in Central Asia."
+ },
+ "capital:加兹尼": {
+  "old": "Ghazni",
+  "mod": "Ghazni, Afghanistan",
+  "note": "The Ghaznavid capital, where Mahmud built palaces with the wealth plundered from India; in 1151 the Ghurids burned the city for seven days."
+ },
+ "capital:拉合尔": {
+  "old": "Lahore",
+  "mod": "Lahore, Pakistan",
+  "note": "The late Ghaznavid capital, taken by the Ghurids in 1186."
+ },
+ "capital:菲鲁兹库赫": {
+  "old": "Firuzkuh",
+  "mod": "near the Minaret of Jam, Ghor, Afghanistan",
+  "note": "The summer capital of the Ghurids; all that remains at the site is the 65-meter Minaret of Jam."
+ },
+ "capital:德里": {
+  "old": "Delhi",
+  "mod": "Delhi, India",
+  "note": "The capital of the Delhi Sultanate, where Aybak began the Qutb Minar."
+ },
+ "capital:玉龙杰赤": {
+  "old": "Gurganj",
+  "mod": "Konye-Urgench, Turkmenistan",
+  "note": "The capital of Khwarazm, besieged for seven months in 1221 by Jochi, Chagatai and Ögedei; after it fell the Mongols diverted the Amu Darya to flood the city."
+ },
+ "capital:剌夷": {
+  "old": "Rayy",
+  "mod": "Rey, south of Tehran, Iran",
+  "note": "Tughril's seat after his advance west."
+ },
+ "capital:伊斯法罕": {
+  "old": "Isfahan",
+  "mod": "Isfahan, Iran",
+  "note": "The Seljuk capital under Malik-Shah, when the Friday Mosque was enlarged."
+ },
+ "capital:梅尔夫": {
+  "old": "Merv",
+  "mod": "Mary, Turkmenistan",
+  "note": "Sanjar's capital, called \"the mother of the world\"; its people were massacred by Tolui in 1221."
+ },
+ "capital:哈马丹": {
+  "old": "Hamadan",
+  "mod": "Hamadan, Iran",
+  "note": "The capital of the Seljuks of Iraq."
+ },
+ "capital:设拉子": {
+  "old": "Shiraz",
+  "mod": "Shiraz, Iran",
+  "note": "The capital of the Buyid regime in Fars, where Adud al-Dawla built a great library."
+ },
+ "capital:巴格达": {
+  "old": "Baghdad",
+  "mod": "Baghdad, Iraq",
+  "note": "The \"City of Peace\", seat of the Abbasid caliphs. The Buyids and then the Seljuks controlled the caliphs; in 1258 the city fell and the caliph was killed."
+ },
+ "capital:开罗": {
+  "old": "Cairo",
+  "mod": "Cairo, Egypt",
+  "note": "The new capital (the \"Victorious City\") founded by the Fatimids in 969, next to the old city of Fustat."
+ },
+ "capital:开罗（阿尤布）": {
+  "old": "Cairo (Ayyubids)",
+  "mod": "Cairo, Egypt",
+  "note": "Saladin built the Citadel of Cairo and enclosed the new and old cities within one wall."
+ },
+ "capital:开罗（马穆鲁克）": {
+  "old": "Cairo (Mamluks)",
+  "mod": "Cairo, Egypt",
+  "note": "The Mamluk capital, where Baybars re-established the Abbasid caliphate in 1261."
+ },
+ "capital:摩苏尔": {
+  "old": "Mosul",
+  "mod": "Mosul, Iraq",
+  "note": "The cradle of the Zengid dynasty; the Great Mosque of al-Nuri was begun in 1172."
+ },
+ "capital:阿勒颇（赞吉）": {
+  "old": "Aleppo (Zengids)",
+  "mod": "Aleppo, Syria",
+  "note": "Taken by Imad al-Din Zengi in 1128; Nur ad-Din made it his capital to unite Syria."
+ },
+ "capital:科尼亚": {
+  "old": "Konya",
+  "mod": "Konya, Turkey",
+  "note": "Iconium, capital of the Sultanate of Rum; Rumi settled here after 1228."
+ },
+ "capital:尼西亚（罗姆）": {
+  "old": "Nicaea (Rum)",
+  "mod": "İznik, Turkey",
+  "note": "Suleiman made it his capital; the Crusaders and Byzantines retook it in 1097."
+ },
+ "capital:阿拉穆特堡": {
+  "old": "Alamut Castle",
+  "mod": "northeast of Qazvin, Iran",
+  "note": "The \"Eagle's Nest\", headquarters of the Nizaris, with a rich library. It surrendered to Hulagu in 1256 and the castle was demolished."
+ },
+ "capital:耶路撒冷": {
+  "old": "Jerusalem",
+  "mod": "Jerusalem",
+  "note": "The capital of the Crusader Kingdom of Jerusalem; the Knights Templar made the al-Aqsa Mosque their headquarters."
+ },
+ "capital:阿卡": {
+  "old": "Acre",
+  "mod": "Acre, Israel",
+  "note": "Retaken by the Third Crusade, it became the de facto capital of the Kingdom of Jerusalem and the busiest port of the eastern Mediterranean coast."
+ },
+ "capital:安条克": {
+  "old": "Antioch",
+  "mod": "Antakya, Turkey",
+  "note": "The capital of the Principality of Antioch, stormed by Baybars in 1268, who massacred its people."
+ },
+ "capital:的黎波里": {
+  "old": "Tripoli",
+  "mod": "Tripoli, Lebanon",
+  "note": "The capital of the County of Tripoli."
+ },
+ "capital:埃德萨": {
+  "old": "Edessa",
+  "mod": "Şanlıurfa, Turkey",
+  "note": "The capital of the first Crusader state, taken by Zengi in 1144."
+ },
+ "capital:君士坦丁堡": {
+  "old": "Constantinople",
+  "mod": "Istanbul, Turkey",
+  "note": "The capital of the Eastern Roman Empire, \"the Queen of Cities\"; sacked by the Fourth Crusade in 1204 and recovered in 1261."
+ },
+ "capital:尼西亚": {
+  "old": "Nicaea",
+  "mod": "İznik, Turkey",
+  "note": "After 1204 the Laskaris family founded the Empire of Nicaea here, carrying on the Byzantine succession."
+ },
+ "capital:君士坦丁堡（拉丁帝国）": {
+  "old": "Constantinople (Latin Empire)",
+  "mod": "Istanbul, Turkey",
+  "note": "The capital of the Latin Empire; Hagia Sophia was for a time made a Catholic cathedral."
+ },
+ "capital:特尔诺沃": {
+  "old": "Tarnovo",
+  "mod": "Veliko Tarnovo, Bulgaria",
+  "note": "The capital of the Second Bulgarian Empire, built on hills in a bend of the Yantra River."
+ },
+ "capital:奥赫里德": {
+  "old": "Ohrid",
+  "mod": "Ohrid, North Macedonia",
+  "note": "Tsar Samuel's capital and the seat of the Bulgarian patriarch."
+ },
+ "capital:埃斯泰尔戈姆": {
+  "old": "Esztergom",
+  "mod": "Esztergom, Hungary",
+  "note": "Where Saint Stephen was crowned; the Hungarian royal seat and the see of the archbishop."
+ },
+ "capital:布达": {
+  "old": "Buda",
+  "mod": "Budapest, Hungary",
+  "note": "After the Mongol invasion Béla IV built a castle on the hill on the right bank of the Danube, which gradually became the royal seat."
+ },
+ "capital:克拉科夫": {
+  "old": "Kraków",
+  "mod": "Kraków, Poland",
+  "note": "Capital of Poland from 1038 and, in the period of fragmentation, seat of the senior duke; burned by the Mongols in 1241, it was rebuilt under Magdeburg law in 1257."
+ },
+ "capital:布拉格": {
+  "old": "Prague",
+  "mod": "Prague, Czech Republic",
+  "note": "The capital of the Přemyslid dynasty."
+ },
+ "capital:维也纳": {
+  "old": "Vienna",
+  "mod": "Vienna, Austria",
+  "note": "The Babenbergs moved their seat here in 1155, and Austria became a duchy the next year."
+ },
+ "capital:基辅": {
+  "old": "Kyiv",
+  "mod": "Kyiv, Ukraine",
+  "note": "\"The mother of the cities of Rus'\", where Yaroslav built the Cathedral of Saint Sophia. Stormed by Batu in December 1240 and its people massacred."
+ },
+ "capital:弗拉基米尔": {
+  "old": "Vladimir",
+  "mod": "Vladimir, Russia",
+  "note": "Andrei Bogolyubsky moved his capital here in 1157 and built the Golden Gate and the Dormition Cathedral; the title of grand prince moved north with him."
+ },
+ "capital:不里阿耳": {
+  "old": "Bolghar",
+  "mod": "Bolgar, Tatarstan, Russia",
+  "note": "The capital of Volga Bulgaria, where furs from the north were traded for silver from the south."
+ },
+ "capital:库塔伊西": {
+  "old": "Kutaisi",
+  "mod": "Kutaisi, Georgia",
+  "note": "The early capital of the Kingdom of Abkhazia and of united Georgia; Bagrati Cathedral was built in 1003."
+ },
+ "capital:第比利斯": {
+  "old": "Tbilisi",
+  "mod": "Tbilisi, Georgia",
+  "note": "David IV recovered it from its Muslim emir in 1122 and made it his capital."
+ },
+ "capital:阿尼": {
+  "old": "Ani",
+  "mod": "Ani ruins, east of Kars, Turkey",
+  "note": "The capital of Bagratid Armenia, called \"the city of a thousand churches\"."
+ },
+ "capital:西斯": {
+  "old": "Sis",
+  "mod": "Kozan, Turkey",
+  "note": "The capital of Cilician Armenia."
+ },
+ "capital:特拉比松": {
+  "old": "Trebizond",
+  "mod": "Trabzon, Turkey",
+  "note": "The capital of the Empire of Trebizond, a trading port on the southern Black Sea coast."
+ },
+ "capital:阿尔塔": {
+  "old": "Arta",
+  "mod": "Arta, Greece",
+  "note": "The capital of the Despotate of Epirus."
+ },
+ "pass:潼关": {
+  "old": "Tong Pass",
+  "mod": "Gangkou, Tongguan, Shaanxi",
+  "note": "The eastern gate of Guanzhong."
+ },
+ "pass:大散关": {
+  "old": "Dasan Pass",
+  "mod": "south of Baoji, Shaanxi",
+  "note": "The northern mouth of the Qinling, commanding the Chencang road into Hanzhong; after the Treaty of Shaoxing it marked the western stretch of the Song–Jin border."
+ },
+ "pass:仙人关": {
+  "old": "Xianren Pass",
+  "mod": "southeast of Hui County, Gansu",
+  "note": "A gateway into Sichuan, where Wu Jie crushed Wuzhu in 1134."
+ },
+ "pass:剑门关": {
+  "old": "Jianmen Pass",
+  "mod": "Jiange, Sichuan",
+  "note": "The natural stronghold of the Jinniu road: \"one man at the pass, and ten thousand cannot get through\"."
+ },
+ "pass:武关": {
+  "old": "Wu Pass",
+  "mod": "Wuguan, Danfeng, Shaanxi",
+  "note": "The southeastern gate of Guanzhong, leading to Shangzhou and Dengzhou."
+ },
+ "pass:虎牢关": {
+  "old": "Hulao Pass",
+  "mod": "Sishui, Xingyang, Henan",
+  "note": "The eastern gate of Luoyang."
+ },
+ "pass:井陉口": {
+  "old": "Jingxing Pass",
+  "mod": "Jingxing, Hebei",
+  "note": "One of the eight passes of the Taihang, the corridor between Hedong and Hebei."
+ },
+ "pass:雁门关": {
+  "old": "Yanmen Pass",
+  "mod": "Dai County, Shanxi",
+  "note": "On the western stretch of the Song–Liao border, where Yang Ye and his sons held off Liao."
+ },
+ "pass:宁武关": {
+  "old": "Ningwu Pass",
+  "mod": "Ningwu, Shanxi",
+  "note": "A pass west of Yanmen Pass; its fortress was built in the Ming (1450), and with Yanmen and Piantou it was one of the \"three outer passes\"."
+ },
+ "pass:居庸关": {
+  "old": "Juyong Pass",
+  "mod": "Changping, Beijing",
+  "note": "The northern gate of Youzhou. Aguda entered Yanjing through it in 1122; in 1213 the Mongols could not take it and went round through Zijing Pass."
+ },
+ "pass:古北口": {
+  "old": "Gubeikou",
+  "mod": "Miyun, Beijing",
+  "note": "On the route every Song envoy took to the Liao Central and Supreme capitals; Su Che, Shen Kuo and others wrote poems about it."
+ },
+ "pass:松亭关": {
+  "old": "Songting Pass",
+  "mod": "Xifengkou, Kuancheng, Hebei",
+  "note": "The main road from Pingzhou into the Xi lands and to the Liao Central Capital."
+ },
+ "pass:渝关": {
+  "old": "Yu Pass",
+  "mod": "east of Funing, Hebei",
+  "note": "Also written with the character 榆 (榆关); the eastern end of the Liaoxi corridor."
+ },
+ "pass:瓦桥关": {
+  "old": "Waqiao Pass",
+  "mod": "Xiong County, Hebei",
+  "note": "One of the \"three passes\" on the Song–Liao border; Song set up a border market at Xiongzhou for trade with Liao."
+ },
+ "pass:益津关": {
+  "old": "Yijin Pass",
+  "mod": "Bazhou, Hebei",
+  "note": "One of the three passes."
+ },
+ "pass:淤口关": {
+  "old": "Yukou Pass",
+  "mod": "Xin'an, Bazhou, Hebei",
+  "note": "One of the three passes, where Song dug ponds and marshes along the frontier to stop the Liao cavalry."
+ },
+ "pass:紫荆关": {
+  "old": "Zijing Pass",
+  "mod": "west of Yi County, Hebei",
+  "note": "The Puyin pass of the eight Taihang passes; in 1213 the Mongol general Jebe entered Hebei through it."
+ },
+ "pass:野狐岭": {
+  "old": "Yehuling",
+  "mod": "northwest of Wanquan, Zhangjiakou, Hebei",
+  "note": "The strategic heights between the Bashang grasslands and North China, where Jin and the Mongols fought their decisive battle in 1211."
+ },
+ "pass:克夷门": {
+  "old": "Keyimen",
+  "mod": "northern Helan Mountains, Shizuishan, Ningxia",
+  "note": "The northern gateway to Zhongxing Fu, the Western Xia capital."
+ },
+ "pass:昆仑关": {
+  "old": "Kunlun Pass",
+  "mod": "between Binyang and Xingning, Nanning, Guangxi",
+  "note": "The pass north of Yongzhou, through which Di Qing marched by night in 1053."
+ },
+ "pass:大庾岭": {
+  "old": "Dayu Pass",
+  "mod": "Dayu, Jiangxi – Nanxiong, Guangdong",
+  "note": "The Meiling road, the most important route between Lingnan and the Central Plains."
+ },
+ "pass:采石矶": {
+  "old": "Caishiji",
+  "mod": "Ma'anshan, Anhui",
+  "note": "One of the narrowest points of the lower Yangtze. Emperor Taizu of Song built a pontoon bridge here to cross the river and conquer the Southern Tang, and Yu Yunwen drove back the Jin here in 1161."
+ },
+ "pass:玉门关": {
+  "old": "Yumen Pass",
+  "mod": "east of Guazhou, Gansu",
+  "note": "The pass at the western end of Hexi."
+ },
+ "pass:阳关": {
+  "old": "Yang Pass",
+  "mod": "southwest of Dunhuang, Gansu",
+  "note": "The pass leading out onto the Southern Route of the Western Regions."
+ },
+ "pass:铁门": {
+  "old": "Iron Gate",
+  "mod": "Darband, south of Boysun, Uzbekistan",
+  "note": "The gorge leading from Transoxiana to Tokharistan (northern Afghanistan), through which both Xuanzang and Changchun (Qiu Chuji) passed."
+ },
+ "pass:开伯尔山口": {
+  "old": "Khyber Pass",
+  "mod": "west of Peshawar, Pakistan",
+  "note": "The main road from Kabul to the Indus plain, by which the Ghaznavid and Ghurid kings invaded India."
+ },
+ "pass:打耳班关": {
+  "old": "Gates of Derbent",
+  "mod": "Derbent, Dagestan, Russia",
+  "note": "The narrow passage between the Caspian Sea and the Caucasus, called the \"Caspian Gates\"; Jebe and Subutai went north through it in 1222."
+ },
+ "pass:奇里乞亚门": {
+  "old": "Cilician Gates",
+  "mod": "Gülek Pass, Taurus Mountains, Turkey",
+  "note": "The pass through the Taurus Mountains from the Anatolian plateau down to the Cilician plain; in 1097 the forces of Tancred and Baldwin of the First Crusade went south through it."
+ },
+ "pass:博斯普鲁斯海峡": {
+  "old": "Bosporus",
+  "mod": "Istanbul, Turkey",
+  "note": "The divide between Europe and Asia, whose southern mouth Constantinople commanded."
+ },
+ "pass:萨列夫河": {
+  "old": "Saleph River",
+  "mod": "Silifke, Turkey",
+  "note": "Emperor Frederick Barbarossa drowned crossing this river in 1190."
+ },
+ "people:黄头回纥": {
+  "old": "Yellow-headed Uyghurs",
+  "note": "Remnants of the Uyghurs who moved south after the fall of the Ganzhou Uyghurs, living south of Shazhou and north of the Qaidam; ancestors of today's Yugurs."
+ },
+ "people:仲云": {
+  "old": "Zhongyun",
+  "note": "A people of the Southern Mountains (Altyn-Tagh) who claimed descent from the Lesser Yuezhi."
+ },
+ "people:林木中百姓": {
+  "old": "Forest Peoples",
+  "note": "The forest hunting tribes around Lake Baikal (the Barghut, Buryat, Qori and others), who submitted to Jochi in 1207."
+ },
+ "people:蒙兀室韦": {
+  "old": "Mengwu Shiwei",
+  "note": "Living east of the Wangjian River (Ergune), ancestors of the Mongol tribe, who later moved west to the Onon."
+ },
+ "people:两林蛮": {
+  "old": "Lianglin tribes",
+  "note": "Tribes south of the Dadu River, wavering between Song and Dali."
+ },
+ "people:自杞·罗殿": {
+  "old": "Ziqi and Luodian",
+  "note": "States of the Wuman in today's western Guizhou and eastern Yunnan; Dali horses reached the Southern Song market at the Hengshan Fort in Yongzhou through their lands."
+ },
+ "people:溪洞诸蛮": {
+  "old": "Xidong tribes",
+  "note": "Tribes of the Five Streams region (today's western Hunan and eastern Guizhou), for whom Song set up loose-rein prefectures; the Peng family of Xizhou held office hereditarily."
+ },
+ "people:黎": {
+  "old": "Li people",
+  "note": "The Li communities of central Hainan."
+ },
+ "people:播州杨氏": {
+  "old": "Yang clan of Bozhou",
+  "note": "A family of native officials who had held Bozhou since the end of the Tang; it submitted to Song and at the end of the Southern Song helped defend Sichuan."
+ },
+ "people:虾夷": {
+  "old": "Ezo",
+  "note": "Ancestors of the Ainu in Hokkaido and northern Honshu, outside the rule of the Heian court."
+ },
+ "people:普鲁士人": {
+  "old": "Prussians",
+  "note": "Pagan tribes of the southern Baltic coast, conquered by the Teutonic Order from 1230."
+ },
+ "people:立陶宛诸部": {
+  "old": "Lithuanian tribes",
+  "note": "Baltic-speaking tribes, united by Mindaugas in the 1230s."
+ },
+ "people:爱沙人": {
+  "old": "Estonians",
+  "note": "A Finno-Ugric people; after 1219 the north was occupied by Denmark and the south conquered by the Livonian Brothers of the Sword."
+ },
+ "people:莫尔多瓦人": {
+  "old": "Mordvins",
+  "note": "A Finno-Ugric people between the Oka and the Volga, conquered by Batu in 1237."
+ },
+ "people:巴什基尔人": {
+  "old": "Bashkirs",
+  "note": "A Turkic-speaking people in the southern foothills of the Urals, absorbed into the Golden Horde in the 13th century."
+ },
+ "people:瓦拉几亚人": {
+  "old": "Vlachs",
+  "note": "A Romance-speaking people north of the Danube, dominated by the Cumans and Hungary and not yet organized as a state."
+ },
+ "people:库曼人（匈牙利）": {
+  "old": "Cumans (Hungary)",
+  "note": "In 1239 the Kipchak chief Köten fled into Hungary with forty thousand tents and settled on the plain of the Tisza."
+ },
+ "people:意大利诸邦": {
+  "old": "Italian states",
+  "note": "In southern Italy the Lombard princes, the Duchy of Naples and the Byzantine lands stood side by side until they were united in the Kingdom of Sicily after 1130."
+ },
+ "people:库尔德诸部": {
+  "old": "Kurdish tribes",
+  "note": "Kurdish tribes between the Zagros and Taurus mountains; Saladin came from one of them, the Rawadiya."
+ },
+ "people:阿拉伯诸部": {
+  "old": "Arab tribes",
+  "note": "The Bedouin tribes of Najd and the Hejaz, beyond the reach of the great dynasties."
+ },
+ "people:也门诸王朝": {
+  "old": "Yemeni dynasties",
+  "note": "Yemen was ruled in turn by the Sulayhids, the Ayyubids (1174–1229) and the Rasulids."
+ },
+ "people:努比亚（马库里亚）": {
+  "old": "Nubia (Makuria)",
+  "note": "A Christian kingdom on the middle Nile, with its capital at Dongola, bound to Egypt by long-standing trade treaties."
+ },
+ "people:拉其普特诸国": {
+  "old": "Rajput kingdoms",
+  "note": "The Rajput kingdoms of northern India (the Chauhans, Kannauj, the Paramaras, the Solankis and others), which resisted the Muslim advance east."
+ },
+ "people:波罗王朝": {
+  "old": "Pala dynasty",
+  "note": "A Buddhist dynasty of Bengal, patron of Nalanda and Vikramashila; later replaced by the Sena dynasty."
+ },
+ "people:朱罗王朝": {
+  "old": "Chola dynasty",
+  "note": "A Tamil dynasty of southern India, at its height under Rajaraja I and Rajendra I (r. 1014–1044); it sent an expedition against Srivijaya in 1025 and repeatedly sent envoys to Song."
+ },
+ "people:遮娄其": {
+  "old": "Chalukyas",
+  "note": "The Western Chalukyas of the Deccan, long rivals of the Cholas."
+ },
+ "people:昔兰尼加": {
+  "old": "Cyrenaica",
+  "note": "Eastern Libya, ravaged in the Fatimid period by the Banu Hilal, Banu Sulaym and other Arab tribes and controlled by nomads."
+ },
+ "region:燕云十六州": {
+  "old": "Sixteen Prefectures of Yan and Yun",
+  "mod": "today's Beijing, northern Tianjin, northern Hebei and northern Shanxi",
+  "tag": "ceded to the Khitans in 938",
+  "g": {
+   "山前七州": "Shanqian (7 prefectures)",
+   "山后九州": "Shanhou (9 prefectures)",
+   "瀛莫二州属宋": "Ying and Mo (held by Song)"
+  },
+  "note": "Ceded by Shi Jingtang in 936 and handed over to Liao in 938. In 959 Emperor Shizong of the Later Zhou recovered the Ying and Mo prefectures and the three passes; the other fourteen prefectures were never recovered under the Northern Song.\nIn 979, after destroying the Northern Han, Emperor Taizong of Song pressed on to attack Youzhou and was badly beaten at the Gaoliang River; in the Yongxi northern expedition of 986 three columns advanced together and were again defeated at Qigou Pass and Chenjia Valley. Song then turned to defense, digging ponds and marshes and planting elms and willows along the Hebei frontier.\nThe Treaty of Chanyuan of 1004 fixed the border at the Baigou River, and Song and Liao kept the peace for 120 years. Liao made Youzhou its Southern Capital, Xijin Fu, and in 1044 made Yunzhou its Western Capital, Datong Fu; the Sixteen Prefectures became the richest Chinese lands of the Liao.\nIn 1120 the Song–Jin \"Alliance Conducted at Sea\" provided for a joint attack on Liao, with the Sixteen Prefectures going to Song. Song attacked Yanjing twice and failed both times, and it was finally taken by the Jin army; in 1123 Jin handed back only Yanjing and the six prefectures of Zhuo, Yi, Tan, Shun, Jing and Ji, which Song bought back with a \"tax substitute\" of a million strings of cash a year, renaming Yanjing as Yanshan Fu.\nIn 1125 the Jin army came south and Guo Yaoshi, commanding at Yanshan Fu, went over to Jin; Song lost what it had just regained, and the Jingkang Incident soon followed."
+ }
+}
