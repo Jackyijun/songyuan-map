@@ -2,7 +2,7 @@
 
 [![中文](https://img.shields.io/badge/lang-%E4%B8%AD%E6%96%87-red.svg)](README.md) [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
 
-An interactive historical map of East Asia and Eurasia from the Song reunification to the fall of the Song at Yamen (979–1279), in Chinese and English: the territories of states, circuits, uluses and provinces at 61 snapshots, with historical and modern names for 640 prefectures and towns, from central Europe and Egypt in the west to Japan in the east. It also shows 99 capitals, 145 battles, 15 campaign routes, 30 passes, 58 events, 70 mountain ranges, more than a hundred rivers and lakes, the Sixteen Prefectures of Yan and Yun, and the peoples on the periphery.
+An interactive historical map of East Asia and Eurasia from the Song reunification to the fall of the Song at Yamen (979–1279), in Chinese and English: the territories of states, circuits, uluses and provinces at 62 snapshots, with historical and modern names for 640 prefectures and towns, from central Europe and Egypt in the west to Japan in the east. It also shows 99 capitals, 147 battles, 15 campaign routes, 30 passes, 58 events, 70 mountain ranges, more than a hundred rivers and lakes, the Sixteen Prefectures of Yan and Yun, and the peoples on the periphery.
 
 It continues the *Between Tang and Song* map (755–979): the colors of the states at the 979 snapshot match the last snapshot of that map.
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python run.py --open
 ```
 
-A full build takes about 15–20 minutes (a grid of over two million cells, 61 snapshots); then open the newly built `docs/index.html` in a browser.
+A full build takes about 15–20 minutes (a grid of over two million cells, 62 snapshots); then open the newly built `docs/index.html` in a browser.
 
 | Command | What it does |
 |---|---|
@@ -78,7 +78,7 @@ songyuan-map/
 │   └── .nojekyll
 ├── content/               ★ historical content (hand-written; most edits happen here)
 │   ├── seeds.txt          787 points (347 prefectures, 293 towns, 147 helper points): historical names, coordinates, modern locations, name changes
-│   ├── snaps.txt          61 snapshots: which unit and which state each point belongs to in that year
+│   ├── snaps.txt          62 snapshots: which unit and which state each point belongs to in that year
 │   ├── units.py           names and descriptions of 179 states, circuits, khanates and tribes
 │   ├── items.py           capitals, battles, passes, events, peoples
 │   ├── items_geo.py       mountains, rivers, lakes, canals, deserts, seas, the Sixteen Prefectures, campaign routes
