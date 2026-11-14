@@ -42,6 +42,7 @@ def main():
     data = json.loads((C.BUILD / "data.json").read_text(encoding="utf8"))
     check_english(geo, data, draft)
     geo, data = i18n.attach(geo, data)
+    geo["first"] = C.FIRST
     geo = json.dumps(geo, ensure_ascii=False, separators=(",", ":"))
     # 每个单位的浅色 / 深色主题颜色写成 CSS 变量 --u-<序号>
     light = " ".join(f"--u-{i}:{u['cl']};" for i, u in enumerate(data["units"]))

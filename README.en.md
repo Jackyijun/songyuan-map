@@ -214,6 +214,7 @@ Chinese is the source text; the English is kept under the same keys in `content/
 
 | Parameter | Default | Effect |
 |---|---|---|
+| `FIRST` | 1120 | the snapshot (year) the page opens on, written to `GEO.first`; in 1120 Song, Liao, Xia and Jin all coexist |
 | `EXTENT` / `BASE_EXTENT` | 14°E–146°E, 10°N–62°N / 25°W–180°E, 11°S–82°N | territory extent / base-map extent (the latter affects only the base map) |
 | `CELL` | 1.1 | grid cell size (projected units, about 7 km). Smaller is finer; time and memory grow roughly with the square |
 | `RANGE_MAJOR` / `RANGE_MINOR` | (8.0, 26) / (3.5, 18) | peak cost and half-width (km) of main and minor ranges |

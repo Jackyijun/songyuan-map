@@ -2,16 +2,18 @@
 """（可选）用无头浏览器给成品截图，并检查页面有没有脚本错误。
 
 需要：pip install playwright && python -m playwright install chromium
-  python tools/screenshot.py            截首屏节点（1141 年）的浅色、深色与手机宽度
+  python tools/screenshot.py            截首屏节点（config.FIRST，1120 年）的浅色、深色与手机宽度
 """
-import asyncio, os
+import asyncio, os, sys
 from pathlib import Path
 from playwright.async_api import async_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
 PAGE = (ROOT / "docs" / "index.html").as_uri()
 OUT = ROOT / "build"
-FIRST = "1141"
+sys.path.insert(0, str(ROOT / "src"))
+import config as C
+FIRST = str(C.FIRST)                # 首屏节点，与 GEO.first 一致
 
 async def main():
     OUT.mkdir(exist_ok=True)
